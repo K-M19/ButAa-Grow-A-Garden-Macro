@@ -1,3 +1,7 @@
+> [!WARNING]  
+> Currently macro can only work well with screen size 1920x1080 - 16:9, if you use lower number than required then I recommend you not to use.
+----
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow.A.Garden-Macro/refs/heads/main/IMG/B-Theme.png#gh-dark-mode-only" width="420">
     <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow.A.Garden-Macro/refs/heads/main/IMG/W-Theme.png#gh-light-mode-only" width="420">

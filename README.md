@@ -49,7 +49,7 @@
 
 
 ## Download and Usage
-### Download: [Version V.1.2](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V1.2/ButAa-Grow.A.Garden-Macro.V1.2.zip)  
+### Download: [Version V.1.3](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V1.2/ButAa-Grow.A.Garden-Macro.V1.3.zip)  
 
 ### Log: [Update](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Update.md)  
 

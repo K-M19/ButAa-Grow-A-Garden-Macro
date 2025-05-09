@@ -1,5 +1,5 @@
 > [!WARNING]  
-> Currently macro can only work well with screen size 1920x1080 - 16:9, if you use lower number than required then I recommend you not to use.
+> Currently macro can only work well with screen size 1920x1080 - 16:9 and use fullscreen.
 ----
 
 <p align="center">
@@ -36,6 +36,7 @@
 - Using this tool is entirely your choice and responsibility.  
 
 ## Read This Before Using
+- Please run the game in full screen mode before using macros.
 - The first time run the macro will (Access Denied), it will ask you to look at (config.ini) because that is where you set up the macro so that the macro understands what it should do.
 - Run the macro with admin privileges to ensure it always gets priority.  
 - Disable Windows Defender if necessary, or add the macro and its folder to the trusted or whitelist section in Windows Defender or other antivirus software.  
@@ -48,7 +49,7 @@
 
 
 ## Download and Usage
-### Download: [Version V.1.1](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V1.1/ButAa-Grow.A.Garden-Macro.V1.1.exe)  
+### Download: [Version V.1.2](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V1.2/ButAa-Grow.A.Garden-Macro.V1.2.zip)  
 
 ### Log: [Update](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Update.md)  
 

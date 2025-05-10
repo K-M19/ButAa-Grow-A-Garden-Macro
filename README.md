@@ -1,5 +1,5 @@
 > [!WARNING]  
-> Currently macro can only work well with screen size 1920x1080 - 16:9 and use fullscreen.
+> With version V2.0, the macro now operates smoothly with almost any screen resolution. However, I strongly recommend using HD resolution or higher (1280×720). The macro itself will run using a window at 800x600 resolution for optimal performance.
 ----
 
 <p align="center">
@@ -51,8 +51,7 @@
 - https://youtu.be/NxB8jVK9Vsk
 
 ## Download and Usage
-### Download: [Version V.1.3](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V1.3/ButAa-Grow.A.Garden-Macro.V1.3.zip)  
-
+### Download: [Version V.1.3](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V2.0/ButAa-Grow.A.Garden-Macro.V2.0.zip)  
 ### Log: [Update](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Update.md)  
 
 #### Menu

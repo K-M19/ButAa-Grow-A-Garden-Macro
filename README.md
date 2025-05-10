@@ -51,7 +51,7 @@
 - https://youtu.be/NxB8jVK9Vsk
 
 ## Download and Usage
-### Download: [Version V.1.3](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V2.0/ButAa-Grow.A.Garden-Macro.V2.0.zip)  
+### Download: [Version V.2.0](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V2.0/ButAa-Grow.A.Garden-Macro.V2.0.zip)  
 ### Log: [Update](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Update.md)  
 
 #### Menu

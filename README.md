@@ -54,6 +54,21 @@
 ### Download: [Version V.2.0](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V2.0/ButAa-Grow.A.Garden-Macro.V2.0.zip)  
 ### Log: [Update](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Update.md)  
 
+#### How to using
+1. **Run the Macro for the first time.**  
+2. **Open the `config.ini` file** and customize the settings to your preference.  
+3. **Go back to Roblox** and click the **GARDEN** box at the top of the screen.  
+4. **Align the straight line** using the **Shop Box** as a reference point. Use the images below as a guide:  
+
+<p>
+<img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow.A.Garden-Macro/refs/heads/main/IMG/Box/1.png" width="420">
+<img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow.A.Garden-Macro/refs/heads/main/IMG/Box/2.png" width="420">
+</p>
+
+5. **Run the Macro a second time.**  
+6. **Press `F5` to start.**  
+7. **Good night and enjoy your garden automation! 🌙**
+
 #### Menu
 - **F5**: To Start  
 - **F6**: To Menu/Fix Macro  

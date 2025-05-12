@@ -50,9 +50,10 @@
 ## Tutorial Video 
 - [Video Here](https://youtu.be/uNDvWYGcqdM)
 
-## Download and Usage
+## Download
 ### Download: [Version V.2.0](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V2.0/ButAa-Grow.A.Garden-Macro.V2.0.zip)  
 ### Log: [Update](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Update.md)  
+### CheckVirus by: [Virustotal](https://www.virustotal.com/gui/file/f44380bfc3ce7405f470f2fc83fb17b6d09865a83a65172ed1f31851e306ea95/relations)
 
 #### How to using
 1. **Run the Macro for the first time.**  

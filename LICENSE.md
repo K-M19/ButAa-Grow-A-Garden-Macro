@@ -39,7 +39,7 @@ You may not resell or redistribute the Software, passing it off as your own work
 **8. Update and Support Policy**
 Some projects have support, update, or warranty durations. They may be extended, delayed, or cancelled at any time without notice. There is no promise that the author will keep on providing updates or support.
 
-**9. DRM Notice – Bitraven Protection
+**9. DRM Notice – Bitraven Protection**
 Software authored or initiated by the author may be secured by DRM technology called Bitraven. The system prevents reverse-engineering, examination, or tampering with executable files (.exe,.btrv,.btrv2, scripts).
 Due to this security layer, antivirus software (including Microsoft Defender) may falsely identify the Software as malware. This is a natural behavior and not indicative of actual threat.
 Bitraven aims at anti-analysis and integrity protection, which may conflict with standard antivirus heuristics.
@@ -77,7 +77,7 @@ Use at user's own risk.
 **14. Disclaimer of Service Availability & Uptime**
 Should the Software use remote servers or an internet connection, no warranty is made about uptime or continuity of service. Interruptions or downtime may occur, and the author is not to be held liable.
 
-**15. Legal Use Disclaimer
+**15. Legal Use Disclaimer**
 The Software shall not be used for illicit purposes. Users are responsible for obeying relevant legislation. The author is exempted from legal consequences for misuse.
 
 **16. VirusTotal and Antivirus Detection Description**
@@ -92,7 +92,7 @@ This is due to the fact that Bitraven DRM has been applied, which includes:
 > Unfortunately, these techniques act like malicious behavior to malware-like engines within the view of heuristic-based antivirus programs.
 > Such messages are expected to occur and do not necessarily point toward actual safety within the Software.
 
-**17. Privacy Clause Tamper Protection
+**17. Privacy Clause Tamper Protection**
 Even if such a license is modified, any term regarding user privacy, security, or data protection (including clause 13) shall remain in full effect and shall not be deleted, ignored, or rewritten under any condition.
 
 **18. License Expiration and Update Responsibility**

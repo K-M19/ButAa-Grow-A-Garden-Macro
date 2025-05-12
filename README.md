@@ -47,14 +47,15 @@
 - First of all, I often receive complaints and questions about this issue, most of which are along the lines of: *"Is your software a virus?"*   
 - DRM(Bitraven),Maybe windows will detect the software protected by Bitraven as a virus because I focus on information security of data ".ExE or Script or open executable files like .btrv", it focuses on not being analyzed by other software or software that intends to analyze and dissect deep into the core of the software or software protected by Bitraven, so it will always be detected by windows or anti-virus software, I think this is the best way to protect my personal software from being scrutinized or cracked, there is nothing more fun than creating personal software that ensures safety for everyone but is considered a virus :C "sometimes it is a monument of honor to be considered that :D"
 
-## Tutorial Video 
-- [Video Here](https://youtu.be/uNDvWYGcqdM)
-
 ## Download
+**NOTE**
+Before you click to download or use the software please read through the [licenses and terms](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/LICENSE.md), and you accept licenses and terms.
 ### Download: [Version V.2.0](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V2.0/ButAa-Grow.A.Garden-Macro.V2.0.zip)  
 ### Log: [Update](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Update.md)  
 ### CheckVirus by: [Virustotal](https://www.virustotal.com/gui/file/f44380bfc3ce7405f470f2fc83fb17b6d09865a83a65172ed1f31851e306ea95/relations)
 
+### Tutorial: 
+### [Video](https://youtu.be/uNDvWYGcqdM)
 #### How to using
 1. **Run the Macro for the first time.**  
 2. **Open the `config.ini` file** and customize the settings to your preference.  
@@ -74,5 +75,3 @@
 - **F5**: To Start  
 - **F6**: To Menu/Fix Macro  
 - **F8**: To Exit  
-
-

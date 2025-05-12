@@ -62,8 +62,8 @@ This Software is very much focused on user privacy. It does not transfer or acce
 - Keystrokes
 - Personal files or system logs
 
-> The Software contains no Remote Access Trojan (RAT) or other malicious material.
-> User data is all local except where stated otherwise.
+The Software contains no Remote Access Trojan (RAT) or other malicious material.
+User data is all local except where stated otherwise.
 
 **13. Disclaimer of Responsibility for Software Conflicts and System Errors**
 The author is not responsible for:
@@ -88,9 +88,9 @@ This is due to the fact that Bitraven DRM has been applied, which includes:
 - Code obfuscation
 - Anti-disassembly techniques
 
-> They are needed to prevent against reverse engineering and illegal scrutiny.
-> Unfortunately, these techniques act like malicious behavior to malware-like engines within the view of heuristic-based antivirus programs.
-> Such messages are expected to occur and do not necessarily point toward actual safety within the Software.
+They are needed to prevent against reverse engineering and illegal scrutiny.
+Unfortunately, these techniques act like malicious behavior to malware-like engines within the view of heuristic-based antivirus programs.
+Such messages are expected to occur and do not necessarily point toward actual safety within the Software.
 
 **17. Privacy Clause Tamper Protection**
 Even if such a license is modified, any term regarding user privacy, security, or data protection (including clause 13) shall remain in full effect and shall not be deleted, ignored, or rewritten under any condition.

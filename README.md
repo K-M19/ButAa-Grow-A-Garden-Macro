@@ -86,3 +86,6 @@ Before you click to download or use the software please read through the [licens
 - **F2**: Test FixCam
 - **F3**: Test to Seeds Shop
 - **F4**: Test to Gear Shop
+----
+Contact support 
+>🔗 https://forms.gle/kBEapkmL8zWsRgUr9

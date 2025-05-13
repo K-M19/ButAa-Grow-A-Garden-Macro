@@ -1,3 +1,7 @@
+## Update Log (V.2.2.A)
+- T-T Sorry for more update, this is a quick fix pack.
+- Fixed: Roblox window misplaced
+
 ## Update Log (V.2.2)
 - Add: You can now use 'Recall Wrench' to get to the Gear shop easier and faster
 Just go to `config.ini` file in `UsingRecallWrench=0` section change the value to `UsingRecallWrench=1` to use this feature if you don't have it then delete `config.ini` file and try running the macro again.

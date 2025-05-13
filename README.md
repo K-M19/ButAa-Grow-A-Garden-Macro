@@ -86,6 +86,11 @@ Before you click to download or use the software please read through the [licens
 - **F2**: Test FixCam
 - **F3**: Test to Seeds Shop
 - **F4**: Test to Gear Shop
+
+#### Config.ini
+- **`UsingRecallWrench=`**: You can now use 'Recall Wrench' to get to the Gear shop easier and faster
+- **`debugMode=`**: Make `MacroDebugLog.txt`
+- **`HotKeyDebug`**: Using Hotkey Debug
 ----
 Contact support 
 >🔗 https://forms.gle/kBEapkmL8zWsRgUr9

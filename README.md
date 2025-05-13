@@ -47,9 +47,12 @@
 - First of all, I often receive complaints and questions about this issue, most of which are along the lines of: *"Is your software a virus?"*   
 - DRM(Bitraven),Maybe windows will detect the software protected by Bitraven as a virus because I focus on information security of data ".ExE or Script or open executable files like .btrv", it focuses on not being analyzed by other software or software that intends to analyze and dissect deep into the core of the software or software protected by Bitraven, so it will always be detected by windows or anti-virus software, I think this is the best way to protect my personal software from being scrutinized or cracked, there is nothing more fun than creating personal software that ensures safety for everyone but is considered a virus :C "sometimes it is a monument of honor to be considered that :D"
 
+
+
 ## Download
 **NOTE**
 Before you click to download or use the software please read through the [licenses and terms](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/LICENSE.md), and you accept licenses and terms.
+### More: [Q&A](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Q&A.md)
 ### Download: [Version V.2.1](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V2.1/ButAa-Grow.A.Garden-Macro.V2.1.zip)  
 ### Log: [Update](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Update.md)  
 ### CheckVirus by: [Virustotal](https://www.virustotal.com/gui/file/2cbb6ae349997386088db07f885b67a92694d398d5c980a25ae029b5d644633e)

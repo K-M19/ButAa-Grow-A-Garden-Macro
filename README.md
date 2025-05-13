@@ -50,9 +50,9 @@
 ## Download
 **NOTE**
 Before you click to download or use the software please read through the [licenses and terms](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/LICENSE.md), and you accept licenses and terms.
-### Download: [Version V.2.0](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V2.0/ButAa-Grow.A.Garden-Macro.V2.0.zip)  
+### Download: [Version V.2.1](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V2.1/ButAa-Grow.A.Garden-Macro.V2.1.zip)  
 ### Log: [Update](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Update.md)  
-### CheckVirus by: [Virustotal](https://www.virustotal.com/gui/file/f44380bfc3ce7405f470f2fc83fb17b6d09865a83a65172ed1f31851e306ea95/relations)
+### CheckVirus by: [Virustotal](https://www.virustotal.com/gui/file/2cbb6ae349997386088db07f885b67a92694d398d5c980a25ae029b5d644633e)
 
 ### Tutorial: 
 ### [Video](https://youtu.be/uNDvWYGcqdM)
@@ -75,3 +75,11 @@ Before you click to download or use the software please read through the [licens
 - **F5**: To Start  
 - **F6**: To Menu/Fix Macro  
 - **F8**: To Exit  
+
+#### Hotkey Debug
+**Open the `config.ini` file** and set `HotKeyDebug=0` to `HotKeyDebug=1`.
+- **it is just debug macro key operation**
+- **F1**: Test RunLoad
+- **F2**: Test FixCam
+- **F3**: Test to Seeds Shop
+- **F4**: Test to Gear Shop

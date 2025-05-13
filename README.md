@@ -88,7 +88,7 @@ Before you click to download or use the software please read through the [licens
 - **F4**: Test to Gear Shop
 
 #### Config.ini
-- **`UsingRecallWrench=`**: You can now use 'Recall Wrench' to get to the Gear shop easier and faster
+- **`UsingRecallWrench=`**: You can now use 'Recall Wrench' to get to the Gear shop easier and faster, put `Recall Wrench` in slot 1 to use
 - **`debugMode=`**: Make `MacroDebugLog.txt`
 - **`HotKeyDebug`**: Using Hotkey Debug
 ----

@@ -53,7 +53,7 @@
 **NOTE**
 Before you click to download or use the software please read through the [licenses and terms](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/LICENSE.md), and you accept licenses and terms.
 ### More: [Q&A](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Q&A.md)
-### Download: [Version V.2.1](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V2.1/ButAa-Grow.A.Garden-Macro.V2.1.zip)  
+### Download: [Version V.2.2](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V2.2/ButAa-Grow.A.Garden-Macro.V2.2.zip)  
 ### Log: [Update](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Update.md)  
 ### CheckVirus by: [Virustotal](https://www.virustotal.com/gui/file/2cbb6ae349997386088db07f885b67a92694d398d5c980a25ae029b5d644633e)
 

@@ -91,6 +91,7 @@ Before you click to download or use the software please read through the [licens
 - **`UsingRecallWrench=`**: You can now use 'Recall Wrench' to get to the Gear shop easier and faster, put `Recall Wrench` in slot 1 to use
 - **`debugMode=`**: Make `MacroDebugLog.txt`
 - **`HotKeyDebug`**: Using Hotkey Debug
+- **`ClickBuy=`**: You can choose the number of mouse clicks, but keep in mind that the higher the number, the greater the delay. 
 ----
 Contact support 
 >🔗 https://forms.gle/kBEapkmL8zWsRgUr9

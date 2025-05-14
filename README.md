@@ -57,7 +57,7 @@ Before you click to download or use the software please read through the [licens
 ### Log: [Update](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Update.md)  
 ### CheckVirus by: [Virustotal](https://www.virustotal.com/gui/file/09752711cc35606ef4c5a5be1e36f9e00ab1fa4b9facef56668b22aca6204e0e)
 
-Join my: [Discord](discord.gg/n8M25v2fGq)
+Join my: [Discord](https://discord.gg/n8M25v2fGq)
 
 ### Tutorial: 
 ### [Video](https://youtu.be/uNDvWYGcqdM)

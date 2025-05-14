@@ -1,3 +1,6 @@
+## Update Log (V.2.3.A) - FixPack
+- Fixed: 400ms delay for the Gear Seller
+
 ## Update Log (V.2.3)
 - Add: `API.btrv2` - An external API library for world time has been added, but it may still fail if blocked by antivirus software or a firewall.
 - Add: `ClickBuy=` - You can choose the number of mouse clicks, but keep in mind that the higher the number, the greater the delay. 
@@ -7,7 +10,7 @@
 - Soon: Automatically reconnect when the connection is lost.
 - Soon: Automatically join the server you've set up with your own Private Servers link each time the macro is launched.
 
-## Update Log (V.2.2.A)
+## Update Log (V.2.2.A) - FixPack 
 - T-T Sorry for more update, this is a quick fix pack.
 - Fixed: Roblox window misplaced
 

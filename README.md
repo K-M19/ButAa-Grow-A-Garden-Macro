@@ -60,9 +60,6 @@ Before you click to download or use the software please read through the [licens
 =======
 ### CheckVirus by: [Virustotal](https://www.virustotal.com/gui/file/09752711cc35606ef4c5a5be1e36f9e00ab1fa4b9facef56668b22aca6204e0e)
 
-Join my: [Discord](https://discord.gg/n8M25v2fGq)
->>>>>>> 20684a600ad4182bb9121af378dff0f902eee4f8
-
 ### Tutorial: 
 ### [Video](https://youtu.be/uNDvWYGcqdM)
 #### How to using

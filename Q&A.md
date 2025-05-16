@@ -1,5 +1,5 @@
 # Q&A
-> Edit: May 13, 2025
+> Edit: May 17, 2025
 ----
 ## **Q**: Virus or malware notification from VirusTotal or Anti-Virus(Windows).
 
@@ -29,6 +29,14 @@ And here is the autohotkey documentation as well.
 - https://www.autohotkey.com/docs/v1/FAQ.htm#Virus
 - https://www.autohotkey.com/boards/viewtopic.php?t=97843
 
+----
+## **Q**: Why don’t you add auto-collect or auto-buy eggs?
+#### **Auto-Collect** 
+- I actually had that in mind, but I found it ineffective because each player's Garden is different. You wouldn't want to lose a beloved rare combo, and neither would I.
+#### **Auto-buy eggs**
+- I’m still researching at the moment because sometimes the spincam issue still occurs or there's some error caused by the game that I can’t handle. And if it's applied, it won’t be able to buy eggs the way you want — it will buy all the eggs available in the shop. You won’t be able to choose individually, and that’s the biggest issue right now.
+- Also, if your camera angle changes even slightly, this whole thing becomes pointless because the cursor will move out of the shop’s boundaries, making it no longer effective.
+- A possible and feasible solution would be if the game allows players to reset — then, maybe, it could work.
 ----
 
 ## **Q**: Delayed for when the ship restock notification. It works still, but it takes like 35-40 seconds to go to the shops.

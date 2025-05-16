@@ -53,9 +53,9 @@
 **NOTE**
 Before you click to download or use the software please read through the [licenses and terms](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/LICENSE.md), and you accept licenses and terms.
 ### More: [Q&A](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Q&A.md)
-### Download: [Version V.2.3.A](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V.2.3.A/ButAa-Grow.A.Garden-Macro.V.2.3.A.zip)  
+### Download: [Version V.2.4](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V.2.4/ButAa-Grow.A.Garden-Macro.V.2.4.zip)  
 ### Log: [Update](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Update.md)  
-### CheckVirus by: [Virustotal](https://www.virustotal.com/gui/file/3f1993de954e2afebdfb6558c061f712d3c23c866359d3d2df7491ebce191fb9)
+### CheckVirus by: [Virustotal](https://www.virustotal.com/gui/file/5f5aaa5a211e5b7169076696da00407d773c7451f525e7340baf1df7837a1538)
 
 ### Tutorial: 
 ### [Video](https://youtu.be/uNDvWYGcqdM)
@@ -88,10 +88,13 @@ Before you click to download or use the software please read through the [licens
 - **F4**: Test to Gear Shop
 
 #### Config.ini
+- **`RetryMenu=`**: This sets the number of times the macro will retry the action to open the shop menu if it fails to appear.
 - **`UsingRecallWrench=`**: You can now use 'Recall Wrench' to get to the Gear shop easier and faster, put `Recall Wrench` in slot 1 to use
 - **`debugMode=`**: Make `MacroDebugLog.txt`
 - **`HotKeyDebug`**: Using Hotkey Debug
 - **`ClickBuy=`**: You can choose the number of mouse clicks, but keep in mind that the higher the number, the greater the delay. 
+#### webhook.ini
+- **`webhookURL=`**: Ur link Webhook by discord, Like : `webhookURL=https://discord.com/api/webhooks/123/ABC`.
 ----
 Contact support 
 >🔗 https://forms.gle/kBEapkmL8zWsRgUr9

@@ -1,3 +1,13 @@
+## Update Log (V.2.4)
+- New: The `plugin` folder has been added. Now you can freely create alongside `MainPlugin.ahk`. This is where plugins will run together with the macro.
+However, please note that plugins cannot affect the main aiming macro — they only run alongside it.
+Feel free to create your own unique plugins!
+- Fixed: The spincam issue has been mostly resolved and is now reduced by approximately 70%.
+- Add: `Webhook.ini` – This file is used to notify you when you lose connection. Its sole purpose is for that, Like : `webhookURL=https://discord.com/api/webhooks/123/ABC`.
+- Add: `RetryMenu=` – This sets the number of times the macro will retry the action to open the shop menu if it fails to appear.
+- Soon: Automatically reconnect when the connection is lost.
+- Soon: Automatically join the server you've set up with your own Private Servers link each time the macro is launched.
+
 ## Update Log (V.2.3.A) - FixPack
 - Fixed: 400ms delay for the Gear Seller
 

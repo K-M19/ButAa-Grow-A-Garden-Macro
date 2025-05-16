@@ -18,7 +18,7 @@
 [shield-repo-license]:  https://img.shields.io/github/license/K-M19/ButAa-Grow.A.Garden-Macro
 [shield-repo-latest]:   https://img.shields.io/github/v/release/K-M19/ButAa-Grow.A.Garden-Macro
 
-[repo-license]:  https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/LICENSE
+[repo-license]:  https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/LICENSE.md
 [repo-latest]:   https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/latest
 
 ----

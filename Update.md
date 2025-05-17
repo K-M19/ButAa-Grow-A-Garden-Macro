@@ -1,3 +1,9 @@
+## Update Log (V.2.5) - 🐔🧟CHICKEN ZOMBIE🧟🐔
+- New: New System `Core.Main.btrv2`.
+- Add: BeanStalk Seed
+- Remove: Webhook, notify lose connection.
+- Remove: System API `Grow.Core.btrv2` and `API.btrv2`.
+
 ## Update Log (V.2.4)
 - New: The `plugin` folder has been added. Now you can freely create alongside `MainPlugin.ahk`. This is where plugins will run together with the macro.
 However, please note that plugins cannot affect the main aiming macro — they only run alongside it.

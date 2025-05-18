@@ -62,8 +62,8 @@ Before you click to download or use the software please read through the [licens
 #### How to using
 1. **Run the Macro for the first time.**  
 2. **Open the `config.ini` file** and customize the settings to your preference.  
-3. **Go back to Roblox** and click the **GARDEN** box at the top of the screen.  
-4. **Align the straight line** using the **Shop Box** as a reference point. Use the images below as a guide:  
+3. **Go back to Roblox** and click the **Seeds** box at the top of the screen.  
+4. **Align the straight line** using the **Garden** as a reference point. Use the images below as a guide:  
 
 <p>
 <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow.A.Garden-Macro/refs/heads/main/IMG/Box/1.png" width="420">

@@ -88,13 +88,15 @@ Before you click to download or use the software please read through the [licens
 - **F4**: Test to Gear Shop
 
 #### Config.ini
-- **`RetryMenu=`**: This sets the number of times the macro will retry the action to open the shop menu if it fails to appear.
-- **`UsingRecallWrench=`**: You can now use 'Recall Wrench' to get to the Gear shop easier and faster, put `Recall Wrench` in slot 1 to use
-- **`debugMode=`**: Make `MacroDebugLog.txt`
-- **`HotKeyDebug`**: Using Hotkey Debug
+- **`BuyEgg=1`**: You can now buy Eggs, but you must equip the `Recall Wrench` in slot 1 to do so.
+- **`UsingRecallWrench=1`**: You can now use 'Recall Wrench' to get to the Gear shop easier and faster, put `Recall Wrench` in slot 1 to use
+- **`debugMode=1`**: Make `MacroDebugLog.txt`
+- **`HotKeyDebug=1`**: Using Hotkey Debug
 - **`ClickBuy=`**: You can choose the number of mouse clicks, but keep in mind that the higher the number, the greater the delay. 
+- **`RetryMenu=`**: This sets the number of times the macro will retry the action to open the shop menu if it fails to appear.
 #### webhook.ini
 - **`webhookURL=`**: Ur link Webhook by discord, Like : `webhookURL=https://discord.com/api/webhooks/123/ABC`.
 ----
 Contact support 
+>🔗 https://discord.com/invite/n8M25v2fGq
 >🔗 https://forms.gle/kBEapkmL8zWsRgUr9

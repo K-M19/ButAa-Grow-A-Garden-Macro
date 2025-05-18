@@ -1,3 +1,13 @@
+## Update Log (V.2.7) - 🩸Blood Moon🌕
+## New Features
+- **New**: A new macro operation mechanism. I have created an engine based on AutoHotKey version `1.1.37.02`. This will require you to use a 64-bit operating system, but in return, it will run more stably compared to pure AutoHotKey or Python versions, Along with this new engine, the chances of being falsely flagged as a virus will be minimized. However, some cases may still be detected. I'm doing my best to resolve this.
+
+## Bug Fixes
+- **Fixed**: Blood Moon Shop
+
+---
+> 🙏 **Thanks @viktore And @k.btyep** for bug reports!
+
 ## Update Log (V.2.6) - 🩸Blood Moon🌕
 ## New Features
 - **New**: Added a new movement mechanism to the Gear Shop, available for all slots 1>6.  

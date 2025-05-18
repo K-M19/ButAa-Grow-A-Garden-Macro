@@ -65,7 +65,7 @@ Before you click to download or use the software please read through the [licens
 ### CheckVirus by: [Virustotal](https://www.virustotal.com/gui/file/0d30f81311359ff9cac4eaab55b2c4d5e7d65154e16eb8da51741abacadf813c/community)
 
 ### Tutorial: 
-### [Video](https://youtu.be/uNDvWYGcqdM)
+### [Video](https://youtu.be/w-w88FEEjWQ)
 #### How to using
 1. **Run the Macro for the first time.**  
 2. **Open the `config.ini` file** and customize the settings to your preference.  

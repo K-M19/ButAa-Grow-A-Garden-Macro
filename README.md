@@ -47,6 +47,13 @@
 - First of all, I often receive complaints and questions about this issue, most of which are along the lines of: *"Is your software a virus?"*   
 - DRM(Bitraven),Maybe windows will detect the software protected by Bitraven as a virus because I focus on information security of data ".ExE or Script or open executable files like .btrv", it focuses on not being analyzed by other software or software that intends to analyze and dissect deep into the core of the software or software protected by Bitraven, so it will always be detected by windows or anti-virus software, I think this is the best way to protect my personal software from being scrutinized or cracked, there is nothing more fun than creating personal software that ensures safety for everyone but is considered a virus :C "sometimes it is a monument of honor to be considered that :D"
 
+## Improvements
+- **Improved**: Completely revamped the software’s internal mechanism.  
+  - It is now better encrypted and significantly faster.  
+  - Reduced the false positive rate with antivirus software by **70%**.  
+- 🔍 **VirusTotal comparison**:
+    - [📥 New Version Detection Report](https://www.virustotal.com/gui/file/0d30f81311359ff9cac4eaab55b2c4d5e7d65154e16eb8da51741abacadf813c/detection)
+    - [📦 Old Version 2.5 Detection Report](https://www.virustotal.com/gui/file/9359ef07d0ef12afe53e06d805206aaaabf0cdf738db21a06fa04d73e50a55a6/detection)
 
 
 ## Download

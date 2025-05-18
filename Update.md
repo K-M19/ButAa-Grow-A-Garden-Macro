@@ -1,3 +1,32 @@
+## Update Log (V.2.6) - 🩸Blood Moon🌕
+## New Features
+- **New**: Added a new movement mechanism to the Gear Shop, available for all slots 1>6.  
+- **New**: Completely rewrote the entire code system from scratch. T-T My hands hurt so much.  
+- **New**: You can now go to the Blood Moon Shop and buy whatever you want.  
+- **New**: You can now buy Eggs, but you must equip the Recall Wrench in slot 1 to do so.  
+  - When `BuyEgg=1`, it will purchase *all* eggs available in the shop.  
+  - You cannot select specific types (Common, Uncommon, Rare, Legendary, Mythical, Bug Egg).  
+  - I will look into a solution for this in future updates.  
+
+## Improvements
+- **Improved**: Completely revamped the software’s internal mechanism.  
+  - It is now better encrypted and significantly faster.  
+  - Reduced the false positive rate with antivirus software by **70%**.  
+- 🔍 **VirusTotal comparison**:
+    - [📥 New Version Detection Report](https://www.virustotal.com/gui/file/0d30f81311359ff9cac4eaab55b2c4d5e7d65154e16eb8da51741abacadf813c/detection)
+    - [📦 Old Version 2.5 Detection Report](https://www.virustotal.com/gui/file/9359ef07d0ef12afe53e06d805206aaaabf0cdf738db21a06fa04d73e50a55a6/detection)
+    
+## Bug Fixes
+- **Fixed**: Fixed 5 issues related to the Macro API when connecting to the server.  
+- **Fixed**: Fixed 3 rare bugs when running the Macro.  
+- **Fixed**: Fixed an issue that occurred when purchasing `Grape Seed` and `Corn Seed` and `Cacao Send`.  
+
+---
+
+> 🙏 **Special thanks to @viktore** for your ideas and bug reports!
+
+
+
 ## Update Log (V.2.5) - 🐔🧟CHICKEN ZOMBIE🧟🐔
 - New: New System `Core.Main.btrv2`.
 - Add: BeanStalk Seed

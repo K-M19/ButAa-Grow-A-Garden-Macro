@@ -47,20 +47,11 @@
 - First of all, I often receive complaints and questions about this issue, most of which are along the lines of: *"Is your software a virus?"*   
 - DRM(Bitraven),Maybe windows will detect the software protected by Bitraven as a virus because I focus on information security of data ".ExE or Script or open executable files like .btrv", it focuses on not being analyzed by other software or software that intends to analyze and dissect deep into the core of the software or software protected by Bitraven, so it will always be detected by windows or anti-virus software, I think this is the best way to protect my personal software from being scrutinized or cracked, there is nothing more fun than creating personal software that ensures safety for everyone but is considered a virus :C "sometimes it is a monument of honor to be considered that :D"
 
-## Improvements
-- **Improved**: Completely revamped the software’s internal mechanism.  
-  - It is now better encrypted and significantly faster.  
-  - Reduced the false positive rate with antivirus software by **70%**.  
-- 🔍 **VirusTotal comparison**:
-    - [📥 New Version Detection Report](https://www.virustotal.com/gui/file/ca308dd20bcedfb18dad9baec3fa03250b8a160e62f274b6217884906f072258/detection)
-    - [📦 Old Version 2.5 Detection Report](https://www.virustotal.com/gui/file/9359ef07d0ef12afe53e06d805206aaaabf0cdf738db21a06fa04d73e50a55a6/detection)
-
-
 ## Download
 **NOTE**
 Before you click to download or use the software please read through the [licenses and terms](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/LICENSE.md), and you accept licenses and terms.
 ### More: [Q&A](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Q&A.md)
-### Download: [Version V.2.7](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V2.7/ButAa-Grow.A.Garden-Macro.V.2.7.zip)  
+### Download: [Version V.2.8.E](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V2.8.E/ButAa-Grow.A.Garden-Macro.V.2.8.E.zip)  
 ### Log: [Update](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Update.md)  
 ### CheckVirus by: [Virustotal](https://www.virustotal.com/gui/file/ca308dd20bcedfb18dad9baec3fa03250b8a160e62f274b6217884906f072258/community)
 
@@ -93,15 +84,20 @@ Before you click to download or use the software please read through the [licens
 - **F2**: Test FixCam
 - **F3**: Test to Seeds Shop
 - **F4**: Test to Gear Shop
+- **F9:** Test to Egg Shop
+- **F10:** Test to Moon Shop
 
 #### Config.ini
-- **`BuyEgg=1`**: You can now buy Eggs, but you must equip the `Recall Wrench` in slot 1 to do so.
+- **`WalktoGear=18600`** - Time taken to walk to the Gear shop.
+- **`WalktoEgg=1700`** - Time taken to walk to the first Egg.
+- **`WalktoMoonShop=8500`** - Time taken to walk to the Moon shop.
+- **`WalkToMoonShopAllTimes=1`** - Always go to the Moon Shop if auto-navigation fails.
+- **`PlayNotifySound=1`** - Plays a notification sound for the macro.
 - **`UsingRecallWrench=1`**: You can now use 'Recall Wrench' to get to the Gear shop easier and faster, put `Recall Wrench` in slot 1 to use
 - **`debugMode=1`**: Make `MacroDebugLog.txt`
 - **`HotKeyDebug=1`**: Using Hotkey Debug
 - **`ClickBuy=`**: You can choose the number of mouse clicks, but keep in mind that the higher the number, the greater the delay. 
 - **`RetryMenu=`**: This sets the number of times the macro will retry the action to open the shop menu if it fails to appear.
-#### webhook.ini
 - **`webhookURL=`**: Ur link Webhook by discord, Like : `webhookURL=https://discord.com/api/webhooks/123/ABC`.
 ----
 Contact support 

@@ -1,3 +1,29 @@
+## Update Log (V.2.8.E) - ⛲ FARM COSMETICS ⛲
+## Removed
+- **TimeAPI**: `TimeAPI` has been removed because ***Time.is*** has blocked access to their API service since May 20.
+The macro will now rely on your device’s local time.
+- 🔸 Important: If your system time does not match the time on `time.is/Canada`, you may experience a delay of 30–60 seconds.
+- 🔸 Just make sure the **minutes and seconds** match — the hour doesn’t matter.
+## New Features
+- **New**: You can now select the Egg you want.
+- **New**: You can now choose items from two Moon types (Luna Moon and Blood Moon).
+- **New**: You can now receive macro notifications via Discord using `webhookURL`.
+- **New**: Added items from the Gear shop.
+## New Settings
+- **New**: `WalktoGear=18600` - Time taken to walk to the Gear shop.
+- **New**: `WalktoEgg=1700` - Time taken to walk to the first Egg.
+- **New**: `WalktoMoonShop=8500` - Time taken to walk to the Moon shop.
+- **New**: `WalkToMoonShopAllTimes=1` - Always go to the Moon Shop if auto-navigation fails.
+- **New**: `PlayNotifySound=1` - Plays a notification sound for the macro.
+## Bug Fixes
+- **Fixed**: Fixed a series of bugs related to developer-side shutdowns.
+- **Total Bugs Fixed**: 54/54 bugs resolved (I had to rewrite the source code again for better optimization).
+## Engine
+- **Star Engine**: Version `423.2.Ahk`, a custom engine made specifically for this project.
+- **BITRAVEN**: Version `Tech 8`, enhanced protection and reduced file size by 86%.
+---
+> 🙏 **Thanks @k.btyep** for bug reports and Coding support for this update!
+
 ## Update Log (V.2.7) - 🩸Blood Moon🌕
 ## New Features
 - **New**: A new macro operation mechanism. I have created an engine based on AutoHotKey version `1.1.37.02`. This will require you to use a 64-bit operating system, but in return, it will run more stably compared to pure AutoHotKey or Python versions, Along with this new engine, the chances of being falsely flagged as a virus will be minimized. However, some cases may still be detected. I'm doing my best to resolve this.

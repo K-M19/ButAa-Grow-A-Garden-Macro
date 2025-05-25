@@ -30,43 +30,11 @@ And here is the autohotkey documentation as well.
 - https://www.autohotkey.com/boards/viewtopic.php?t=97843
 
 ----
-## **Q**: Why don’t you add auto-collect or auto-buy eggs?
-#### **Auto-Collect** 
-- I actually had that in mind, but I found it ineffective because each player's Garden is different. You wouldn't want to lose a beloved rare combo, and neither would I.
-#### **Auto-buy eggs**
-- I’m still researching at the moment because sometimes the spincam issue still occurs or there's some error caused by the game that I can’t handle. And if it's applied, it won’t be able to buy eggs the way you want — it will buy all the eggs available in the shop. You won’t be able to choose individually, and that’s the biggest issue right now.
-- Also, if your camera angle changes even slightly, this whole thing becomes pointless because the cursor will move out of the shop’s boundaries, making it no longer effective.
-- A possible and feasible solution would be if the game allows players to reset — then, maybe, it could work.
-----
 
 ## **Q**: Delayed for when the ship restock notification. It works still, but it takes like 35-40 seconds to go to the shops.
 
-**A**: Yes, it is intentional. The macro has been programmed to coordinate with world time. It will go directly to the shop when the world clock hits either 00:00 or 00:05 — i.e., it will go to the shop 5 minutes after the hour.
-
-But if the API that has been included in the macro does not get world time (for example, due to a firewall or antivirus blocking the request), it will fall back to your local time. In that case, it behaves just the same way — it checks if the time is 00:00 or 00:05, and then it goes to the shop after 5 minutes.
-
-This format is simpler for users from different countries and time zones to stay on time. It could, however, take actions a little longer than the in-game alert. For example, if there is a delay of 35–40 seconds before the macro takes action, it most likely means that the API is not working on your system.
-
-If your time zone is not world time standard, don't worry — you won't need to set the system clock. You might notice a slight lag, though.
-
-Time concept overview:
-- Local time = your country's system time.
-- World time = universal reference time, often on the basis of UTC.
-The macro pulls time info from:
-- time.is/United_States
-- time.is/Canada
-- time.is/London
-
-Workarounds?
-I've already attempted 9 workarounds to bypass this:
-
-- OCR (Optical Character Recognition):
-  Unreliable. It has a tendency to misread in-game messages, like confusing Egg Shop alerts or Windows messages. It's especially inaccurate with the current standard resolution of 800x600, which I set so it can run on all screen sizes.
-
-- Image referencing:
-Too cumbersome. It takes and compares a lot of screenshots, and remains 42–50 seconds behind to notice changes — too slow and unstable(It violates my privacy policy, so cannot be used.).
-
-- Mini-A.I. approaches:
-  I tried using low-resource machine learning but it consumed 2–3 GB of RAM and up to 35% GPU, which I felt was overkill for a low-resource friendly macro.
-
-So that's a brief overview of how the macro and the API interact, and why there may be some delays based on your system configuration.
+**A**
+- **TimeAPI**: `TimeAPI` has been removed because ***Time.is*** has blocked access to their API service since May 20.
+The macro will now rely on your device’s local time.
+- 🔸 Important: If your system time does not match the time on `time.is/Canada`, you may experience a delay of 30–60 seconds.
+- 🔸 Just make sure the **minutes and seconds** match — the hour doesn’t matter.

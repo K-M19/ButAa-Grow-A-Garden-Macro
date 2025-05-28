@@ -74,7 +74,7 @@
 | Key  | Action             |
 |------|--------------------|
 | F5   | Start              |
-| F6   | Open Menu / Fix    |
+| F6   | Reload             |
 | F8   | Exit               |
 
 ### 🐞 Debug Keys (Enable via `HotKeyDebug=1` in config)

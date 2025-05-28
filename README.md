@@ -51,26 +51,18 @@
 **NOTE**
 Before you click to download or use the software please read through the [licenses and terms](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/LICENSE.md), and you accept licenses and terms.
 ### More: [Q&A](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Q&A.md)
-### Download: [Version V.2.8.E](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V2.8.E/ButAa-Grow.A.Garden-Macro.V.2.8.E.zip)  
+### Download: [Version V.2.9](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V2.9/ButAa-Grow.A.Garden-Macro.V.2.9.zip)  
 ### Log: [Update](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Update.md)  
-### CheckVirus by: [Virustotal](https://www.virustotal.com/gui/file/bc2d98af87deba6a312b08bf2bd442e39f6c3dc594c49ecc3ed3f6e7f2a698ca/detection/community)
+### CheckVirus by: [Virustotal](https://www.virustotal.com/gui/file/993063ee54a608d4904ea1a249df5529b31d9b53684e2e79c5169da22e8abb8e)
 
 ### Tutorial: 
 ### [Video](https://youtu.be/w-w88FEEjWQ)
 #### How to using
 1. **Run the Macro for the first time.**  
 2. **Open the `config.ini` file** and customize the settings to your preference.  
-3. **Go back to Roblox** and click the **Seeds** box at the top of the screen.  
-4. **Align the straight line** using the **Garden** as a reference point. Use the images below as a guide:  
-
-<p>
-<img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow.A.Garden-Macro/refs/heads/main/IMG/Box/1.png" width="420">
-<img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow.A.Garden-Macro/refs/heads/main/IMG/Box/2.png" width="420">
-</p>
-
-5. **Run the Macro a second time.**  
-6. **Press `F5` to start.**  
-7. **Good night and enjoy your garden automation! 🌙**
+3. **Run the Macro a second time.**  
+4. **Press `F5` to start.**  
+5. **Good night and enjoy your garden automation! 🌙**
 
 #### Menu
 - **F5**: To Start  

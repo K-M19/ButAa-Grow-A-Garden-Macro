@@ -1,3 +1,13 @@
+## Update Log (V.2.9) - ⛲ FARM COSMETICS 🛠️
+### New Features
+- **New**: New straight-line balancing mechanism – you no longer have to do it manually; the macro will handle it for you (just set Camera Mode and Movement Mode to Default).
+- **New**: Added automatic purchasing mechanism for items in the Cosmetic Shop.
+  - `BuyAllTopCosmetic=1`: to buy the 3 rare items at the top.
+  - `BuyAllDownCosmetic=1`: to buy the 6 common items at the bottom.
+- **New**: The macro now recognizes items like "Seeds, Gears, Eggs" better than before.
+### Bug Fixes
+- **Fixed**: Resolved the issue where the GamePass window appeared when buying the 3rd egg at the Eggs Shop. If detected, the macro will now repeat the purchase process until it successfully buys the 3rd egg.
+
 ## Update Log (V.2.8.E) - ⛲ FARM COSMETICS ⛲
 ## Removed
 - **TimeAPI**: `TimeAPI` has been removed because ***Time.is*** has blocked access to their API service since May 20.

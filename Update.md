@@ -1,4 +1,5 @@
 ## Update Log (V.2.9) - ⛲ FARM COSMETICS 🛠️
+**Author Update: k.btyep**
 ### New Features
 - **New**: New straight-line balancing mechanism – you no longer have to do it manually; the macro will handle it for you (just set Camera Mode and Movement Mode to Default).
 - **New**: Added automatic purchasing mechanism for items in the Cosmetic Shop.

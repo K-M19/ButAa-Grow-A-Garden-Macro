@@ -1,3 +1,16 @@
+## Update Log (V.3.0) - 🛠️ UI And AutoRejoin 🛠️
+### New Features
+- **New**: You can now select items more easily with the new UI.
+- **New**: You can use `AutoRejoin` with the UI configuration.  
+  Make sure `AutoRejoin` is enabled in the UI settings. This feature requires configuration in the `PSConfig.ini` file:
+  - `PrivateServerLink=` is where you insert your Private Server link. Open the link in your browser first, then copy and paste it here.  
+    **Example**:`https://www.roblox.com/games/126884695634066/Grow-a-Garden?privateServerLinkCode=452676255653203881808469`
+  - `webhookURL=` is where you'll receive notifications if AutoRejoin is successful or not.
+
+---
+
+> 🙏 **Thanks @k.btyep** for Coding support for this update!
+
 ## Update Log (V.2.9) - ⛲ FARM COSMETICS 🛠️
 **Author Update: k.btyep**
 ### New Features

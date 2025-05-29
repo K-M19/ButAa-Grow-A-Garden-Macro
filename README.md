@@ -29,8 +29,8 @@
 
 ## 🔧 About
 
-- A simple macro tool to auto-buy seeds in idle mode.  
-- Currently in **beta / dev** stage.  
+- A simple macro tool to auto-buy seeds in idle mode.
+- Currently in **beta / dev** stage.
 - Use at your **own risk**.
 
 ## 🧠 Before You Start
@@ -46,16 +46,16 @@
 > Some antivirus software may detect this macro as a **false positive**.  
 > That’s because it’s protected with **Bitraven DRM**, which prevents reverse engineering.  
 > Bitraven is designed to safeguard `.exe` and `.btrv` files.  
-> It’s not malware — it’s just extremely private about what it does. 😉  
+> It’s not malware — it’s just extremely private about what it does. 😉
 
 ## 📦 Download
 
 **📜 Please read the [license and terms](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/LICENSE.md) before downloading. By using this software, you agree to them.**
 
-- 🔗 [Download v2.9](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V2.9/ButAa-Grow.A.Garden-Macro.V.2.9.zip)  
-- 📝 [Changelog](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Update.md)  
-- ❓ [Q&A](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Q&A.md)  
-- 🛡️ [VirusTotal Report](https://www.virustotal.com/gui/file/993063ee54a608d4904ea1a249df5529b31d9b53684e2e79c5169da22e8abb8e)
+- 🔗 [Download V3.0](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V3.0/ButAa-Grow.A.Garden-Macro.V.3.0.zip)
+- 📝 [Changelog](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Update.md)
+- ❓ [Q&A](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Q&A.md)
+- 🛡️ [VirusTotal Report](https://www.virustotal.com/gui/file/a6e4e546866b01d0cdb0ae6a0335e744bbf3834606af5d60b9cf75cc65175240/detection)
 
 ## 🎥 Tutorial
 
@@ -71,45 +71,58 @@
 
 ### ⌨️ Hotkeys
 
-| Key  | Action             |
-|------|--------------------|
-| F5   | Start              |
-| F6   | Reload             |
-| F8   | Exit               |
+| Key | Action |
+| --- | ------ |
+| F5  | Start  |
+| F6  | Reload |
+| F8  | Exit   |
 
 ### 🐞 Debug Keys (Enable via `HotKeyDebug=1` in config)
 
-| Key   | Debug Action         |
-|-------|----------------------|
-| F1    | Test RunLoad         |
-| F2    | Test FixCam          |
-| F3    | Test Seeds Shop      |
-| F4    | Test Gear Shop       |
-| F9    | Test Egg Shop        |
-| F10   | Test Moon Shop       |
-| F11   | Test Cosmetic Shop   |
+| Key     | Debug Action       |
+| ------- | ------------------ |
+| Ctrl+F1 | Test RunLoad       |
+| Ctrl+F2 | Test FixCam        |
+| Ctrl+F3 | Test Seeds Shop    |
+| Ctrl+F4 | Test Gear Shop     |
+| Ctrl+F5 | Test Egg Shop      |
+| Ctrl+F6 | Test Moon Shop     |
+| Ctrl+F7 | Test Cosmetic Shop |
 
 ## ⚙️ Control Settings
-- `WalkToMoonShopAllTimes=1` - Always go if navigation fails  
-- `UsingRecallWrench=1` - Use Recall Wrench (slot 1)  
+
+- `WalkToMoonShopAllTimes=1` - Always go if navigation fails
+- `UsingRecallWrench=1` - Use Recall Wrench (slot 1)
 
 ## ⚙️ Macro-Control Settings
-- `RetryMenu=` - Retry shop open if it fails  
-- `ClickBuy=` - Set mouse click count  
-- `WalktoGear=18600` - Time to reach Gear shop  
-- `WalktoEgg=1800` - Time to reach Egg shop  
-- `WalktoMoonShop=8500` - Time to reach Moon shop  
+
+- `RetryMenu=` - Retry shop open if it fails
+- `ClickBuy=` - Set mouse click count
+- `WalktoGear=18600` - Time to reach Gear shop
+- `WalktoEgg=1800` - Time to reach Egg shop
+- `WalktoMoonShop=8500` - Time to reach Moon shop
 
 ## ⚙️ Dev Settings
-- `debugMode=1` - Write `MacroDebugLog.txt`  
-- `HotKeyDebug=1` - Enable debug hotkeys  
-- `PlayNotifySound=1` - Enable notification sounds  
+
+- `debugMode=1` - Write `MacroDebugLog.txt`
+- `HotKeyDebug=1` - Enable debug hotkeys
+- `PlayNotifySound=1` - Enable notification sounds
 
 ## ⚙️ Discord Settings
+
 - `webhookURL=` - Your Discord webhook URL
+
+## ⚙️ `PSConfig.ini` Settings
+
+Make sure `AutoRejoin` is enabled in the UI settings. This feature requires configuration in the `PSConfig.ini` file:
+
+- `PrivateServerLink=` is where you insert your Private Server link. Open the link in your browser first, then copy and paste it here.  
+  **Example**:`https://www.roblox.com/games/126884695634066/Grow-a-Garden?privateServerLinkCode=452676255653203881808469`
+- `webhookURL=` is where you'll receive notifications if AutoRejoin is successful or not.
+
 ---
 
 ## 📬 Contact & Support
 
-- 🔗 Discord: [Join Server](https://discord.com/invite/n8M25v2fGq)  
+- 🔗 Discord: [Join Server](https://discord.com/invite/n8M25v2fGq)
 - 🔗 Feedback Form: [Submit Here](https://forms.gle/kBEapkmL8zWsRgUr9)

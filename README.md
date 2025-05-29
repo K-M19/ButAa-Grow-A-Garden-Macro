@@ -56,7 +56,7 @@
 - 📝 [Changelog](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Update.md)
 - ❓ [Q&A](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Q&A.md)
 - 🛡️ [VirusTotal Report](https://www.virustotal.com/gui/file/fdf967f41880ebb188e7f345fd7dfd727984f2ac743fc60b7eda0b9d9f5890a5/detection)
-
+- 🛡️ [Neiki.Dev Report](https://tip.neiki.dev/file/fdf967f41880ebb188e7f345fd7dfd727984f2ac743fc60b7eda0b9d9f5890a5)
 ## 🎥 Tutorial
 
 - 📺 [Watch Video](https://youtu.be/w-w88FEEjWQ)

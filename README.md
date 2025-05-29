@@ -55,7 +55,7 @@
 - 🔗 [Download V3.0](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V3.0/ButAa-Grow.A.Garden-Macro.V.3.0.zip)
 - 📝 [Changelog](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Update.md)
 - ❓ [Q&A](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Q&A.md)
-- 🛡️ [VirusTotal Report](https://www.virustotal.com/gui/file/a6e4e546866b01d0cdb0ae6a0335e744bbf3834606af5d60b9cf75cc65175240/detection)
+- 🛡️ [VirusTotal Report](https://www.virustotal.com/gui/file/fdf967f41880ebb188e7f345fd7dfd727984f2ac743fc60b7eda0b9d9f5890a5/detection)
 
 ## 🎥 Tutorial
 

@@ -52,22 +52,20 @@
 
 **📜 Please read the [license and terms](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/LICENSE.md) before downloading. By using this software, you agree to them.**
 
-- 🔗 [Download V3.0](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V3.0/ButAa-Grow.A.Garden-Macro.V.3.0.zip)
+- 🔗 [Download V3.0.P1](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V3.0.P1/ButAa-Grow.A.Garden-Macro.V.3.0.P1.zip)
 - 📝 [Changelog](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Update.md)
 - ❓ [Q&A](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Q&A.md)
-- 🛡️ [VirusTotal Report](https://www.virustotal.com/gui/file/fdf967f41880ebb188e7f345fd7dfd727984f2ac743fc60b7eda0b9d9f5890a5/detection)
-- 🛡️ [Neiki.Dev Report](https://tip.neiki.dev/file/fdf967f41880ebb188e7f345fd7dfd727984f2ac743fc60b7eda0b9d9f5890a5)
+- 🛡️ [VirusTotal Report](https://www.virustotal.com/gui/file/a7f456280662a49d446add3ace646e54e7ddb29ee0097273394b07b9a61836a4)
+- 🛡️ [Neiki.Dev Report](https://tip.neiki.dev/file/a7f456280662a49d446add3ace646e54e7ddb29ee0097273394b07b9a61836a4)
 ## 🎥 Tutorial
 
 - 📺 [Watch Video](https://youtu.be/w-w88FEEjWQ)
 
 ### 🔄 How to Use
-
-1. Run the macro for the **first time**.
-2. Open `config.ini` and configure your settings.
-3. Run the macro again.
-4. Press `F5` to start.
-5. Enjoy your automated garden! 🌙
+1. Run `ButAa-Macro.exe`.
+2. Customize the settings to your liking.
+3. Press `F5` or click the Start button to begin.
+4. Enjoy your automated garden! 🌙
 
 ### ⌨️ Hotkeys
 

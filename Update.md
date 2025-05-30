@@ -1,3 +1,7 @@
+## Update Log (V.3.0.P1) - 🛠️ FixPack 🛠️
+### Bug Fixes
+- **Fixed**: Reworked the new walking mechanism after the game was updated and the map size changed for the fourth time.
+
 ## Update Log (V.3.0) - 🛠️ UI And AutoRejoin 🛠️
 ### New Features
 - **New**: You can now select items more easily with the new UI.

@@ -59,7 +59,7 @@
 - 🛡️ [Neiki.Dev Report](https://tip.neiki.dev/file/a7f456280662a49d446add3ace646e54e7ddb29ee0097273394b07b9a61836a4)
 ## 🎥 Tutorial
 
-- 📺 [Watch Video](https://youtu.be/w-w88FEEjWQ)
+- 📺 [Watch Video](https://youtu.be/Q77zyCgRnCg)
 
 ### 🔄 How to Use
 1. Run `ButAa-Macro.exe`.

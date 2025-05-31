@@ -1,3 +1,18 @@
+## Update Log (V.3.1) - 🍯BIZZY BEES🐝
+### Removed
+- **AutoRejoin**: Removed due to lack of usefulness. It often caused errors on slower machines, such as those using HDDs or experiencing lag, and also increased false positives.
+### New Features
+- **New**: Time to Bee Swarm
+- **New**: The macro no longer requires you to open Roblox beforehand. Instead, it will now prompt you to open Roblox before proceeding.
+- **New**: I should’ve done this a long time ago—now every time you start the macro, it runs immediately without waiting for real-time delays.
+- **New**: Debug Hot Keys have been changed from F1 > F7 to Ctrl+F1 > Ctrl+F7.
+- **New**: Config files have been separated to make management and customization easier.
+### Bug Fixes
+- **Fixed**: Movement bug caused by periodically changing map sizes.
+---
+> 🙏 **Thanks @k.btyep** for Coding support for this update!
+> 🙏 **Thanks @Ryan✈** for bug reports!
+
 ## Update Log (V.3.0.P1) - 🛠️ FixPack 🛠️
 ### Bug Fixes
 - **Fixed**: Reworked the new walking mechanism after the game was updated and the map size changed for the fourth time.
@@ -10,9 +25,7 @@
   - `PrivateServerLink=` is where you insert your Private Server link. Open the link in your browser first, then copy and paste it here.  
     **Example**:`https://www.roblox.com/games/126884695634066/Grow-a-Garden?privateServerLinkCode=452676255653203881808469`
   - `webhookURL=` is where you'll receive notifications if AutoRejoin is successful or not.
-
 ---
-
 > 🙏 **Thanks @k.btyep** for Coding support for this update!
 
 ## Update Log (V.2.9) - ⛲ FARM COSMETICS 🛠️

@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow.A.Garden-Macro/refs/heads/main/IMG/B-Theme.png#gh-dark-mode-only" width="420">
-  <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow.A.Garden-Macro/refs/heads/main/IMG/W-Theme.png#gh-light-mode-only" width="420">
+  <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow-A-Garden-Macro/refs/heads/main/IMG/B-Theme.png#gh-dark-mode-only" width="420">
+  <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow-A-Garden-Macro/refs/heads/main/IMG/W-Theme.png#gh-light-mode-only" width="420">
 </p>
 
 <div align="center">
-  <a href="https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/LICENSE.md">
-    <img src="https://img.shields.io/github/license/K-M19/ButAa-Grow.A.Garden-Macro" alt="License">
+  <a href="https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/LICENSE.md">
+    <img src="https://img.shields.io/github/license/K-M19/ButAa-Grow-A-Garden-Macro" alt="License">
   </a>
-  <a href="https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/latest">
-    <img src="https://img.shields.io/github/v/release/K-M19/ButAa-Grow.A.Garden-Macro" alt="Latest Version">
+  <a href="https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/latest">
+    <img src="https://img.shields.io/github/v/release/K-M19/ButAa-Grow-A-Garden-Macro" alt="Latest Version">
   </a>
 </div>
 
@@ -50,13 +50,13 @@
 
 ## 📦 Download
 
-**📜 Please read the [license and terms](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/LICENSE.md) before downloading. By using this software, you agree to them.**
+**📜 Please read the [license and terms](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/LICENSE.md) before downloading. By using this software, you agree to them.**
 
-- 🔗 [Download V3.0.P1](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/releases/download/V3.0.P1/ButAa-Grow.A.Garden-Macro.V.3.0.P1.zip)
-- 📝 [Changelog](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Update.md)
-- ❓ [Q&A](https://github.com/K-M19/ButAa-Grow.A.Garden-Macro/blob/main/Q&A.md)
-- 🛡️ [VirusTotal Report](https://www.virustotal.com/gui/file/a7f456280662a49d446add3ace646e54e7ddb29ee0097273394b07b9a61836a4)
-- 🛡️ [Neiki.Dev Report](https://tip.neiki.dev/file/a7f456280662a49d446add3ace646e54e7ddb29ee0097273394b07b9a61836a4)
+- 🔗 [Download V3.1](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/download/V3.1/ButAa-Grow-A-Garden-Macro.V.3.1.7z)
+- 📝 [Changelog](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Update.md)
+- ❓ [Q&A](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Q&A.md)
+- 🛡️ [VirusTotal Report](https://www.virustotal.com/gui/file/8b19cc095f8fcfe59e668f27329242165ff98447a3183d8d675c98b59684b1c7)
+- 🛡️ [Neiki.Dev Report](https://tip.neiki.dev/file/8b19cc095f8fcfe59e668f27329242165ff98447a3183d8d675c98b59684b1c7)
 ## 🎥 Tutorial
 
 - 📺 [Watch Video](https://youtu.be/Q77zyCgRnCg)
@@ -84,22 +84,20 @@
 | Ctrl+F3 | Test Seeds Shop    |
 | Ctrl+F4 | Test Gear Shop     |
 | Ctrl+F5 | Test Egg Shop      |
-| Ctrl+F6 | Test Moon Shop     |
+| Ctrl+F6 | Test Event zone    |
 | Ctrl+F7 | Test Cosmetic Shop |
 
 ## ⚙️ Control Settings
-
-- `WalkToMoonShopAllTimes=1` - Always go if navigation fails
 - `UsingRecallWrench=1` - Use Recall Wrench (slot 1)
 
 ## ⚙️ Macro-Control Settings
 
-- `RetryMenu=` - Retry shop open if it fails
 - `ClickBuy=` - Set mouse click count
-- `WalktoGear=18600` - Time to reach Gear shop
-- `WalktoEgg=1800` - Time to reach Egg shop
-- `WalktoMoonShop=8500` - Time to reach Moon shop
-
+- `WalktoGear=16860` - Time to reach Gear shop
+- `WalktoCosmeticShop=750`- Time to reach Cosmetic Shop
+- `WalktoEgg=1630` - Time to reach Egg shop
+- `WalkToQueenBee=8170` - Time to reach Queen Bee
+  `WalkToQueenBeeUp=300` - Time to reach Up Queen Bee
 ## ⚙️ Dev Settings
 
 - `debugMode=1` - Write `MacroDebugLog.txt`

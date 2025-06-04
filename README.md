@@ -48,10 +48,10 @@
 > Bitraven is designed to safeguard `.exe` and `.btrv` files.  
 > It’s not malware — it’s just extremely private about what it does. 😉
 
-### Microsoft Windows Defender Team  
-I sincerely thank the **Microsoft Windows Defender Team** for allowing this macro to run safely on **Windows 10 and 11** systems.  
-Thank you for your support — it is truly appreciated.  
-(*Please make sure your Windows Defender is updated to the latest version to ensure this applies properly, if necessary.*)
+## 🛡️Microsoft Windows Defender Team  
+> I sincerely thank the **Microsoft Windows Defender Team** for allowing this macro to run safely on **Windows 10 and 11** systems.  
+> Thank you for your support — it is truly appreciated.  
+> (*Please make sure your Windows Defender is updated to the latest version to ensure this applies properly, if necessary.*)
 
 ## 📦 Download
 

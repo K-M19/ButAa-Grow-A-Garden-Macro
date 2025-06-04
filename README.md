@@ -57,11 +57,11 @@
 
 **📜 Please read the [license and terms](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/LICENSE.md) before downloading. By using this software, you agree to them.**
 
-- 🔗 [Download V3.2](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/download/V3.2/ButAa-Grow-A-Garden-Macro.V.3.2.7z)
+- 🔗 [Download V3.3](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/download/V3.3/ButAa-Grow-A-Garden-Macro.V.3.3.7z)
 - 📝 [Changelog](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Update.md)
 - ❓ [Q&A](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Q&A.md)
-- 🛡️ [VirusTotal Report](https://www.virustotal.com/gui/file/c98a329bbc49e735c67f0cac9571e361b923672dd2639e1d82392f3c01662df3)
-- 🛡️ [Neiki.Dev Report](https://tip.neiki.dev/file/c98a329bbc49e735c67f0cac9571e361b923672dd2639e1d82392f3c01662df3)
+- 🛡️ [VirusTotal Report](https://www.virustotal.com/gui/file/8dd4ab7ead35fbd8554868ec97708c3d8a3e9cd240f9ce518c065065ca14afe9)
+- 🛡️ [Neiki.Dev Report](https://tip.neiki.dev/file/8dd4ab7ead35fbd8554868ec97708c3d8a3e9cd240f9ce518c065065ca14afe9)
 ## 🎥 Tutorial
 
 - 📺 [Watch Video](https://youtu.be/Q77zyCgRnCg)
@@ -80,8 +80,6 @@
 | F6  | Reload |
 | F8  | Exit   |
 
-## ⚙️ Control Settings
-- `UsingRecallWrench` - Use Recall Wrench (slot 1)
 ---
 
 ## 📬 Contact & Support

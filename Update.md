@@ -1,3 +1,27 @@
+## Update Log (V.3.2) - 🍯Onett-Day🐝
+### Removed
+- **Forced Update**: The macro no longer forces you to use the latest version. You can now use older versions freely without being locked out. However, a notification window for the new update will always appear each time the macro starts or reloads.
+- **HotKeyDebug**
+- **WalkToMoonShopAllTimes**: Back Soon!
+### New Features
+- **New**: Time to Bee Swarm
+- **New**: Hello Onett (Automatically generates Honey on each run — Note: You must have the Pollinate mutation in your Backpack)
+- **New**: UI changes
+- **New**: Added `DevZone` under `Settings` (A section with debugging tools to help you inspect and use them more easily) - Activate and reload to enter Developer mode.
+### Bug Fixes
+- **Fixed**: Movement bug caused by periodic changes in map sizes.
+## Engine
+- **MacroMaker-Engine**: Version `463.1.Ahk`.
+- **BITRAVEN**: Version `Tech 8.1`.
+### Microsoft Windows Defender Team  
+I sincerely thank the **Microsoft Windows Defender Team** for allowing this macro to run safely on **Windows 10 and 11** systems.  
+Thank you for your support — it is truly appreciated.  
+(*Please make sure your Windows Defender is updated to the latest version to ensure this applies properly, if necessary.*)
+---
+> 🙏 **Thanks @k.btyep** for Coding support for this update!  
+> 🙏 **Thanks @Ryan✈** for the suggestion!
+
+
 ## Update Log (V.3.1) - 🍯BIZZY BEES🐝
 ### Removed
 - **AutoRejoin**: Removed due to lack of usefulness. It often caused errors on slower machines, such as those using HDDs or experiencing lag, and also increased false positives.

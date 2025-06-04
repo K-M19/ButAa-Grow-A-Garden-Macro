@@ -48,15 +48,20 @@
 > Bitraven is designed to safeguard `.exe` and `.btrv` files.  
 > It’s not malware — it’s just extremely private about what it does. 😉
 
+### Microsoft Windows Defender Team  
+I sincerely thank the **Microsoft Windows Defender Team** for allowing this macro to run safely on **Windows 10 and 11** systems.  
+Thank you for your support — it is truly appreciated.  
+(*Please make sure your Windows Defender is updated to the latest version to ensure this applies properly, if necessary.*)
+
 ## 📦 Download
 
 **📜 Please read the [license and terms](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/LICENSE.md) before downloading. By using this software, you agree to them.**
 
-- 🔗 [Download V3.1](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/download/V3.1/ButAa-Grow-A-Garden-Macro.V.3.1.7z)
+- 🔗 [Download V3.2](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/download/V3.2/ButAa-Grow-A-Garden-Macro.V.3.2.7z)
 - 📝 [Changelog](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Update.md)
 - ❓ [Q&A](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Q&A.md)
-- 🛡️ [VirusTotal Report](https://www.virustotal.com/gui/file/af6128ca0da22352c3c01bf310a2f4dd3b0e53aec68c4c350122350235f11aa0)
-- 🛡️ [Neiki.Dev Report](https://tip.neiki.dev/file/af6128ca0da22352c3c01bf310a2f4dd3b0e53aec68c4c350122350235f11aa0)
+- 🛡️ [VirusTotal Report](https://www.virustotal.com/gui/file/c98a329bbc49e735c67f0cac9571e361b923672dd2639e1d82392f3c01662df3)
+- 🛡️ [Neiki.Dev Report](https://tip.neiki.dev/file/c98a329bbc49e735c67f0cac9571e361b923672dd2639e1d82392f3c01662df3)
 ## 🎥 Tutorial
 
 - 📺 [Watch Video](https://youtu.be/Q77zyCgRnCg)
@@ -75,47 +80,8 @@
 | F6  | Reload |
 | F8  | Exit   |
 
-### 🐞 Debug Keys (Enable via `HotKeyDebug=1` in config)
-
-| Key     | Debug Action       |
-| ------- | ------------------ |
-| Ctrl+F1 | Test RunLoad       |
-| Ctrl+F2 | Test FixCam        |
-| Ctrl+F3 | Test Seeds Shop    |
-| Ctrl+F4 | Test Gear Shop     |
-| Ctrl+F5 | Test Egg Shop      |
-| Ctrl+F6 | Test Event zone    |
-| Ctrl+F7 | Test Cosmetic Shop |
-
 ## ⚙️ Control Settings
-- `UsingRecallWrench=1` - Use Recall Wrench (slot 1)
-
-## ⚙️ Macro-Control Settings
-
-- `ClickBuy=` - Set mouse click count
-- `WalktoGear=16860` - Time to reach Gear shop
-- `WalktoCosmeticShop=750`- Time to reach Cosmetic Shop
-- `WalktoEgg=1630` - Time to reach Egg shop
-- `WalkToQueenBee=8170` - Time to reach Queen Bee
-  `WalkToQueenBeeUp=300` - Time to reach Up Queen Bee
-## ⚙️ Dev Settings
-
-- `debugMode=1` - Write `MacroDebugLog.txt`
-- `HotKeyDebug=1` - Enable debug hotkeys
-- `PlayNotifySound=1` - Enable notification sounds
-
-## ⚙️ Discord Settings
-
-- `webhookURL=` - Your Discord webhook URL
-
-## ⚙️ `PSConfig.ini` Settings
-
-Make sure `AutoRejoin` is enabled in the UI settings. This feature requires configuration in the `PSConfig.ini` file:
-
-- `PrivateServerLink=` is where you insert your Private Server link. Open the link in your browser first, then copy and paste it here.  
-  **Example**:`https://www.roblox.com/games/126884695634066/Grow-a-Garden?privateServerLinkCode=452676255653203881808469`
-- `webhookURL=` is where you'll receive notifications if AutoRejoin is successful or not.
-
+- `UsingRecallWrench` - Use Recall Wrench (slot 1)
 ---
 
 ## 📬 Contact & Support

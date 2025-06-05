@@ -48,20 +48,19 @@
 > Bitraven is designed to safeguard `.exe` and `.btrv` files.  
 > It’s not malware — it’s just extremely private about what it does. 😉
 
-## 🛡️Microsoft Windows Defender Team  
-> I sincerely thank the **Microsoft Windows Defender Team** for allowing this macro to run safely on **Windows 10 and 11** systems.  
-> Thank you for your support — it is truly appreciated.  
-> (*Please make sure your Windows Defender is updated to the latest version to ensure this applies properly, if necessary.*)
+## 🛡️ Microsoft Windows Defender Team  
+> I sincerely thank the **Microsoft Windows Defender Team** for ensuring that this macro can run safely on **Windows 10 and 11** systems.  
+> *(Please make sure your Windows Defender is updated to the latest version to ensure full compatibility, if necessary.)*
 
 ## 📦 Download
 
 **📜 Please read the [license and terms](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/LICENSE.md) before downloading. By using this software, you agree to them.**
 
-- 🔗 [Download V3.3](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/download/V3.3/ButAa-Grow-A-Garden-Macro.V.3.3.7z)
+- 🔗 [Download (V3.3.FixP1)](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/download/V3.3.FixP1/ButAa-Grow-A-Garden-Macro.V.3.3.FixP1.7z)
 - 📝 [Changelog](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Update.md)
 - ❓ [Q&A](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Q&A.md)
-- 🛡️ [VirusTotal Report](https://www.virustotal.com/gui/file/8dd4ab7ead35fbd8554868ec97708c3d8a3e9cd240f9ce518c065065ca14afe9)
-- 🛡️ [Neiki.Dev Report](https://tip.neiki.dev/file/8dd4ab7ead35fbd8554868ec97708c3d8a3e9cd240f9ce518c065065ca14afe9)
+- 🛡️ [VirusTotal Report](https://www.virustotal.com/gui/file/394cae20c02914d1c65d69aaaff3b2947166d6eda4035edda4d5066922e31093)
+- 🛡️ [Neiki.Dev Report](https://tip.neiki.dev/file/394cae20c02914d1c65d69aaaff3b2947166d6eda4035edda4d5066922e31093)
 ## 🎥 Tutorial
 
 - 📺 [Watch Video](https://youtu.be/Q77zyCgRnCg)

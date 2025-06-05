@@ -1,3 +1,15 @@
+## Update Log (V.3.3.FixP1) - 🛠️ FixPack 🛠️
+### Bug Fixes
+- **Fixed**: The Onett area was inaccurate.
+- **Fixed**: A bug where Fruit wasn't delivered to Onett and instead automatically returned to the Garden.
+- **Fixed**: Multiple issues related to poor performance have been resolved.
+### Quality
+- **Using RecallWrench**: (Only works if all Cosmetics are Off) Reduces the use of the **Recall Wrench** to a minimum. If you enable **Using RecallWrench** after shopping at the Gears Shop, the macro will not return to the Garden but will instead continue buying eggs without going back.
+## Engine
+- **MacroMaker-Engine**: Version `495.c2.Ahk`.
+---
+> 🤝 Thanks to the **Microsoft Windows Defender Team** for supporting this project!
+
 ## Update Log (V.3.3) -❤️Quality of Life❤️
 ### New Features
 - **New**: Automatically join your private server with a single click — this is optimized for low-resource devices such as Pi3 or Pi4.

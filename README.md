@@ -56,11 +56,11 @@
 
 **📜 Please read the [license and terms](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/LICENSE.md) before downloading. By using this software, you agree to them.**
 
-- 🔗 [Download (V3.3.FixP1)](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/download/V3.3.FixP1/ButAa-Grow-A-Garden-Macro.V.3.3.FixP1.7z)
+- 🔗 [Download (V3.3.FixP2)](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/download/V3.3.FixP2/ButAa-Grow-A-Garden-Macro.V.3.3.FixP2.7z)
 - 📝 [Changelog](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Update.md)
 - ❓ [Q&A](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Q&A.md)
-- 🛡️ [VirusTotal Report](https://www.virustotal.com/gui/file/394cae20c02914d1c65d69aaaff3b2947166d6eda4035edda4d5066922e31093)
-- 🛡️ [Neiki.Dev Report](https://tip.neiki.dev/file/394cae20c02914d1c65d69aaaff3b2947166d6eda4035edda4d5066922e31093)
+- 🛡️ [VirusTotal Report](https://www.virustotal.com/gui/file/8afbe06aa782bf79b1c2d67a3f939a81d6149ffb9513b8e456d677386577d8f0)
+- 🛡️ [Neiki.Dev Report](https://tip.neiki.dev/file/8afbe06aa782bf79b1c2d67a3f939a81d6149ffb9513b8e456d677386577d8f0)
 ## 🎥 Tutorial
 
 - 📺 [Watch Video](https://youtu.be/Q77zyCgRnCg)

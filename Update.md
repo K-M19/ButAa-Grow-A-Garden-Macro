@@ -1,3 +1,9 @@
+## Update Log (V.3.3.FixP2) - 🛠️ FixPack 2 🛠️
+### Bug Fixes
+- **Fixed**: A bug where Fruit wasn't delivered to Onett and instead automatically returned to the Garden (Part 2 T-T).
+---
+> 🤝 Thanks to the **Microsoft Windows Defender Team** for supporting this project!
+
 ## Update Log (V.3.3.FixP1) - 🛠️ FixPack 🛠️
 ### Bug Fixes
 - **Fixed**: The Onett area was inaccurate.

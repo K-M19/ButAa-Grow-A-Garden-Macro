@@ -1,3 +1,14 @@
+## Update Log (V.3.4) - 🍯BIZZY BEES - Part 2🐝
+### New Features
+- **New**: Added new items in the BIZZY BEES - Part 2 event.
+- **New**: Made Honey Only – Only use this if you have too many Pollinate mutations.
+### Bug Fixes
+- **Fixed**: All lingering issues from version `V.3.3` have been fully resolved.
+## Engine
+- **MacroMaker-Engine**: Version `503.Q4.Ahk`.
+- **BITRAVEN**: Version `Tech 8.2` – Will retaliate when under threat. Don’t worry, it’s not hostile, but it will react when provoked (e.g., unpacking, reverse engineering, debugging).
+---
+> 🤝 Thanks to the **Microsoft Windows Defender Team** for supporting this project!
 ## Update Log (V.3.3.3) - 🛠️ FixPack 3 🛠️
 ### New Features
 - **New**: Reworked the macro operation workflow.

@@ -14,27 +14,20 @@
 
 ---
 
-> ⚠️ **Warning**  
-> As of version **V2.0**, the macro operates smoothly on almost any screen resolution.  
-> However, it's highly recommended to use **HD (1280×720)** or higher.  
-> The macro window runs at **800×600** for optimal performance.
 
----
-
-> ⚠️ **Important**  
-> This macro is **no longer supported on Windows 7/8/8.1**.  
-> Please upgrade to **Windows 10 or 11** to continue using it.
+## 🖥️ Operating System
+✅ - Windows 10/11 64-bit  
+❌ - Windows 7/8/8.1 or (Win 10 - 32-bit)  
+❌ - ARM or ARM64 (Soon)
 
 ---
 
 ## 🔧 About
-
 - A simple macro tool to auto-buy seeds in idle mode.
 - Currently in **beta / dev** stage.
 - Use at your **own risk**.
 
 ## 🧠 Before You Start
-
 - Launch the game in **full screen** before using the macro.
 - On first run, you may see **Access Denied**. Open `config.ini` to configure settings.
 - Always **run as administrator**.
@@ -42,7 +35,6 @@
 - Roblox must be **opened in windowed mode** before the macro starts.
 
 ## 🛡️ DRM / Antivirus Notice
-
 > Some antivirus software may detect this macro as a **false positive**.  
 > That’s because it’s protected with **Bitraven DRM**, which prevents reverse engineering.  
 > Bitraven is designed to safeguard `.exe` and `.btrv` files.  
@@ -56,11 +48,11 @@
 
 **📜 Please read the [license and terms](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/LICENSE.md) before downloading. By using this software, you agree to them.**
 
-- 🔗 [Download (V3.3.FixP2)](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/download/V3.3.FixP2/ButAa-Grow-A-Garden-Macro.V.3.3.FixP2.7z)
+- 🔗 [Download (V3.3.3)](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/download/V3.3.3/ButAa-Grow-A-Garden-Macro.V.3.3.3.7z)
 - 📝 [Changelog](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Update.md)
 - ❓ [Q&A](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Q&A.md)
-- 🛡️ [VirusTotal Report](https://www.virustotal.com/gui/file/8afbe06aa782bf79b1c2d67a3f939a81d6149ffb9513b8e456d677386577d8f0)
-- 🛡️ [Neiki.Dev Report](https://tip.neiki.dev/file/8afbe06aa782bf79b1c2d67a3f939a81d6149ffb9513b8e456d677386577d8f0)
+- 🛡️ [VirusTotal Report](https://www.virustotal.com/gui/file/f3298f4c4f9b13e83ccb3728a4d354a495349ff5569ddf20fc7dd1593df3eed0)
+- 🛡️ [Neiki.Dev Report](https://tip.neiki.dev/file/f3298f4c4f9b13e83ccb3728a4d354a495349ff5569ddf20fc7dd1593df3eed0)
 ## 🎥 Tutorial
 
 - 📺 [Watch Video](https://youtu.be/1xlQRsJ1-B4)

@@ -1,3 +1,18 @@
+## Update Log (V.3.3.3) - 🛠️ FixPack 3 🛠️
+### New Features
+- **New**: Reworked the macro operation workflow.
+- **New**: Redesigned the testing process in the DevZone tab.
+### Bug Fixes
+- **Fixed**: Issue related to the player's camera malfunctioning, preventing zoom or control.
+- **Fixed**: Bug causing unintended item holding.
+- **Fixed**: Movement errors caused by incorrect macro actions.
+- **Fixed**: Hidden item issue in the recent update, which caused the macro to be unable to purchase items located at the bottom.
+## Engine
+- **MacroMaker-Engine**: Version `500.c1.Ahk`.
+---
+> 🙏 **Thanks @viktore** for bug reports!
+> 🤝 Thanks to the **Microsoft Windows Defender Team** for supporting this project!
+
 ## Update Log (V.3.3.FixP2) - 🛠️ FixPack 2 🛠️
 ### Bug Fixes
 - **Fixed**: A bug where Fruit wasn't delivered to Onett and instead automatically returned to the Garden (Part 2 T-T).

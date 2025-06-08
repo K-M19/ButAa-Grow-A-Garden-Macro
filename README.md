@@ -24,7 +24,7 @@
 
 ## 🧠 Before You Start
 - Roblox must be **opened in windowed mode** before the macro starts.
-- No Need Off `Windows Defender`
+- No Need Off **Windows Defender**
 
 ## 🛡️ DRM / Antivirus Notice
 > Some antivirus software may detect this macro as a **false positive**.  

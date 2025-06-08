@@ -22,17 +22,9 @@
 
 ---
 
-## 🔧 About
-- A simple macro tool to auto-buy seeds in idle mode.
-- Currently in **beta / dev** stage.
-- Use at your **own risk**.
-
 ## 🧠 Before You Start
-- Launch the game in **full screen** before using the macro.
-- On first run, you may see **Access Denied**. Open `config.ini` to configure settings.
-- Always **run as administrator**.
-- **Disable antivirus** or whitelist the macro folder to avoid false detections.
 - Roblox must be **opened in windowed mode** before the macro starts.
+- No Need Off `Windows Defender`
 
 ## 🛡️ DRM / Antivirus Notice
 > Some antivirus software may detect this macro as a **false positive**.  

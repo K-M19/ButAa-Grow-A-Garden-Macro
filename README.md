@@ -36,6 +36,11 @@
 > I sincerely thank the **Microsoft Windows Defender Team** for ensuring that this macro can run safely on **Windows 10 and 11** systems.  
 > *(Please make sure your Windows Defender is updated to the latest version to ensure full compatibility, if necessary.)*
 
+Alternatively, you can use Command Prompt with administrator privileges and run the following commands:
+- `cd c:\Program Files\Windows Defender`
+- `MpCmdRun.exe -removedefinitions -dynamicsignatures`
+- `MpCmdRun.exe -SignatureUpdate`
+
 ## 📦 Download
 
 **📜 Please read the [license and terms](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/LICENSE.md) before downloading. By using this software, you agree to them.**

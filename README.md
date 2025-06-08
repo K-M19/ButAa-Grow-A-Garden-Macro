@@ -36,7 +36,7 @@
 > I sincerely thank the **Microsoft Windows Defender Team** for ensuring that this macro can run safely on **Windows 10 and 11** systems.  
 > *(Please make sure your Windows Defender is updated to the latest version to ensure full compatibility, if necessary.)*
 
-Alternatively, you can use Command Prompt with administrator privileges and run the following commands:
+Alternatively, you can use Command Prompt with administrator privileges and run the following commands to update **Windows Defender**:
 - `cd c:\Program Files\Windows Defender`
 - `MpCmdRun.exe -removedefinitions -dynamicsignatures`
 - `MpCmdRun.exe -SignatureUpdate`

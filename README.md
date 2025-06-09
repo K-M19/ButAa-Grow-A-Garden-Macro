@@ -26,6 +26,9 @@
 - Roblox must be **opened in windowed mode** before the macro starts.
 - No Need Off **Windows Defender**
 
+> [!IMPORTANT]  
+> The software works perfectly on all screen sizes, as long as it's 1280×720 or higher.
+
 ## 🛡️ DRM / Antivirus Notice
 > Some antivirus software may detect this macro as a **false positive**.  
 > That’s because it’s protected with **Bitraven DRM**, which prevents reverse engineering.  

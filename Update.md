@@ -1,3 +1,11 @@
+## Update Log (V.3.4.1) - 🛠️ FixPack 1 🛠️
+### Bug Fixes
+- **Fixed**: The issue is related to the second run when reaching the Gear Shop.
+- **Fixed**: Performance optimization was not smooth, but it has been fixed. The macro now runs 16% faster.
+### Sorry
+- I apologize for the poor 3.4 update. I had to update the macro while sleep-deprived and without proper benchmarking.
+---
+> 🤝 Thanks to the **Microsoft Windows Defender Team** for supporting this project!
 ## Update Log (V.3.4) - 🍯BIZZY BEES - Part 2🐝
 ### New Features
 - **New**: Added new items in the BIZZY BEES - Part 2 event.

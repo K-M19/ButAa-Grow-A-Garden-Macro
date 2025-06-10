@@ -1,3 +1,14 @@
+## Update Log (V.3.5) - 🖥️🖥️ Multi-Instance 🖥️🖥️🖥️
+### New Features
+- **Multi-Instance**: Now available, supporting a maximum of 5 accounts. (Ensure all accounts have a Recall Wrench for smooth operation.) You must enable DevZone before use otherwise, it will be disabled by default.
+- **Save-Times**: Turn this off if you don't want to return to EggShop or QueenBee every run. It will return after 30 minutes from the first run.
+- **Save-Times**: Ensure your computer's time matches (https://time.is/Canada). Only the minutes need to match, the hour is not important.
+### Bug Fixes
+- **Fixed**: Fixed an issue where the wrong item was purchased (at the gears shop for Friendship Pot).
+## Engine
+- **MacroMaker-Engine**: Version `516.R0.Ahk`.
+---
+> 🤝 Thanks to the **Microsoft Windows Defender Team** for supporting this project!
 ## Update Log (V.3.4.1) - 🛠️ FixPack 1 🛠️
 ### Bug Fixes
 - **Fixed**: The issue is related to the second run when reaching the Gear Shop.

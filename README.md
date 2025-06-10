@@ -48,11 +48,11 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 
 **📜 Please read the [license and terms](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/LICENSE.md) before downloading. By using this software, you agree to them.**
 
-- 🔗 [Download (V3.4.1)](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/download/V3.4.1/ButAa-Grow-A-Garden-Macro.V.3.4.1.7z)
+- 🔗 [Download (V3.5)](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/download/V3.5/ButAa-Grow-A-Garden-Macro.V.3.5.7z)
 - 📝 [Changelog](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Update.md)
 - ❓ [Q&A](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Q&A.md)
-- 🛡️ [VirusTotal Report](https://www.virustotal.com/gui/file/ce50a7dc6f0e830eebd91f9fe39872821dbc7875dc02271bf9a8cb1ed1eabf19)
-- 🛡️ [Neiki.Dev Report](https://tip.neiki.dev/file/ce50a7dc6f0e830eebd91f9fe39872821dbc7875dc02271bf9a8cb1ed1eabf19)
+- 🛡️ [VirusTotal Report](https://www.virustotal.com/gui/file/6c94cf52078c2384678fa074aea0fa93030bf3bb0617f18b3fe3cedf67834caf)
+- 🛡️ [Neiki.Dev Report](https://tip.neiki.dev/file/6c94cf52078c2384678fa074aea0fa93030bf3bb0617f18b3fe3cedf67834caf)
 ## 🎥 Tutorial
 
 - 📺 [Watch Video](https://youtu.be/1xlQRsJ1-B4)

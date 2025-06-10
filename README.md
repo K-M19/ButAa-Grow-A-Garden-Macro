@@ -51,8 +51,8 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 - 🔗 [Download (V3.5)](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/download/V3.5/ButAa-Grow-A-Garden-Macro.V.3.5.7z)
 - 📝 [Changelog](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Update.md)
 - ❓ [Q&A](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Q&A.md)
-- 🛡️ [VirusTotal Report](https://www.virustotal.com/gui/file/6c94cf52078c2384678fa074aea0fa93030bf3bb0617f18b3fe3cedf67834caf)
-- 🛡️ [Neiki.Dev Report](https://tip.neiki.dev/file/6c94cf52078c2384678fa074aea0fa93030bf3bb0617f18b3fe3cedf67834caf)
+- 🛡️ [VirusTotal Report](https://www.virustotal.com/gui/file/a270a3e9194987a9273b61dc06ba4c0fd4aacb5107f78f35ea1cdaf1d7675ab7)
+- 🛡️ [Neiki.Dev Report](https://tip.neiki.dev/file/a270a3e9194987a9273b61dc06ba4c0fd4aacb5107f78f35ea1cdaf1d7675ab7)
 ## 🎥 Tutorial
 
 - 📺 [Watch Video](https://youtu.be/1xlQRsJ1-B4)

@@ -1,3 +1,23 @@
+## 🛠️ Update Log IMB - (V.3.6.1) - IMB-Endcode 🛠️
+### 🐞 Fixes
+- **False Positive Warning**:  
+  I have contacted the **Microsoft Windows Defender Team**, and they suggested using a new encoding method called **IMB-Endcode** to build my software.  
+  I've integrated this new encoding approach. According to them, it helps reduce false positives significantly.  
+  While I can't guarantee its effectiveness 100%, I tested it on two emulators using Windows 10 (19045.6029) and Windows 11 (26100.4351) - both 64-bit, and the software was **not flagged** as a virus.
+### 🧰 Solution
+If your software is still being flagged as a virus, try the following:
+1. Make sure your Windows is up to date.
+2. Use these commands to manually update Windows Defender:
+   ```cmd
+   cd "C:\Program Files\Windows Defender"
+   MpCmdRun.exe -removedefinitions -dynamicsignatures
+   MpCmdRun.exe -SignatureUpdate
+### 🙏 Thanks & Apologies
+>Huge thanks to the Microsoft Windows Defender Team for their guidance and support on the new encoding method.
+
+>Apologies to all users affected by the false threat alert from the previous update (V.3.6.1).
+---
+> 🤝 Thanks to the **Microsoft Windows Defender Team** for supporting this project!
 ## Update Log (V.3.6.1) - 🛠️ FixPack 1 🛠️
 ### Bug Fixes
 - **Refresh ID**: This issue was fixed during the build process.

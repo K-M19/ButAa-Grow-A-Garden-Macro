@@ -48,11 +48,10 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 
 **📜 Please read the [license and terms](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/LICENSE.md) before downloading. By using this software, you agree to them.**
 
-- 🔗 [Download (V3.6)](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases)
+- 🔗 [Download](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases)
 - 📝 [Changelog](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Update.md)
 - ❓ [Q&A](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Q&A.md)
-- 🛡️ [VirusTotal Report](https://www.virustotal.com/gui/file/cd08661ba4a83aa51aea064e3315ca3a3c9137ba49b8f7fba28e7515fc6803f9)
-- 🛡️ [Neiki.Dev Report](https://tip.neiki.dev/file/cd08661ba4a83aa51aea064e3315ca3a3c9137ba49b8f7fba28e7515fc6803f9)
+
 ## 🎥 Tutorial
 
 - 📺 [Watch Video](https://youtu.be/1xlQRsJ1-B4)

@@ -1,3 +1,8 @@
+## Update Log (V.3.6.1) - 🛠️ FixPack 1 🛠️
+### Bug Fixes
+- **Refresh ID**: This issue was fixed during the build process.
+---
+> 🤝 Thanks to the **Microsoft Windows Defender Team** for supporting this project!
 ## Update Log (V.3.6) - 🛠️ Rework 🛠️
 ### New Features
 - **SpeedMode**: Redesigned speed settings with adjustable options in the settings tab.

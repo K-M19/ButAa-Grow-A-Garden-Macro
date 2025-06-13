@@ -26,6 +26,10 @@
 - Roblox must be **opened in windowed mode** before the macro starts.
 - No Need Off **Windows Defender**
 
+## 🛠️ Display settings
+- 1920 X 1080 (Recommended)
+- 100% Scale (Recommended)
+
 > [!IMPORTANT]  
 > The software works perfectly on all screen sizes, as long as it's 1280×720 or higher.
 

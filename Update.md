@@ -1,3 +1,21 @@
+## Update Log (V.3.6) - 🛠️ Rework 🛠️
+### New Features
+- **SpeedMode**: Redesigned speed settings with adjustable options in the settings tab.
+- **Anti-Menu**: The macro now auto SyncCams when stuck in a menu with first-person view.
+- **Patterns**: Fully customizable to suit your preferences — familiar if you've used Natro-Macro before.
+- **Webhook**: Rebuilt; now pings yourself when all items are successfully purchased.
+- **Multi-Instance**:
+  - Reworked to better and more accurately detect Roblox (only works with native Roblox, not Microsoft Roblox. I recommend using **Bloxstrap** since this was tested with it).
+  - Added an infinite loop feature when using more than 2 multi-instances.
+- **Made Honey**: Reworked for smoother and faster performance.
+- **DevZone**: Added more features for tinkering and experimentation.
+### Bug Fixes
+- **Shop - Buy**: Fixed bugs related to buying the wrong or incorrect item.
+  - *(Note: this wasn't caused by the macro itself but due to a 3px UI shift in the game menu, which misled the macro — it has now been slightly optimized).*
+---
+### Engine
+- **MacroMaker-Engine**: Version `539.T1.Ahk`.
+> 🤝 Thanks to the **Microsoft Windows Defender Team** for supporting this project!
 ## Update Log (V.3.5) - 🖥️🖥️ Multi-Instance 🖥️🖥️🖥️
 ### New Features
 - **Multi-Instance**: Now available, supporting a maximum of 5 accounts. (Ensure all accounts have a Recall Wrench for smooth operation.) You must enable DevZone before use otherwise, it will be disabled by default.

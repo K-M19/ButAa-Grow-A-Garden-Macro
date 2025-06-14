@@ -1,3 +1,21 @@
+## 🛠️ Update Log (V.3.6.2) - 🐝 WORKING BEE ⚙️
+### Additions
+- **Sugar Apple**
+- **Cleaning Spray**
+### 🐞 Fixes
+- **Made Honey**: Added 30 extra loops to the honey generator to avoid infinite loops (it was still looping endlessly on "Made Honey Only").
+- **Server**: Fixed an issue preventing key activation in certain countries.
+- **Webhook**: Adjusted for slightly faster response times.
+- **Ping**: No more random ping spam! The macro now only notifies for the following items:
+  - **Seeds**: Divine, Prismatic
+  - **Gears**: Godly Sprinkler, Lightning Rod, Master Sprinkler
+  - **Bee Queen**: Bee-Egg, Honey Sprinkler, Nectar Staff, Pollen Radar
+  - **Eggs**: Bug-Egg, Mythical-Egg
+### 🛠️ Coming Soon
+- **UI Navigation**
+---
+> 🙏 **Special thanks** to *( astr1x._. | meisboredd | deltacenzo. | somerandomidot )* for the bug reports and suggestions!  
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** for their support on this project!
 ## 🛠️ Update Log IMB - (V.3.6.1) - IMB-Endcode 🛠️
 ### 🐞 Fixes
 - **False Positive Warning**:  

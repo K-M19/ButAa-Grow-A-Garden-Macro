@@ -1,3 +1,13 @@
+## 🛠️ Update Log (V.3.6.3) - 🛠️ FixPack 2 🛠️
+### 🧰 New Features
+- **Core-Files**: Implemented high-compression standard, reducing original size by **84.62%** compared to the previous version.
+- **Credits**: Added contributors to the Credits list.
+### 🐞 Fixes
+- **Save**: Fixed several bugs related to random save issues during certain save attempts.
+### 🛠️ Coming Soon
+- **UI Navigation**
+---
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** for their support on this project!
 ## 🛠️ Update Log (V.3.6.2) - 🐝 WORKING BEE ⚙️
 ### Additions
 - **Sugar Apple**

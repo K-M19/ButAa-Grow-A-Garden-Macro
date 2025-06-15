@@ -1,3 +1,13 @@
+## 🛠️ Preview (V.3.7) - 🛠️ Preview-Beta 🛠️
+### 🧰 New Features
+- **UI Navigation**: I created this version for experimental purposes only. Please note that this is the final version and will not receive bug fixes or updates—unless I change my mind (Currently, EggShop does not support UI navigation and still uses click-based mechanics, as this is where I’ve encountered the most bugs.)
+- **Main**: I’ve fine-tuned it so it now automatically detects the purchase button more accurately by scanning nearby colors and pixels.
+### 🛠️ Coming Soon
+- **Craft Bear BEE!!**
+### Engine
+- **MacroMaker-Engine**: Version `539.T1.Ahk`.
+---
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** for their support on this project!
 ## 🛠️ Update Log (V.3.6.3) - 🛠️ FixPack 2 🛠️
 ### 🧰 New Features
 - **Core-Files**: Implemented high-compression standard, reducing original size by **84.62%** compared to the previous version.

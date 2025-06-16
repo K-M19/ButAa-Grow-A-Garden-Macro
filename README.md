@@ -25,7 +25,12 @@
 ## 🧠 Before You Start
 - Roblox must be **opened in windowed mode** before the macro starts.
 - No Need Off **Windows Defender**
-
+  
+## ⚙️ Roblox Settings
+- Shift Lock: **OFF**
+- Camera Mode: **Default**
+- Movement Mode: **Default**
+  
 ## 🛠️ Display settings
 - 1920 X 1080 (Recommended)
 - 100% Scale (Recommended)

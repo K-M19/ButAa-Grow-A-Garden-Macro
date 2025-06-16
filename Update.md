@@ -1,3 +1,19 @@
+## 🛠️ Update Log (V.3.7) - 🛠️ New purchase checking system 🛠️
+### 🧰 New Features
+- **Click Buy**: I’ve fine-tuned it so it now automatically detects the purchase button more accurately by scanning nearby colors and pixels.
+### 🐞 Fixes
+- **Function recursion limit was exceeded**: The function recursion limit has been removed and replaced to prevent repetition when using the macro for over 3 hours.
+- **Server**: The number of simultaneous access requests has been increased, now handling up to 600 key access requests per second, compared to the previous limit of **600 total requests in one second**.
+- **RAM**: The macro is now limited to using a maximum of **16MB** of **RAM**, preventing it from expanding over time during prolonged use.
+- **BITRAVEN**: Aggressive behavior toward debugging tools has been removed, as it could cause errors after several hours of operation.
+- **🐞**: **23** hidden bugs have been discovered and fixed.
+### 🛠️ Coming Soon
+- **Craft Bear BEE!!**: I'm checking to see if it's doable
+### ⚙️ Engine
+- **MacroMaker-Engine**: Version `550.d2.Ahk`.
+- **BITRAVEN**: Version `Tech 9` - Enhances metadata compression, reduces the number of checks, and increases the number of deep scan cycles.
+---
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** for their support on this project!
 ## 🛠️ Preview (V.3.7) - 🛠️ Preview-Beta 🛠️
 ### 🧰 New Features
 - **UI Navigation**: I created this version for experimental purposes only. Please note that this is the final version and will not receive bug fixes or updates—unless I change my mind (Currently, EggShop does not support UI navigation and still uses click-based mechanics, as this is where I’ve encountered the most bugs.)

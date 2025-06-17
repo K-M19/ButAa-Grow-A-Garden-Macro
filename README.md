@@ -35,8 +35,8 @@
 - 1920 X 1080 (Recommended)
 - 100% Scale (Recommended)
 
-> [!IMPORTANT]  
-> The software works perfectly on all screen sizes, as long as it's 1280×720 or higher.
+> [!WARNING]  
+> The macro is designed to run at a resolution of 1920x1080 (16:9) with Scale (DPI) set to 100%. I cannot guarantee that it will function correctly at other resolutions.
 
 ## 🛡️ DRM / Antivirus Notice
 > Some antivirus software may detect this macro as a **false positive**.  

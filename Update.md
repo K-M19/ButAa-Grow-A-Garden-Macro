@@ -1,4 +1,4 @@
-# 🛠️ Update Log (v3.8) - 🛠️ Auto Crafting Macro & MacroMaker Engine🛠️ 
+# 🛠️ Update Log (v3.8) - 🛠️ Auto Crafting & MacroMaker Engine🛠️ 
 ## 🧰 New Features
 ### 📦 Crafting Bench
 * **Crafters Seed Pack**

@@ -1,3 +1,35 @@
+# 🛠️ Update Log (v3.8) - 🛠️ Auto Crafting Macro & MacroMaker Engine🛠️ 
+## 🧰 New Features
+### 📦 Crafting Bench
+* **Crafters Seed Pack**
+### 🐝 Bear-Bee Items
+* **Tropical Mist Sprinkler**
+* **Berry Blusher Sprinkler**
+* **Spice Spritzer Sprinkler**
+* **Sweet Soaker Sprinkler**
+* **Flower Froster Sprinkler**
+* **Stalk Sprout Sprinkler**
+* **Anti-Bee**
+> 🚧 *This system is currently experimental. More items will be added in future updates.*
+### 💸 Donate
+* A donation link to Roblox is being added.
+* If you enjoy using this macro, feel free to support me with a donation \:D
+---
+## 🐞 Bug Fixes
+* Fixed: **Function recursion limit was exceeded**
+---
+## ⚙️ MacroMaker Engine
+### Version: `556.h4.Ahk`
+* MacroMaker-Engine is now **separated from the main AutoHotkey branch**.
+* **Python integration** allows for more flexibility and extended functionality.
+* **Officially registered and protected** after 7 years (2018–2025).
+* This is the **first public version** using the new engine.
+You can now:
+* Use the **MacroMaker toolkit** in the `core/` folder to build your own AutoHotkey commands.
+* Benefit from **AutoHotkey v1.1** for easier scripting.
+> ⚠️ Version 2.0 of the engine is still under development. Release date is currently unknown.
+---
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** for their support on this project!
 ## 🛠️ Update Log (V.3.7) - 🛠️ New purchase checking system 🛠️
 ### 🧰 New Features
 - **Click Buy**: I’ve fine-tuned it so it now automatically detects the purchase button more accurately by scanning nearby colors and pixels.

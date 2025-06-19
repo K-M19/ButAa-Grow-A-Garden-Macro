@@ -9,7 +9,7 @@
 ## 🐞 Bug Fixes
 * Fixed:  Continued fixing the **Function recursion limit was exceeded** error.
 ---
-## 🖥️ Loại bỏ Multi-Instance
+## 🖥️ Multi-Instance Removed
 * I’ll be focusing on the core features of the macro instead of juggling extra functions like before. If you want to use Multi-Instance, consider using an older version or switching to "RDP".
 ---
 ## ⚙️ MacroMaker Engine 2

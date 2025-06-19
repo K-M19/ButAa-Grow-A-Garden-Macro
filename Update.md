@@ -1,3 +1,26 @@
+# 🛠️ Update Log (v3.8.1) 🛠️ More Auto Crafting🛠️
+## 🧰 New Features
+* **Roblox Windows**: The macro no longer locks the window position, you can now move the window anywhere you like.
+### 🐝 Bear-Bee Items
+* **Mutation Spray Choc**
+* **Mutation Spray Pollinated**
+* **Mutation Spray Shocked**
+---
+## 🐞 Bug Fixes
+* Fixed:  Continued fixing the **Function recursion limit was exceeded** error.
+---
+## 🖥️ Loại bỏ Multi-Instance
+* I’ll be focusing on the core features of the macro instead of juggling extra functions like before. If you want to use Multi-Instance, consider using an older version or switching to "RDP".
+---
+## ⚙️ MacroMaker Engine 2
+### Version: `560.8`
+* The macro now uses all CPU cores for operation, boosting performance compared to the old version, which used only a single core.
+You can now:
+* Use the **MacroMaker toolkit** in the `core/` folder to build your own AutoHotkey commands.
+* Benefit from **AutoHotkey v1.1** for easier scripting.
+> ⚠️ Version 2.0 of the engine is still under development. Release date is currently unknown.
+---
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** for their support on this project!
 # 🛠️ Update Log (v3.8) - 🛠️ Auto Crafting & MacroMaker Engine🛠️ 
 ## 🧰 New Features
 ### 📦 Crafting Bench

@@ -1,6 +1,20 @@
 # Q&A
-> Edit: May 17, 2025
+> Edit: june 20, 2025
 ----
+## ❓ Q: Is this software a virus (RAT - Trojan)?
+
+### 🐀 A: (RAT)
+This software is a macro tool focused on automating your mouse and keyboard interactions in the game. Due to this behavior, some antivirus tools may mistakenly flag it as a RAT (Remote Access Trojan), which usually implies someone remotely controlling your computer. However, in this case, the macro is the one performing automated actions locally—no remote access is involved.
+
+### 🛡️ A: (Trojan)
+This software does **not** contain any Trojan. The macro has been verified as **safe and legitimate** by Microsoft Defender Antivirus. However, on rare occasions, some new updates may be flagged temporarily because Microsoft’s validation system has not yet processed them. This issue is usually resolved within a few hours after the macro is submitted to Microsoft for review.
+
+### ⚠️ "Win32/Wacapew.C!ml"
+This is a **false positive** warning from Windows Defender. It usually appears when the macro hasn't finished its validation process. This delay is expected because the macro uses a built-in DRM system, which registers an activation key into `regedit.exe` to prevent cracked versions or attempts to block the software’s server connection. This DRM ensures you’re using a standard, untampered version of the macro. Cracked versions will not be allowed to run.
+
+----
+
+
 ## **Q**: Virus or malware notification from VirusTotal or Anti-Virus(Windows).
 
 **A**: AutoHotkey, when compiled into an .exe, is often flagged by antivirus software as a virus because of the way it packages scripts into an executable file. This behavior is similar to that of malware (automatically simulating keystrokes, compressed code, etc.), which makes antivirus engines suspicious.

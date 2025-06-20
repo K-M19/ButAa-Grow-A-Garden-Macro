@@ -1,3 +1,10 @@
+# 🛠️ Update Log (v3.8.2) 🛠️ Recursion limit was exceeded part 2 🛠️
+## 🐞 Bug Fixes
+* Fixed:  Continued fixing the **Function recursion limit was exceeded** error part 2.
+## ⚙️ MacroMaker Engine
+* Back MacroMaker Engine 1 `556.h4.Ahk`
+---
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** for their support on this project!
 # 🛠️ Update Log (v3.8.1) 🛠️ More Auto Crafting🛠️
 ## 🧰 New Features
 * **Roblox Windows**: The macro no longer locks the window position, you can now move the window anywhere you like.

@@ -1,3 +1,16 @@
+# 🛠️ Update Log (v3.8.3) – Bug fixes for search and Add-on Shop 🛠️
+## 🔑 KeyFile Removed
+* The keyfile has been removed.
+## 🐞 Bug Fixes
+* Fixed: Changed the search term for the item `Clening Spray` to `Clening`.
+* Fixed: Resolved the issue where the camera got stuck in first-person view when entering the Add-on Shop menu.
+## ⚙️ MacroMaker Engine
+* Reverted to MacroMaker Engine 1 `587.c6.Ahk`
+  - Added dynamic URL mechanism for flexible validation.
+  - Implemented automatic cross-checking of the key.
+> 🙏 **Special thanks** to *( pok_noob1123_96236 | duramo. | Todoto | MoeeewwZyy )* for the bug reports and suggestions!  
+---
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** for their support on this project!
 # 🛠️ Update Log (v3.8.2) 🛠️ Recursion limit was exceeded part 2 🛠️
 ## 🐞 Bug Fixes
 * Fixed:  Continued fixing the **Function recursion limit was exceeded** error part 2.

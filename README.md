@@ -61,8 +61,8 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 ## 📦 Download
 
 **📜 Please read the [license and terms](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/LICENSE.md) before downloading. By using this software, you agree to them.**
-
-- 🔗 [Download](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases)
+- 🔗 [Download AutoUpdate](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/tag/ButAa-Checker)
+- 🔗 [Manual Download](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases)
 - 📝 [Changelog](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Update.md)
 - ❓ [Q&A](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Q&A.md)
 

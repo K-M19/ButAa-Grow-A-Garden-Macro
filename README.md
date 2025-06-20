@@ -86,21 +86,21 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 
 ### 📦 Other Macro Features
 
-**Patterns**: A customizable movement type you can adjust in the ``Patterns`` folder of the macro.
+- **Patterns**: A customizable movement type you can adjust in the ``Patterns`` folder of the macro.
 
-**Using RecallWrench**: Uses the ``Recall Wrench`` in slot 1 to move to the Gears Shop.
+- **Using RecallWrench**: Uses the ``Recall Wrench`` in slot 1 to move to the Gears Shop.
 
-**Macro DebugLog**: Creates a file called ``MacroDebugLog.txt``.
+- **Macro DebugLog**: Creates a file called ``MacroDebugLog.txt``.
 
-**Play Notify Sound**: Plays a notification sound when the macro is running (mainly for debugging purposes).
+- **Play Notify Sound**: Plays a notification sound when the macro is running (mainly for debugging purposes).
 
-**Checker-Run**: Sets items in the correct slots: ``Recall Wrench`` in slot 1, ``Radar Pollen`` in slot 2, and a ``Random Item`` in slot 3.
+- **Checker-Run**: Sets items in the correct slots: ``Recall Wrench`` in slot 1, ``Radar Pollen`` in slot 2, and a ``Random Item`` in slot 3.
 
-**Save-Times**: The macro returns to Bee Queen or EggShop every 30 minutes to help save operation time.
+- **Save-Times**: The macro returns to Bee Queen or EggShop every 30 minutes to help save operation time.
 
-**Anti-Menu**: Prevents the macro from accidentally switching to first-person view when a menu causes a glitch.
+- **Anti-Menu**: Prevents the macro from accidentally switching to first-person view when a menu causes a glitch.
 
-**DevZone**: Access the developer tab for testing and debugging. *(Some values should not be changed unless you understand them. If you've accidentally changed something and don't remember the original value, delete the Config folder and re-run the macro.)*
+- **DevZone**: Access the developer tab for testing and debugging. *(Some values should not be changed unless you understand them. If you've accidentally changed something and don't remember the original value, delete the Config folder and re-run the macro.)*
 
 
 

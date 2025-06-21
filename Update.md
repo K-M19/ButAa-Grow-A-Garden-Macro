@@ -1,3 +1,16 @@
+# 🛠️ Update Log (v3.9) – ☀️SUMMER UPDATE🏖️
+### 🐱 More Cat!
+## 🧰 New Features
+* **Summer Seed**
+* **Added Gears**
+* **Added Crafting: Lightning Rod**
+## 🐞 Bug Fixes
+* **Fixed**: Several issues related to pathfinding to Crafting areas and the Onett zone.
+* **Fixed**: Multiple issues related to the macro core system.
+### 🛠️ Coming Soon
+* **SUMMER EVENT QUEST**: I'm testing whether automatic questing is feasible.
+---
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** for their support on this project!
 # 🛠️ Update Log (v3.8.4) – 🌎 Map Changes 🌎
 ### More Cat!
 ## 🐞 Bug Fixes

@@ -1,3 +1,16 @@
+# 🛠️ Update Log (v3.9.1) – ☀️SUMMER EGG🐣
+### 🐱 More Cat!
+## 🧰 New Features
+* **Common Summer Egg**
+* **Rare Summer Egg**
+* **Paradise Egg**
+## 🐞 Bug Fixes
+* **Fixed**: Resolved a large number of bugs related to input lag and macro operations.
+### 🛠️ Coming Soon
+* **SUMMER EVENT QUEST**: I'm testing whether automatic questing is feasible.
+> 🙏 **Special thanks** to *( SolKyo | Todoto )* for providing information on the Summer Egg types!
+---
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** for their support on this project!
 # 🛠️ Update Log (v3.9) – ☀️SUMMER UPDATE🏖️
 ### 🐱 More Cat!
 ## 🧰 New Features

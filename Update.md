@@ -1,3 +1,9 @@
+# 🛠️ Update Log (v3.8.4) – 🌎 Map Changes 🌎
+### More Cat!
+## 🐞 Bug Fixes
+* Fixed: Walking mechanism bug caused by the game's map changes has been resolved.
+---
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** for their support on this project!
 # 🛠️ Update Log (v3.8.3) – Bug fixes for search and Add-on Shop 🛠️
 ## 🔑 KeyFile Removed
 * The keyfile has been removed.

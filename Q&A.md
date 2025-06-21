@@ -1,6 +1,17 @@
 # Q&A
-> Edit: june 20, 2025
+> Edit: june 21, 2025
 ----
+
+## ❓ Q: Why does the new update work fine at first, but then get flagged by antivirus software a few hours later?
+
+### A: (Quoted explanation from Tyep)  
+I don't know why his software keeps getting re-registered by some other user, like someone is messing with him.  
+Every time a new version is released, he delays it for 30 minutes to submit the software for registration.  
+But just a few hours later, someone else registers it as a virus under a different name, even though the hash is exactly the same.
+
+
+----
+
 ## ❓ Q: Is this software a virus (RAT - Trojan)?
 
 ### 🐀 A: (RAT)

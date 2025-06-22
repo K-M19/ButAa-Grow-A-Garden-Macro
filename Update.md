@@ -1,4 +1,4 @@
-# 🛠️ Update Log (v3.9.2) – ⚙️Huge Pack Fix & Full List Crafting 🚜
+# 🛠️ Update Log (v3.9.2) – ⚙️Huge Fixpack & Full List Crafting 🚜
 ### 🐱New Cat!
 ## 🧰 New Features
 * **Add Full List: Crafting Seeds**

@@ -1,3 +1,17 @@
+# 🛠️ Update Log (v3.9.2) – ⚙️Huge Pack Fix & Full List Crafting 🚜
+### 🐱New Cat!
+## 🧰 New Features
+* **Add Full List: Crafting Seeds**
+* **Add Full List: Crafting Tools**
+* **Added success and failure notifications during the crafting process!**
+## 🐞 Bug Fixes
+* **Fixed**: Fixed an issue where Onett settings could not be saved and the macro failed to travel to Onett.
+* **Fixed**: Resolved an issue related to retrying the crafting process — previously, it returned to the Garden but didn’t go back to Crafting.
+* **Fixed**: Fixed an issue with egg checking when purchasing, which caused the macro to fail detecting certain egg types under specific conditions.
+* **Fixed**: And 12 additional reported bugs have been completely fixed (hopefully for good).
+### 🧑‍🌾 SUMMER EVENT QUEST has been removed
+---
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** for their support on this project!
 # 🛠️ Update Log (v3.9.1) – ☀️SUMMER EGG🐣
 ### 🐱 More Cat!
 ## 🧰 New Features

@@ -14,6 +14,11 @@
 
 ---
 
+## 📊 Download Status
+![Downloads](https://img.shields.io/github/downloads/K-M19/ButAa-Grow-A-Garden-Macro/total?style=for-the-badge)
+
+![Latest version downloads](https://img.shields.io/github/downloads/K-M19/ButAa-Grow-A-Garden-Macro/latest/total?label=Latest%20Version%20Downloads&style=for-the-badge)
+
 
 ## 🖥️ Operating System
 ✅ - Windows 10/11 64-bit  
@@ -58,7 +63,7 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 - `MpCmdRun.exe -removedefinitions -dynamicsignatures`
 - `MpCmdRun.exe -SignatureUpdate`
 
-## 📦 Download
+## 📦 Download Macro
 
 **📜 Please read the [license and terms](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/LICENSE.md) before downloading. By using this software, you agree to them.**
 - 🔗 [Download AutoUpdate](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/tag/ButAa-Checker)

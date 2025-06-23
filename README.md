@@ -10,15 +10,13 @@
   <a href="https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/latest">
     <img src="https://img.shields.io/github/v/release/K-M19/ButAa-Grow-A-Garden-Macro" alt="Latest Version">
   </a>
+  <a><img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/k-m19/ButAa-Grow-A-Garden-Macro/total?label=Download%20Status">
+</a>
+  <a><img alt="GitHub Downloads (all assets, latest release)" src="https://img.shields.io/github/downloads-pre/k-m19/ButAa-Grow-A-Garden-Macro/latest/total?label=Latest%20version%20downloads">
+</a>
 </div>
 
 ---
-
-## 📊 Download Status
-![Downloads](https://img.shields.io/github/downloads/K-M19/ButAa-Grow-A-Garden-Macro/total?style=for-the-badge)
-
-![Latest version downloads](https://img.shields.io/github/downloads/K-M19/ButAa-Grow-A-Garden-Macro/latest/total?label=Latest%20Version%20Downloads&style=for-the-badge)
-
 
 ## 🖥️ Operating System
 ✅ - Windows 10/11 64-bit  

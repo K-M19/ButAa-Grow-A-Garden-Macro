@@ -6,8 +6,8 @@
 <div align="center">
   <a href="https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/LICENSE.md"><img alt="GitHub License" src="https://img.shields.io/github/license/k-m19/ButAa-Grow-A-Garden-Macro?label=CUSTOM-LICENSE"></a>
   <a href="https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/k-m19/ButAa-Grow-A-Garden-Macro"></a>
-  <a><img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/k-m19/ButAa-Grow-A-Garden-Macro/total?label=Download%20Status"></a>
-  <a href="https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/latest"><img alt="GitHub Downloads (all assets, latest release)" src="https://img.shields.io/github/downloads-pre/k-m19/ButAa-Grow-A-Garden-Macro/latest/total?label=Latest%20version%20downloads">
+  <a><img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/k-m19/ButAa-Grow-A-Garden-Macro/total?label=All%20Download%20Status"></a>
+  <a href="https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/latest"><img alt="GitHub Downloads (all assets, latest release)" src="https://img.shields.io/github/downloads-pre/k-m19/ButAa-Grow-A-Garden-Macro/latest/total?label=Latest%20version%20downloads%20Status">
 </a>
 </div>
 

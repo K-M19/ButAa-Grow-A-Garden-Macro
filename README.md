@@ -66,7 +66,7 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 
 ## 🎥 Tutorial
 
-- 📺 [Watch Video](https://youtu.be/1xlQRsJ1-B4)
+- 📺 [Watch Video](https://youtu.be/RpFyU5UpYE8)
 
 ### 🔄 How to Use
 1. Run `ButAa-Macro.exe`.

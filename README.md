@@ -1,6 +1,3 @@
-> [!CAUTION]
-> The server is currently down and cannot be accessed at the moment. Please be patient and try again in a few minutes.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow-A-Garden-Macro/refs/heads/main/IMG/B-Theme.png#gh-dark-mode-only" width="420">
   <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow-A-Garden-Macro/refs/heads/main/IMG/W-Theme.png#gh-light-mode-only" width="420">

@@ -12,8 +12,9 @@
 </div>
 
 ---
-
 # 📢 Project Notice: This Project Will End in 3–4 Weeks
+
+**🗓️ Estimated Shutdown Date: July 15–22, 2025**
 
 Hi everyone,
 
@@ -56,11 +57,18 @@ I often stay up late researching logical structures and maintaining compatibilit
 
 ---
 
+### 🔄 Updates Will Continue Until the End  
+Although the project is winding down, I will **continue to update the macro until the very last moment**.
+
+As long as time remains, you can expect **fixes, improvements, and support**—right up to the final tick.
+
+> 💬 *“I’ll keep it alive until the final tick of the clock.”*
+
+---
+
 ### ❤️ Thank You All  
 Thank you to everyone who supported the project over the months.  
 Even though the journey ends here, I hope the spark we lit together will continue to inspire others.
-
-
 
 ## K-M19
 

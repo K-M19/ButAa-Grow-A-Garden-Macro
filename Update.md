@@ -1,3 +1,18 @@
+# 🛠️ Update Log (4.0) – 🧑‍🌾 Auto Summer Harvest & Huge Fixpack ⚙️
+### 🐱 New Cat!
+## 🧰 New Features
+* **Added automatic Summer Harvest when the event begins**  
+  *(Note: Enabling this feature may cause you to miss 2 store restocks)*
+* **During the Summer Harvest event, you can freely configure which fruits are delivered**  
+  You can adjust this in the **DevZone tab** or via the `FruitsConfig.ini` file.  
+  *(Warning: Errors may occur if the selected fruits are currently marked as favorites in-game.)*
+## 🐞 Bug Fixes
+* **Fixed several bugs related to server communication and key registration issues**
+## ⚙️ MacroMaker Engine (601.2b)
+* **Retuned the Engine for this update**  
+  Added several improvements to ensure a more stable and secure connection with the server.
+---
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (v3.9.2) – ⚙️Huge Fixpack & Full List Crafting 🚜
 ### 🐱New Cat!
 ## 🧰 New Features

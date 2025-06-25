@@ -15,7 +15,7 @@
 # 📢 Project Notice: This Project Will End in 3–4 Weeks
 
 **🗓️ Estimated Shutdown Date: July 15–22, 2025**
-
+* [Why?](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Why.md)
 ----
 
 ## 🖥️ Operating System
@@ -52,11 +52,11 @@
 
 * You can download the engine here: [MacroMaker Engine](https://github.com/FurBox-Studio/ToolKit-MacroMaker-Engine)
 
-## 🛡️ Microsoft Windows Defender Team  & Cloudflare
+## 🛡️ Microsoft Windows Defender Team  & Cloudflare ☁️
 > 🛡️ I sincerely thank the **Microsoft Windows Defender Team** for ensuring that this macro can run safely on **Windows 10 and 11** systems.  
 > *(Please make sure your Windows Defender is updated to the latest version to ensure full compatibility, if necessary.)*
 
-> 🙏 Special thanks to **Cloudflare** for supporting DDoS mitigation strategies and helping optimize key delivery routes closest to each user.
+> ☁️ Special thanks to **Cloudflare** for supporting DDoS mitigation strategies and helping optimize key delivery routes closest to each user.
 
 Alternatively, you can use Command Prompt with administrator privileges and run the following commands to update **Windows Defender**:
 - `cd c:\Program Files\Windows Defender`

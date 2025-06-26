@@ -34,6 +34,10 @@
 - Camera Mode: **Default**
 - Movement Mode: **Default**
   
+> [!WARNING]  
+>  Stable FPS plays a very important role during macro operation. If your FPS drops while the macro is running, errors are 100% likely to occur, depending on the task the macro is performing.
+Ideally, should maintain a stable 50–60 FPS for smooth operation.
+  
 ## 🛠️ Display settings
 - 1920 X 1080 (Recommended)
 - 100% Scale (Recommended)

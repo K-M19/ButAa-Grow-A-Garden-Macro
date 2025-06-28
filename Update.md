@@ -1,3 +1,14 @@
+# 🛠️ Update Log (4.2) – ☀️MEGA HARVEST☀️
+## 🧰 New Features
+* **Added 2 new seeds in Tom's Shop**
+* **Added 8 items from the Summer Shop**
+* **Added 3 items from Crafting Seeds**
+* **Added 1 item from Crafting Tools**
+* **Now capable of detecting the Mega Harvest event**
+## 🐞 Bug Fixes
+* **Fixed an issue where Debug Log Viewer did not record logs**
+---
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.1.1) – 🛠️ Fixpack ⚙️
 ## 🧰 New Features
 * **Added Test Reconnect buttons and Time-wait**

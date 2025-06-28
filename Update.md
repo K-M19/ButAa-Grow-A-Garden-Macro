@@ -1,3 +1,12 @@
+# 🛠️ Update Log (4.1.1) – 🛠️ Fixpack ⚙️
+## 🧰 New Features
+* **Added Test Reconnect buttons and Time-wait**
+  *TimeWaitBackGame is a waiting feature triggered when the macro successfully reconnects to the game. This ensures the game is fully loaded before the next execution cycle begins. The default value is `35000`, which equals a 35-second delay.*
+## 🐞 Bug Fixes
+* **Macro randomly crashed when using Auto-Reconnect**
+  *This issue has been fixed. It occurred during the second or third reconnection attempt using Auto-Reconnect.*
+---
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.1) – 🛠️ Upgrade Pack 🛠️
 > [!WARNING]  
 > This upgrade works ideally only when using the following configuration: (Display: 1920x1080 & 100% Scale) (Roblox Font: Default).

@@ -1,3 +1,26 @@
+# 🛠️ Update Log (4.1) – 🛠️ Upgrade Pack 🛠️
+> [!WARNING]  
+> This upgrade works ideally only when using the following configuration: (Display: 1920x1080 & 100% Scale) (Roblox Font: Default).
+### 🐱 New Cat!
+## 🧰 New Features
+* **Debug Log Viewer**: This is a new debug inspection tool that displays a real-time debug window, making it easier for you and me to track down errors.  
+  *You can find this feature in the Developer-Zone.*
+* **Map Patterns**: A button has been added to take you to a sketch map of the game and the Patterns Map.
+## 🛠️ Upgrade
+* **Improved image recognition**  
+  *Now the macro can detect images, but you must use Roblox's default font. If you use a custom font, it might cause issues.*
+* **Auto-adjust Roblox settings**  
+  *With this new image recognition capability, the macro reduces incorrect mode detection. It will now automatically set the required parameters on each run, eliminating configuration issues.*  
+  *(Warning: You need to use Roblox’s default font for this feature to work correctly.)*
+* **Auto-Rejoin replaced by Auto-Reconnect**  
+  *With this update, Auto-Rejoin has been replaced by Auto-Reconnect. Many users couldn’t correctly obtain the 32-character Server Link even with detailed instructions, so I replaced the method. You no longer need the 32-character link—this feature is now enabled by default.*
+## 🐞 Bug Fixes
+* **Reclaimer Crafting**: Fixed an issue with incorrect items being used during crafting, related to locating the Common Egg.
+* **Unable to end search**: Resolved the issue where searches couldn’t be completed by simulating an `Enter` key press after each search.
+## ⚙️ MacroMaker Engine (608.L2)
+*Enhanced recognition and image scanning across multiple threads.*
+---
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.0) – 🧑‍🌾 Auto Summer Harvest & Huge Fixpack ⚙️
 ### 🐱 New Cat!
 ## 🧰 New Features

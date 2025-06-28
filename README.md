@@ -33,6 +33,7 @@
 - Shift Lock: **OFF**
 - Camera Mode: **Default**
 - Movement Mode: **Default**
+- Roblox Font: **Default** (Need!!)
   
 > [!WARNING]  
 >  Stable FPS plays a very important role during macro operation. If your FPS drops while the macro is running, errors are 100% likely to occur, depending on the task the macro is performing.
@@ -40,7 +41,7 @@ Ideally, should maintain a stable 50–60 FPS for smooth operation.
   
 ## 🛠️ Display settings
 - 1920 X 1080 (Recommended)
-- 100% Scale (Recommended)
+- 100% Scale (Need!!)
 
 > [!WARNING]  
 > The macro is designed to run at a resolution of 1920x1080 (16:9) with Scale (DPI) set to 100%. I cannot guarantee that it will function correctly at other resolutions.

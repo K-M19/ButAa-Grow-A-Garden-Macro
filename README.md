@@ -21,7 +21,8 @@
 ## 🖥️ Operating System
 ✅ - Windows 10/11 64-bit  
 ❌ - Windows 7/8/8.1 or (Win 10 - 32-bit)  
-❌ - ARM or ARM64 (:C srr)
+❌ - ARM64
+❌ - Linux
 
 ---
 
@@ -30,6 +31,12 @@
 - No Need Off **Windows Defender**
 - Microsoft Store Roblox is not supported.
 - Use the official Roblox from **Roblox.com** instead.
+- **Multi-instances are no longer supported** because they significantly increase my workload with each bug fix and update.  
+However, you can still check out the last release that supported [Multi-instances](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/tag/V3.8).
+- In the new update, Roblox has started to combat multi-instance usage (most likely due to bot farming),  
+so I recommend using **RDP** instead, it can bypass this limitation and allows background macroing.  
+Sooo... **WHY NOT?**
+- I will not guide or assist you on how to use **RDP**, you’ll have to figure it out yourself.
   
 ## ⚙️ Roblox Settings
 - Shift Lock: **OFF**
@@ -101,6 +108,10 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 
 ### 📦 Other Macro Features
 
+- **ColorVEgg**: is an advanced image recognition feature.  
+  It analyzes the image and closely matches the color of the creature inside the Egg more accurately.  
+  You can increase or decrease its value — the maximum is `100`.
+
 - **Patterns**: A customizable movement type you can adjust in the ``Patterns`` folder of the macro.
 
 - **Using RecallWrench**: Uses the ``Recall Wrench`` in slot 1 to move to the Gears Shop.
@@ -111,7 +122,7 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 
 - **Checker-Run**: Sets items in the correct slots: ``Recall Wrench`` in slot 1, ``Radar Pollen`` in slot 2, and a ``Random Item`` in slot 3.
 
-- **Save-Times**: The macro returns to Bee Queen or EggShop every 30 minutes to help save operation time.
+- **Save-Times**: It helps you return to the EggShop, Crafting, or Event every 30 minutes.
 
 - **Anti-Menu**: Prevents the macro from accidentally switching to first-person view when a menu causes a glitch.
 

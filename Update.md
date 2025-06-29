@@ -1,3 +1,13 @@
+# 🛠️ Update Log (4.3) – 🐝 Bee-Egg 🥚
+## 🧰 New Features
+* **BeeEgg has been added**: I just got the image data for this egg...
+* **ColorVEgg has been added**:  
+  `ColorVEgg` is an advanced image recognition feature.  
+  It analyzes the image and closely matches the color of the creature inside the Egg more accurately.  
+  You can increase or decrease its value — the maximum is `100`.
+## 🤞 Hopefully the last Fixpack or Update of the week xD - X2..
+---
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.2.2) – 🛠️ Fixpack 2 ⚙️
 ## 🐛 Fixes
 * **Fixed Anti-Menu not detecting Sumer-Rewards**

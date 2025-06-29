@@ -31,6 +31,9 @@
 - No Need Off **Windows Defender**
 - Microsoft Store Roblox is not supported.
 - Use the official Roblox from **Roblox.com** instead.
+
+  
+## 🖥️Multi-instances🖥️
 - **Multi-instances are no longer supported** because they significantly increase my workload with each bug fix and update.  
 However, you can still check out the last release that supported [Multi-instances](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/tag/V3.8).
 - In the new update, Roblox has started to combat multi-instance usage (most likely due to bot farming),  

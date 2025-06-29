@@ -12,22 +12,24 @@
 </div>
 
 ---
-# 📢 Project Notice: This Project Will End in 3–4 Weeks
+# 📢 Project Notice: This Project Will End in 3–4 Weeks 🤔
 
-**🗓️ Estimated Shutdown Date: July 15–22, 2025**
+**🗓️ Estimated Shutdown Date: July 15–22, 2025** 🤔🤔🤔
 * [Why?](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Why.md)
 ----
 
 ## 🖥️ Operating System
 ✅ - Windows 10/11 64-bit  
 ❌ - Windows 7/8/8.1 or (Win 10 - 32-bit)  
-❌ - ARM or ARM64 (Soon)
+❌ - ARM or ARM64 (:C srr)
 
 ---
 
 ## 🧠 Before You Start
 - Roblox must be **opened in windowed mode** before the macro starts.
 - No Need Off **Windows Defender**
+- Microsoft Store Roblox is not supported.
+- Use the official Roblox from **Roblox.com** instead.
   
 ## ⚙️ Roblox Settings
 - Shift Lock: **OFF**

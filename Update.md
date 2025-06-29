@@ -1,3 +1,14 @@
+# 🛠️ Update Log (4.2.1) – 🛠️ Fixpack ⚙️
+## 🐛 Fixes
+* **Fixed the issue where `Save-Times` would automatically switch to inactive mode**: `Save-Times` is now off by default. It helps you return to the EggShop, Crafting, or Event every 30 minutes.
+* **Fixed the issue where `Common Egg` could not be retrieved due to conflict with `Common Summer Egg`**: Now on first launch, the macro will take both the `Common Summer Egg` and `Uncommon Egg` and place them into slots 3–4.
+* **Fixed the issue with retrieving keys from the Cloudflare server**: The reason keys weren’t being received was because I didn’t raise the key distribution rate. It was stuck at 50 keys/second. I apologize for that — the new maximum is now 750 keys per second.
+* **Updated the message `Please open Roblox and join a game to scan the windows!` with a more detailed one, including error code `0P1-PGA-0001`.**
+* **Improved debug log messages from Crafting and Speed-Mode for clearer and more concise information**: Currently, `Speed-Mode` is locked and the allowed speed is `MediumMode`.
+* **Added a button linking the `List of Donors` to the `Discord` server.**
+## I'm still actively hunting bugs 🐛 👀
+---
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.2) – ☀️MEGA HARVEST☀️
 ## 🧰 New Features
 * **Added 2 new seeds in Tom's Shop**
@@ -5,7 +16,7 @@
 * **Added 3 items from Crafting Seeds**
 * **Added 1 item from Crafting Tools**
 * **Now capable of detecting the Mega Harvest event**
-## 🐞 Bug Fixes
+## 🐛 Bug Fixes
 * **Fixed an issue where Debug Log Viewer did not record logs**
 ---
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
@@ -13,7 +24,7 @@
 ## 🧰 New Features
 * **Added Test Reconnect buttons and Time-wait**
   *TimeWaitBackGame is a waiting feature triggered when the macro successfully reconnects to the game. This ensures the game is fully loaded before the next execution cycle begins. The default value is `35000`, which equals a 35-second delay.*
-## 🐞 Bug Fixes
+## 🐛 Bug Fixes
 * **Macro randomly crashed when using Auto-Reconnect**
   *This issue has been fixed. It occurred during the second or third reconnection attempt using Auto-Reconnect.*
 ---
@@ -34,7 +45,7 @@
   *(Warning: You need to use Roblox’s default font for this feature to work correctly.)*
 * **Auto-Rejoin replaced by Auto-Reconnect**  
   *With this update, Auto-Rejoin has been replaced by Auto-Reconnect. Many users couldn’t correctly obtain the 32-character Server Link even with detailed instructions, so I replaced the method. You no longer need the 32-character link—this feature is now enabled by default.*
-## 🐞 Bug Fixes
+## 🐛 Bug Fixes
 * **Reclaimer Crafting**: Fixed an issue with incorrect items being used during crafting, related to locating the Common Egg.
 * **Unable to end search**: Resolved the issue where searches couldn’t be completed by simulating an `Enter` key press after each search.
 ## ⚙️ MacroMaker Engine (608.L2)
@@ -49,7 +60,7 @@
 * **During the Summer Harvest event, you can freely configure which fruits are delivered**  
   You can adjust this in the **DevZone tab** or via the `FruitsConfig.ini` file.  
   *(Warning: Errors may occur if the selected fruits are currently marked as favorites in-game.)*
-## 🐞 Bug Fixes
+## 🐛 Bug Fixes
 * **Fixed several bugs related to server communication and key registration issues**
 ## ⚙️ MacroMaker Engine (601.2b)
 * **Retuned the Engine for this update**  
@@ -62,7 +73,7 @@
 * **Add Full List: Crafting Seeds**
 * **Add Full List: Crafting Tools**
 * **Added success and failure notifications during the crafting process!**
-## 🐞 Bug Fixes
+## 🐛 Bug Fixes
 * **Fixed**: Fixed an issue where Onett settings could not be saved and the macro failed to travel to Onett.
 * **Fixed**: Resolved an issue related to retrying the crafting process — previously, it returned to the Garden but didn’t go back to Crafting.
 * **Fixed**: Fixed an issue with egg checking when purchasing, which caused the macro to fail detecting certain egg types under specific conditions.
@@ -76,7 +87,7 @@
 * **Common Summer Egg**
 * **Rare Summer Egg**
 * **Paradise Egg**
-## 🐞 Bug Fixes
+## 🐛 Bug Fixes
 * **Fixed**: Resolved a large number of bugs related to input lag and macro operations.
 ### 🛠️ Coming Soon
 * **SUMMER EVENT QUEST**: I'm testing whether automatic questing is feasible.
@@ -89,7 +100,7 @@
 * **Summer Seed**
 * **Added Gears**
 * **Added Crafting: Lightning Rod**
-## 🐞 Bug Fixes
+## 🐛 Bug Fixes
 * **Fixed**: Several issues related to pathfinding to Crafting areas and the Onett zone.
 * **Fixed**: Multiple issues related to the macro core system.
 ### 🛠️ Coming Soon
@@ -98,14 +109,14 @@
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** for their support on this project!
 # 🛠️ Update Log (v3.8.4) – 🌎 Map Changes 🌎
 ### More Cat!
-## 🐞 Bug Fixes
+## 🐛 Bug Fixes
 * Fixed: Walking mechanism bug caused by the game's map changes has been resolved.
 ---
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** for their support on this project!
 # 🛠️ Update Log (v3.8.3) – Bug fixes for search and Add-on Shop 🛠️
 ## 🔑 KeyFile Removed
 * The keyfile has been removed.
-## 🐞 Bug Fixes
+## 🐛 Bug Fixes
 * Fixed: Changed the search term for the item `Clening Spray` to `Clening`.
 * Fixed: Resolved the issue where the camera got stuck in first-person view when entering the Add-on Shop menu.
 ## ⚙️ MacroMaker Engine
@@ -116,7 +127,7 @@
 ---
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** for their support on this project!
 # 🛠️ Update Log (v3.8.2) 🛠️ Recursion limit was exceeded part 2 🛠️
-## 🐞 Bug Fixes
+## 🐛 Bug Fixes
 * Fixed:  Continued fixing the **Function recursion limit was exceeded** error part 2.
 ## ⚙️ MacroMaker Engine
 * Back MacroMaker Engine 1 `556.h4.Ahk`
@@ -130,7 +141,7 @@
 * **Mutation Spray Pollinated**
 * **Mutation Spray Shocked**
 ---
-## 🐞 Bug Fixes
+## 🐛 Bug Fixes
 * Fixed:  Continued fixing the **Function recursion limit was exceeded** error.
 ---
 ## 🖥️ Multi-Instance Removed
@@ -162,7 +173,7 @@ You can now:
 * A donation link to Roblox is being added.
 * If you enjoy using this macro, feel free to support me with a donation \:D
 ---
-## 🐞 Bug Fixes
+## 🐛 Bug Fixes
 * Fixed: **Function recursion limit was exceeded**
 ---
 ## ⚙️ MacroMaker Engine
@@ -180,12 +191,12 @@ You can now:
 ## 🛠️ Update Log (V.3.7) - 🛠️ New purchase checking system 🛠️
 ### 🧰 New Features
 - **Click Buy**: I’ve fine-tuned it so it now automatically detects the purchase button more accurately by scanning nearby colors and pixels.
-### 🐞 Fixes
+### 🐛 Fixes
 - **Function recursion limit was exceeded**: The function recursion limit has been removed and replaced to prevent repetition when using the macro for over 3 hours.
 - **Server**: The number of simultaneous access requests has been increased, now handling up to 600 key access requests per second, compared to the previous limit of **600 total requests in one second**.
 - **RAM**: The macro is now limited to using a maximum of **16MB** of **RAM**, preventing it from expanding over time during prolonged use.
 - **BITRAVEN**: Aggressive behavior toward debugging tools has been removed, as it could cause errors after several hours of operation.
-- **🐞**: **23** hidden bugs have been discovered and fixed.
+- **🐛**: **23** hidden bugs have been discovered and fixed.
 ### 🛠️ Coming Soon
 - **Craft Bear BEE!!**: I'm checking to see if it's doable
 ### ⚙️ Engine
@@ -207,7 +218,7 @@ You can now:
 ### 🧰 New Features
 - **Core-Files**: Implemented high-compression standard, reducing original size by **84.62%** compared to the previous version.
 - **Credits**: Added contributors to the Credits list.
-### 🐞 Fixes
+### 🐛 Fixes
 - **Save**: Fixed several bugs related to random save issues during certain save attempts.
 ### 🛠️ Coming Soon
 - **UI Navigation**
@@ -217,7 +228,7 @@ You can now:
 ### Additions
 - **Sugar Apple**
 - **Cleaning Spray**
-### 🐞 Fixes
+### 🐛 Fixes
 - **Made Honey**: Added 30 extra loops to the honey generator to avoid infinite loops (it was still looping endlessly on "Made Honey Only").
 - **Server**: Fixed an issue preventing key activation in certain countries.
 - **Webhook**: Adjusted for slightly faster response times.
@@ -232,7 +243,7 @@ You can now:
 > 🙏 **Special thanks** to *( astr1x._. | meisboredd | deltacenzo. | somerandomidot )* for the bug reports and suggestions!  
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** for their support on this project!
 ## 🛠️ Update Log IMB - (V.3.6.1) - IMB-Endcode 🛠️
-### 🐞 Fixes
+### 🐛 Fixes
 - **False Positive Warning**:  
   I have contacted the **Microsoft Windows Defender Team**, and they suggested using a new encoding method called **IMB-Endcode** to build my software.  
   I've integrated this new encoding approach. According to them, it helps reduce false positives significantly.  

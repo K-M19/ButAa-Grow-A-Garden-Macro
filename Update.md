@@ -1,3 +1,10 @@
+# 🛠️ Update Log (4.2.2) – 🛠️ Fixpack 2 ⚙️
+## 🐛 Fixes
+* **Fixed Anti-Menu not detecting Sumer-Rewards**
+* **Debug Log Viewer is no longer AlwaysOnTop**: The Debug Log Viewer is no longer in AlwaysOnTop mode. Some users found it annoying, so I’ve disabled it.
+## 🤞 Hopefully the last Fixpack of the week xD
+---
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.2.1) – 🛠️ Fixpack ⚙️
 ## 🐛 Fixes
 * **Fixed the issue where `Save-Times` would automatically switch to inactive mode**: `Save-Times` is now off by default. It helps you return to the EggShop, Crafting, or Event every 30 minutes.

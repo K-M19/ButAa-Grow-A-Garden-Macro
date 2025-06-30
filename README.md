@@ -124,7 +124,7 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 
 - **Play Notify Sound**: Plays a notification sound when the macro is running (mainly for debugging purposes).
 
-- **Checker-Run**: Sets items in the correct slots: ``Recall Wrench`` in slot 1, ``Radar Pollen`` in slot 2, and a ``Random Item`` in slot 3.
+- **Checker-Run**: Sets items in the correct slots: ``Recall Wrench`` in slot 1, ``Radar Pollen`` in slot 2, and a ``Random Item`` in slot 3, and ``CommonEgg`` in slot 5.
 
 - **Save-Times**: It helps you return to the EggShop, Crafting, or Event every 30 minutes.
 

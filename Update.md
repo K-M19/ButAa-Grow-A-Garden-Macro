@@ -1,3 +1,13 @@
+# 🛠️ Update Log (4.3.1) – 🛠️ Fixpack ⚙️
+## 🧰 New Features
+* **Lock Window**: The "Lock Window" feature locks the window at a fixed position `(X.0, Y.0)`. You can disable it to freely move the window.
+* **32-character Server Link**: When this notification appears, it will redirect you to a detailed tutorial.
+## 🐛 Fixes
+* **Fetching CommonEgg**: The macro now fetches the **CommonEgg** and places it in **slot 5**. When crafting, the macro will take the Egg from slot 5 to perform the crafting process.
+### 🛠️ Coming Soon
+* **Travelling Merchants (Sky Merchant)**: I'm testing whether automatic questing is feasible.
+---
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.3) – 🐝 Bee-Egg 🥚
 ## 🧰 New Features
 * **BeeEgg has been added**: I just got the image data for this egg...

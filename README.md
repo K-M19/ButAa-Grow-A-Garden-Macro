@@ -132,8 +132,6 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 
 - **Save-Times**: It helps you return to the EggShop, Crafting, or Event every 30 minutes.
 
-- **Anti-Menu**: Prevents the macro from accidentally switching to first-person view when a menu causes a glitch.
-
 - **DevZone**: Access the developer tab for testing and debugging. *(Some values should not be changed unless you understand them. If you've accidentally changed something and don't remember the original value, delete the Config folder and re-run the macro.)*
 
 

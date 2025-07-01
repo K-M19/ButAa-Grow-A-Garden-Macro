@@ -34,12 +34,7 @@
 
   
 ## 🖥️Multi-instances🖥️
-- **Multi-instances are no longer supported** because they significantly increase my workload with each bug fix and update.  
-However, you can still check out the last release that supported [Multi-instances](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/tag/V3.8) - On tab Setting **On** DevZone, Save and Reload .
-- In the new update, Roblox has started to combat multi-instance usage (most likely due to bot farming),  
-so I recommend using **RDP** instead, it can bypass this limitation and allows background macroing.  
-Sooo... **WHY NOT?**
-- I will not guide or assist you on how to use **RDP**, you’ll have to figure it out yourself.
+- **Multi-Instance**: Brought back with a simplified design, now supports up to 5 instances. I’ll increase this to 10 if it performs well. You must enable DevZone to access this feature.
   
 ## ⚙️ Roblox Settings
 - Shift Lock: **OFF**

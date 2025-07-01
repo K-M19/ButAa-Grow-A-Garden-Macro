@@ -110,6 +110,10 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 > HotKey can't save config!.
 
 ### 📦 Other Macro Features
+- **Multi-Instance**: Brought back with a simplified design, now supports up to 5 instances. I’ll increase this to 10 if it performs well. You must enable DevZone to access this feature.
+
+- **Loop-Runners**: Continuous running mode — the macro won't wait for the shop to restock, it will just keep going!
+
 - **Lock Window**: The "Lock Window" feature locks the window at a fixed position `(X.0, Y.0)`. You can disable it to freely move the window.
 
 - **ColorVEgg**: is an advanced image recognition feature.  
@@ -124,7 +128,7 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 
 - **Play Notify Sound**: Plays a notification sound when the macro is running (mainly for debugging purposes).
 
-- **Checker-Run**: Sets items in the correct slots: ``Recall Wrench`` in slot 1, ``Radar Pollen`` in slot 2, and a ``Random Item`` in slot 3, and ``CommonEgg`` in slot 5.
+- **Checker-Run**: Sets items in the correct slots: ``Recall Wrench`` in slot 1, ``Radar Pollen`` in slot 2, ``CommonEgg`` in slot 3.
 
 - **Save-Times**: It helps you return to the EggShop, Crafting, or Event every 30 minutes.
 

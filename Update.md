@@ -1,3 +1,22 @@
+# 🛠️ Update Log (4.4) – 🖥️ Multi-Instance & Checking Search 🔎
+> [!WARNING]  
+> This upgrade works ideally only when using the following configuration: (Display: 1920x1080 & 100% Scale) (Roblox Font: Default).
+## 🧰 New Features
+* **Loop-Runners**: Continuous running mode — the macro won't wait for the shop to restock, it will just keep going!
+* **Multi-Instance**: Brought back with a simplified design, now supports up to 5 instances. I’ll increase this to 10 if it performs well. You must enable DevZone to access this feature.
+* **New Checking Search**: The macro now uses a built-in image library to improve search accuracy. **However, you must use Roblox’s default font to maximize detection accuracy.**
+## 🐛 Fixes
+* **Fetching CommonEgg**: With the new search mechanism, the macro can now detect **CommonEgg** more precisely and will place it in **Slot 3**.
+* **Fixed DNS error when connecting to Cloudflare servers**
+* **Fixed OpenSSL connecting to Cloudflare servers**
+* **Fixed issue where you couldn’t be pinged when purchasing items**
+* **Fixed macro crash when the macro’s _Cache memory reached its limit**
+## 🗑️ Removed Features
+* **Anti-Menu**: This has been removed and will be replaced with a better feature that improves search accuracy and handles menus and filtering more effectively.
+## ⚙️ MacroMaker Engine (615.K4)
+*  **Uses fewer system resources — no more temporary _Cache files or excessive RAM usage. RAM usage is significantly reduced, and the _Cache will auto-delete after each run.**
+---
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.3.1) – 🛠️ Fixpack ⚙️
 ## 🧰 New Features
 * **Lock Window**: The "Lock Window" feature locks the window at a fixed position `(X.0, Y.0)`. You can disable it to freely move the window.

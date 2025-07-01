@@ -21,7 +21,7 @@
 ## 🖥️ Operating System
 ✅ - Windows 10/11 64-bit  
 ❌ - Windows 7/8/8.1 or (Win 10 - 32-bit)  
-✅ - ARM64 (Windows 11)
+✅ - ARM64 (Windows 10/11)
 
 
 ---

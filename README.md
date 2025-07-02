@@ -42,15 +42,18 @@
 - Movement Mode: **Default**
 - Roblox Font: **Default** (Need!!)
   
-> [!WARNING]  
+> [!NOTE]
 >  Stable FPS plays a very important role during macro operation. If your FPS drops while the macro is running, errors are 100% likely to occur, depending on the task the macro is performing.
 Ideally, should maintain a stable 50–60 FPS for smooth operation.
   
+> [!WARNING]  
+> Works ideally only when using the following configuration: (Display: 1920x1080 & 100% Scale) (Roblox Font: Default).
+
 ## 🛠️ Display settings
 - 1920 X 1080 (Recommended)
 - 100% Scale (Need!!)
 
-> [!WARNING]  
+> [!NOTE] 
 > The macro is designed to run at a resolution of 1920x1080 (16:9) with Scale (DPI) set to 100%. I cannot guarantee that it will function correctly at other resolutions.
 
 ## 🛡️ DRM / Antivirus Notice
@@ -105,6 +108,8 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 > HotKey can't save config!.
 
 ### 📦 Other Macro Features
+- **Harvest (All Times)**: This has been integrated. If you enable both **Summer Harvest** and **Harvest (All Times)**, the macro will skip the time condition and will always go to the zone and place the fruits in the cart on every run.
+
 - **Multi-Instance**: Brought back with a simplified design, now supports up to 5 instances. I’ll increase this to 10 if it performs well. You must enable DevZone to access this feature.
 
 - **Loop-Runners**: Continuous running mode — the macro won't wait for the shop to restock, it will just keep going!

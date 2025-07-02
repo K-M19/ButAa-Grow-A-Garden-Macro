@@ -1,3 +1,10 @@
+# 🛠️ Update Log (4.4.1) – 🛠️ Fixpack ⚙️
+## 🧰 New Features
+* **Harvest (All Times)**: This has been integrated. If you enable both **Summer Harvest** and **Harvest (All Times)**, the macro will skip the time condition and will always go to the zone and place the fruits in the cart on every run.
+## 🐛 Fixes
+* **Fixed issue where Summer Harvest event was not detected**: Initially, I used a strict color recognition mechanism to detect the event, but now I’ve switched to checking your computer’s time. The event will begin at **00:00** and end at **00:11**.
+---
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.4) – 🖥️ Multi-Instance & Checking Search 🔎
 > [!WARNING]  
 > This upgrade works ideally only when using the following configuration: (Display: 1920x1080 & 100% Scale) (Roblox Font: Default).

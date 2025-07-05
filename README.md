@@ -1,6 +1,3 @@
-> [!IMPORTANT]  
-> The server is currently shut down for maintenance and updates. Please be patient and wait.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow-A-Garden-Macro/refs/heads/main/IMG/B-Theme.png#gh-dark-mode-only" width="420">
   <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow-A-Garden-Macro/refs/heads/main/IMG/W-Theme.png#gh-light-mode-only" width="420">
@@ -81,8 +78,15 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 - `MpCmdRun.exe -removedefinitions -dynamicsignatures`
 - `MpCmdRun.exe -SignatureUpdate`
 
-## 📦 Download Macro
+## ❤️ Donate
+* **If you like this Macro, you can donate to me here and join Supporter!!**
+- ☕ [Coffee-Donate](https://www.roblox.com/game-pass/934853796)
+- 🫂 [Hug-Donate](https://www.roblox.com/game-pass/921625903)
+- 🤯 [Big-Donate](https://www.roblox.com/game-pass/934989735)
+- 💎 [TOP GUY-Donate](https://www.roblox.com/game-pass/8571028)
+- ♛ [List Of Supporter](https://www.roblox.com/game-pass/8571028)
 
+## 📦 Download Macro
 **📜 Please read the [license and terms](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/LICENSE.md) before downloading. By using this software, you agree to them.**
 - 🔗 [Download AutoUpdate](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/tag/ButAa-Checker-V1.1)
 - 🔗 [Manual Download](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases)

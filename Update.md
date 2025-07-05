@@ -1,3 +1,12 @@
+# 🛠️ Update Log (4.5) – 🦖PREHISTORIC🦴
+## 🧰 New Features
+* **Brought back old Seeds and added a new type**
+* **Changed the event area travel mechanism to use Click to Move**
+* **Added crafting list from the archaeologist**
+## 🗑️ Removed Features
+* **Removed 3 eggs that no longer appear in the shop**
+---
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.4.1) – 🛠️ Fixpack ⚙️
 ## 🧰 New Features
 * **Harvest (All Times)**: This has been integrated. If you enable both **Summer Harvest** and **Harvest (All Times)**, the macro will skip the time condition and will always go to the zone and place the fruits in the cart on every run.

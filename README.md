@@ -84,7 +84,7 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 - 🫂 [Hug-Donate](https://www.roblox.com/game-pass/921625903)
 - 🤯 [Big-Donate](https://www.roblox.com/game-pass/934989735)
 - 💎 [TOP GUY-Donate](https://www.roblox.com/game-pass/8571028)
-- ♛ [List Of Supporter](https://www.roblox.com/game-pass/8571028)
+- ♛ [List Of Supporter](https://discord.com/invite/n8M25v2fGq)
 
 ## 📦 Download Macro
 **📜 Please read the [license and terms](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/LICENSE.md) before downloading. By using this software, you agree to them.**

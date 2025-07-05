@@ -115,8 +115,6 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 > HotKey can't save config!.
 
 ### 📦 Other Macro Features
-- **Harvest (All Times)**: This has been integrated. If you enable both **Summer Harvest** and **Harvest (All Times)**, the macro will skip the time condition and will always go to the zone and place the fruits in the cart on every run.
-
 - **Multi-Instance**: Brought back with a simplified design, now supports up to 5 instances. I’ll increase this to 10 if it performs well. You must enable DevZone to access this feature.
 
 - **Loop-Runners**: Continuous running mode — the macro won't wait for the shop to restock, it will just keep going!

@@ -14,7 +14,7 @@
 ---
 # 📢 Project Notice: This Project Will End in 3–4 Weeks 🤔
 
-~~**🗓️ Estimated Shutdown Date: July 15–22, 2025** 🤔🤔🤔~~
+**🗓️ Estimated Shutdown Date: July 15–22, 2025** 🤔🤔🤔
 * [Why?](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Why.md)
 ----
 
@@ -88,7 +88,7 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 
 ## 📦 Download Macro
 **📜 Please read the [license and terms](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/LICENSE.md) before downloading. By using this software, you agree to them.**
-- 🔗 [Download AutoUpdate](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/tag/ButAa-Checker-V1.1)
+- 🔗 [Download AutoUpdate](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/tag/ButAa-Checker-V1.1) - (Recommended)
 - 🔗 [Manual Download](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases)
 - 📝 [Changelog](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Update.md)
 - ❓ [Q&A](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Q&A.md)
@@ -115,6 +115,10 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 > HotKey can't save config!.
 
 ### 📦 Other Macro Features
+- **Dinosaur Egg**: It will collect all Pets from **Common** eggs and exchange them automatically. However, you can still get other desired pets by entering their names manually!
+
+- **Do Dinosaur Egg (All Times)**: Always goes to the exchange house to trade for a Dinosaur Egg. You need to enable **Dinosaur Egg** before using this feature.
+
 - **Multi-Instance**: Brought back with a simplified design, now supports up to 5 instances. I’ll increase this to 10 if it performs well. You must enable DevZone to access this feature.
 
 - **Loop-Runners**: Continuous running mode — the macro won't wait for the shop to restock, it will just keep going!

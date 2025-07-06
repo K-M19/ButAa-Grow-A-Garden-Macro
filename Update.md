@@ -1,3 +1,11 @@
+# 🛠️ Update Log (4.5) – 🦖Auto Dinosaur Egg🥚
+## 🧰 New Features
+* **Dinosaur Egg**: It will collect all Pets from **Common** eggs and exchange them automatically. However, you can still get other desired pets by entering their names manually!
+* **Do Dinosaur Egg (All Times)**: Always goes to the exchange house to trade for a Dinosaur Egg. You need to enable **Dinosaur Egg** before using this feature.
+## 🐛 Fixes
+* **Fixed movement range offset**: Resolved an issue where the macro accidentally shifted the camera when using Click To Move.
+---
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.5) – 🦖PREHISTORIC🦴
 ## 🧰 New Features
 * **Brought back old Seeds and added a new type**

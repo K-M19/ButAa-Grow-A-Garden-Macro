@@ -1,4 +1,4 @@
-# 🛠️ Update Log (4.5) – 🦖Auto Dinosaur Egg🥚
+# 🛠️ Update Log (4.5.1) – 🦖Auto Dinosaur Egg🥚
 ## 🧰 New Features
 * **Dinosaur Egg**: It will collect all Pets from **Common** eggs and exchange them automatically. However, you can still get other desired pets by entering their names manually!
 * **Do Dinosaur Egg (All Times)**: Always goes to the exchange house to trade for a Dinosaur Egg. You need to enable **Dinosaur Egg** before using this feature.

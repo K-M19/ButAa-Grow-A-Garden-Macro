@@ -1,3 +1,11 @@
+# 🛠️ Update Log (4.5.2) – 🛠️ Fixpack ⚙️
+## 🐛 Fixes  
+* **Fixed the Click to Move mechanism when claiming Dinosaur Egg**: The movement mechanism was updated because players were standing *on* the lab table instead of *next to* it. I’ve modified it so that when the player stands near the lab table, the macro will zoom the camera to the optimal movement range and continue the interaction as originally intended.
+## 🗑️ Removed Features  
+* **Do Dinosaur Egg (All Times)**: It is now synchronized with **Save-Times**
+---
+> 🙏 **Special thanks** to *( omsimized6175 )* for the bug reports!  
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.5.1) – 🦖Auto Dinosaur Egg🥚
 ## 🧰 New Features
 * **Dinosaur Egg**: It will collect all Pets from **Common** eggs and exchange them automatically. However, you can still get other desired pets by entering their names manually!

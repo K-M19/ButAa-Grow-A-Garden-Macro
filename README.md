@@ -117,8 +117,6 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 ### 📦 Other Macro Features
 - **Dinosaur Egg**: It will collect all Pets from **Common** eggs and exchange them automatically. However, you can still get other desired pets by entering their names manually!
 
-- **Do Dinosaur Egg (All Times)**: Always goes to the exchange house to trade for a Dinosaur Egg. You need to enable **Dinosaur Egg** before using this feature.
-
 - **Multi-Instance**: Brought back with a simplified design, now supports up to 5 instances. I’ll increase this to 10 if it performs well. You must enable DevZone to access this feature.
 
 - **Loop-Runners**: Continuous running mode — the macro won't wait for the shop to restock, it will just keep going!

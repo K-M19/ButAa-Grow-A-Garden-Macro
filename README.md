@@ -37,10 +37,15 @@
 - **Multi-Instance**: Brought back with a simplified design, now supports up to 5 instances. I’ll increase this to 10 if it performs well. You must enable DevZone to access this feature.
   
 ## ⚙️ Roblox Settings
-- Shift Lock: **OFF**
-- Camera Mode: **Default**
-- Movement Mode: **Default**
-- Roblox Font: **Default** (Need!!)
+- Shift Lock: OFF
+- Camera Mode: Default
+- Movement Mode: Default
+- Roblox Font: Default (Need!!)
+- Roblox language: English (Need!!)
+- Roblox must be opened in windowed mode before the macro starts.
+Roblox must be in windowed mode—fullscreen will cause 100% errors.
+If you're in fullscreen and don't know how to switch to windowed mode, just press F11.
+- Microsoft Store Roblox is not supported.
   
 > [!NOTE]
 >  Stable FPS plays a very important role during macro operation. If your FPS drops while the macro is running, errors are 100% likely to occur, depending on the task the macro is performing.

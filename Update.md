@@ -1,3 +1,30 @@
+# 🛠️ Update Log (4.5.3) – 🛠️ Massive Fixpack ⚙️
+## 🧰 New Features
+* **Implemented Pixel Verification Mechanism to enhance accuracy when purchasing Eggs.**
+## Big 🐛 
+* **Fixed incorrect Egg purchases and false notifications.**
+* **Resolved slot recognition and ordering issues.**
+* **Fixed unintended item clicks during the purchasing process.**
+* **Fixed failure to purchase required items.**
+* **Corrected Crafting system selecting the wrong item.**
+* **Fixed issue where Recall Wrench could not be used.**
+* **Resolved DNS-related delay when connecting to servers.**
+* **Fixed inability to close with Esc key during straight path alignment.**
+* **Resolved Roblox input issues when the character doesn't move:**  
+  The macro will now attempt to resend input up to 3 times.
+* **Fixed random macro crashes and automatic restarts after 5 attempts.**
+* **Fixed CallBack errors from `.btrv2` directory.**
+* **Fixed missing 'Enter' key presses when searching for item names.**
+* **Fixed missing pixel or image files required for comparison.**
+* **Fixed macro continuously reloading unexpectedly.**
+* **Fixed incorrect click positions when using ClickToMove.**
+* **Fixed inability to run Roblox in windowed mode.**
+## 🗑️ Removed Features 
+* **ColorVEgg**
+## ⚙️ MacroMaker Engine (623.N9)
+* **Upgraded to .NET 9.0 and Python 3.13.5 — All required libraries and DLLs have been embedded for seamless operation without additional installations.**
+* **Docker is now integrated into the core library file. This increases the total size by ~3MB, but remains within acceptable limits.**
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.5.2) – 🛠️ Fixpack ⚙️
 ## 🐛 Fixes  
 * **Fixed the Click to Move mechanism when claiming Dinosaur Egg**: The movement mechanism was updated because players were standing *on* the lab table instead of *next to* it. I’ve modified it so that when the player stands near the lab table, the macro will zoom the camera to the optimal movement range and continue the interaction as originally intended.

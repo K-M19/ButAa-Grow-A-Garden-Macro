@@ -11,6 +11,9 @@
 </a>
 </div>
 
+> [!TIP]
+> This is the project server system status, you can check it here: furboxstudio.instatus.com
+
 ---
 # 📢 Project Notice: This Project Will End in 3–4 Weeks 🤔
 
@@ -127,10 +130,6 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 - **Loop-Runners**: Continuous running mode — the macro won't wait for the shop to restock, it will just keep going!
 
 - **Lock Window**: The "Lock Window" feature locks the window at a fixed position `(X.0, Y.0)`. You can disable it to freely move the window.
-
-- **ColorVEgg**: is an advanced image recognition feature.  
-  It analyzes the image and closely matches the color of the creature inside the Egg more accurately.  
-  You can increase or decrease its value — the maximum is `100`.
 
 - **Patterns**: A customizable movement type you can adjust in the ``Patterns`` folder of the macro.
 

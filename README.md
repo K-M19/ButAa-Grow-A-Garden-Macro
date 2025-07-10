@@ -122,31 +122,47 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 > [!WARNING]  
 > HotKey can't save config!.
 
-### 📦 Other Macro Features
-- **Status Notification**: A dedicated status popup to help you keep track of how many times you've successfully **Bought** or **Crafting**.  
+### 📦Macro Features
 
-- **Dinosaur Egg**: It will collect all Pets from **Common** eggs and exchange them automatically. However, you can still get other desired pets by entering their names manually!
+| Shops |
+| --- |
+| **Seeds** |
+| **Gears** | 
+| **Eggs** | 
+| **Cosmetic** |
 
-- **Multi-Instance**: Brought back with a simplified design, now supports up to 5 instances. I’ll increase this to 10 if it performs well. You must enable DevZone to access this feature.
+| Crafting |
+| --- |
+| **Crafting** |
 
-- **Loop-Runners**: Continuous running mode — the macro won't wait for the shop to restock, it will just keep going!
+| Dino | Action |
+| --- | ------ |
+| **Dinosaur Egg**  | It will collect all Pets from **Common** eggs and exchange them automatically. However, you can still get other desired pets by entering their names manually! |
 
-- **Lock Window**: The "Lock Window" feature locks the window at a fixed position `(X.0, Y.0)`. You can disable it to freely move the window.
+| Patterns | Action |
+| --- | ------ |
+| **Patterns** | A customizable movement type you can adjust in the ``Patterns`` folder of the macro. |
 
-- **Patterns**: A customizable movement type you can adjust in the ``Patterns`` folder of the macro.
+| Webhook | Action |
+| --- | ------ |
+| **Main Notification** | Displays the activity log of **purchases** and **crafting** processes. |
+| **User ID** | Uses your **User ID** or **Role ID** to notify you whenever **rare items** are purchased. |
+| **Status Notification** | A dedicated status popup to help you keep track of how many times you've successfully **Bought** or **Crafting** |
 
-- **Using RecallWrench**: Uses the ``Recall Wrench`` in slot 1 to move to the Gears Shop.
 
-- **Macro DebugLog**: Creates a file called ``MacroDebugLog.txt``.
+| Settings | Action |
+| --- | ------ |
+| **Play Notify Sound** | Plays a notification sound when the macro is running (mainly for debugging purposes). |
+| **Loop-Runners** | Continuous running mode — the macro won't wait for the shop to restock, it will just keep going! |
+| **Lock Window** | The "Lock Window" feature locks the window at a fixed position `(X.0, Y.0)`. You can disable it to freely move the window. |
+| **Using RecallWrench** | Uses the ``Recall Wrench`` in slot 1 to move to the Gears Shop. |
+| **Macro DebugLog** | Creates a file called ``MacroDebugLog.txt``. |
+| **Checker-Run** | Sets items in the correct slots: ``Recall Wrench`` in slot 1, ``Radar Pollen`` in slot 2, ``CommonEgg`` in slot 3. |
+| **Save-Times** | It helps you return to the EggShop, Crafting, or Event every 30 minutes. |
+| **DevZone** | Access the developer tab for testing and debugging. *(Some values should not be changed unless you understand them. If you've accidentally changed something and don't remember the original value, delete the Config folder and re-run the macro.)* |
 
-- **Play Notify Sound**: Plays a notification sound when the macro is running (mainly for debugging purposes).
-
-- **Checker-Run**: Sets items in the correct slots: ``Recall Wrench`` in slot 1, ``Radar Pollen`` in slot 2, ``CommonEgg`` in slot 3.
-
-- **Save-Times**: It helps you return to the EggShop, Crafting, or Event every 30 minutes.
-
-- **DevZone**: Access the developer tab for testing and debugging. *(Some values should not be changed unless you understand them. If you've accidentally changed something and don't remember the original value, delete the Config folder and re-run the macro.)*
-
+| Multi-Instance | Action |
+| **Multi-Instance** | Brought back with a simplified design, now supports up to 5 instances. I’ll increase this to 10 if it performs well. You must enable DevZone to access this feature. |
 
 
 ### How to use (join Private Server)

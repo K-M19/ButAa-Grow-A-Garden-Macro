@@ -159,6 +159,7 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | **DevZone** | Access the developer tab for testing and debugging. *(Some values should not be changed unless you understand them. If you've accidentally changed something and don't remember the original value, delete the Config folder and re-run the macro.)* |
 
 | Multi-Instance | Action |
+| --- | ------ |
 | **Multi-Instance** | Brought back with a simplified design, now supports up to 5 instances. I’ll increase this to 10 if it performs well. You must enable DevZone to access this feature. |
 
 

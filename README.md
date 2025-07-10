@@ -24,7 +24,7 @@
 ## 🖥️ Operating System
 ✅ - Windows 10/11 64-bit  
 ❌ - Windows 7/8/8.1 or (Win 10 - 32-bit)  
-✅ - ARM64 (Windows 10/11)
+✅ - ARM64 (Windows 10/11 64-bit)
 
 
 ---
@@ -123,6 +123,8 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 > HotKey can't save config!.
 
 ### 📦 Other Macro Features
+- **Status Notification**: A dedicated status popup to help you keep track of how many times you've successfully **Bought** or **Crafting**.  
+
 - **Dinosaur Egg**: It will collect all Pets from **Common** eggs and exchange them automatically. However, you can still get other desired pets by entering their names manually!
 
 - **Multi-Instance**: Brought back with a simplified design, now supports up to 5 instances. I’ll increase this to 10 if it performs well. You must enable DevZone to access this feature.

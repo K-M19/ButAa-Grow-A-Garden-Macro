@@ -1,3 +1,13 @@
+# 🛠️ Update Log (4.5.4) – 🛠️ Fixpack ⚙️
+## 🧰 New Features
+* **Status Notification**: A dedicated status popup to help you keep track of how many times you've successfully **bought** or **Crafting**.  
+  (Only successful purchases and crafting actions are counted.)
+## 🐛 Fixes
+* **Fixed Status Notification bugs**:  
+  The Status Notification is now more stable and can be used with **Loop-Runners** & **Multi-Instance** setups.  
+  > ⚠️ **Multi-Instance**: May behave slightly incorrectly, as it merges all instances into one unified status instead of separating them individually.
+* **Added required modules for ARM64 support**
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.5.3) – 🛠️ Massive Fixpack ⚙️
 ## 🧰 New Features
 * **Implemented Pixel Verification Mechanism to enhance accuracy when purchasing Eggs.**

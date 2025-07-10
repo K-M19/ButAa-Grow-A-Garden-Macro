@@ -130,9 +130,6 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | **Gears** | 
 | **Eggs** | 
 | **Cosmetic** |
-
-| Crafting |
-| --- |
 | **Crafting** |
 
 | Dino | Action |

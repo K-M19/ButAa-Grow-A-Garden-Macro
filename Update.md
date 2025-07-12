@@ -1,3 +1,8 @@
+# 🛠️ Update Log (4.6.1) – 🛠️ Fixpack ⚙️
+## 🐛 Fixes
+* **Fixed issue where reconnection failed during operation**
+* **Fixed missing `Mrd.dll` resource on ARM64 systems**
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.6) – 🐾PET MUTATIONS🧬 ??.. OK..
 ## 🧰 New Features
 * **Auto-Rejoin**: When you lose connection, the Macro will automatically kill Roblox, then run the server link you've provided to reconnect to your specified server.

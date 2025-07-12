@@ -158,6 +158,12 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | **Save-Times** | It helps you return to the EggShop, Crafting, or Event every 30 minutes. |
 | **DevZone** | Access the developer tab for testing and debugging. *(Some values should not be changed unless you understand them. If you've accidentally changed something and don't remember the original value, delete the Config folder and re-run the macro.)* |
 
+| Rejoin | Action |
+| --- | ------ |
+| **Auto-Rejoin** | When you lose connection, the Macro will automatically kill Roblox, then run the server link you've provided to reconnect to your specified server. |
+| **Auto-Reconnect** | When you lose connection, the Macro will try to click the **Reconnect** button to return to the game. |
+
+
 | Multi-Instance | Action |
 | --- | ------ |
 | **Multi-Instance** | Brought back with a simplified design, now supports up to 5 instances. I’ll increase this to 10 if it performs well. You must enable DevZone to access this feature. |

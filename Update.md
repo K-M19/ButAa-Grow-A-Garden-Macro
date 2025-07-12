@@ -1,3 +1,16 @@
+# 🛠️ Update Log (4.6) – 🐾PET MUTATIONS🧬 ??.. OK..
+## 🧰 New Features
+* **Auto-Rejoin**: When you lose connection, the Macro will automatically kill Roblox, then run the server link you've provided to reconnect to your specified server.
+* **Corn Seed**
+* **Giant Pinecone Seed**
+* **Medium Toy**
+* **Medium Treat**
+* **Added 4 new Seeds for Crafting**
+* **Added 2 new Tools for Crafting**
+* **Added 1 new Event Crafting Recipe**
+* **Modified the travel logic to the new Event Zone**: Honestly... it's still the same, but *kinda* different... 
+> See the sunset!!!!!
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.5.4) – 🛠️ Fixpack ⚙️
 ## 🧰 New Features
 * **Status Notification**: A dedicated status popup to help you keep track of how many times you've successfully **bought** or **Crafting**.  

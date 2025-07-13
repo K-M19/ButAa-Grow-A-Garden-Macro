@@ -14,7 +14,7 @@
 
 
 ## 📢 Project Notice: This Project Will End
-**🗓️ Estimated Shutdown Date: July 15–22, 2025** 🤔🤔🤔
+**🗓️ Estimated Shutdown Date: July 15, 2025 (UTC)** 🤔🤔🤔
 - **[Why?](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Why.md)**
   
 

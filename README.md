@@ -11,51 +11,55 @@
 </a>
 </div>
 
-> [!TIP]
-> This is the project server system status, you can check it here: furboxstudio.instatus.com
 
----
-# 📢 Project Notice: This Project Will End in 3–4 Weeks 🤔
+
+## 📢 Project Notice: This Project Will End in 3–4 Weeks 🤔
 
 **🗓️ Estimated Shutdown Date: July 15–22, 2025** 🤔🤔🤔
 * [Why?](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Why.md)
-----
+  
+
 
 ## 🖥️ Operating System
 ✅ - Windows 10/11 64-bit  
 ❌ - Windows 7/8/8.1 or (Win 10 - 32-bit)  
 ✅ - ARM64 (Windows 10/11 64-bit)
 
-
----
+## 📊 System status
+- This is the project server system status, you can check it here: [Furbox-Studio-Status](https://furboxstudio.instatus.com)
 
 ## 🧠 Before You Start
-- Roblox must be **opened in windowed mode** before the macro starts.
-- No Need Off **Windows Defender**
-- Microsoft Store Roblox is not supported.
-- Use the official Roblox from **Roblox.com** instead.
+- **📜 Please read the [license and terms](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/LICENSE.md) before downloading. By using this software, you agree to them.**
+- **⚙️ Read the [Roblox Settings](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/tree/main?tab=readme-ov-file#%EF%B8%8F-roblox-settings) & [Display settings](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/tree/main?tab=readme-ov-file#%EF%B8%8F-display-settings).**
+- **Sometimes the server is down or under maintenance, which may prevent you from launching the macro. You can check the status here: [Furbox-Studio-Status](https://furboxstudio.instatus.com).**
+- **📜 Guide and Usage Instructions: [Tutorial](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/tree/main?tab=readme-ov-file#-tutorial).**
+- **🔗 Download Macro: [Here](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/tree/main?tab=readme-ov-file#-download-macro).**
 
-  
-## 🖥️Multi-instances🖥️
-- **Multi-Instance**: Brought back with a simplified design, now supports up to 5 instances. I’ll increase this to 10 if it performs well. You must enable DevZone to access this feature.
-  
 ## ⚙️ Roblox Settings
 - Shift Lock: OFF
 - Camera Mode: Default
 - Movement Mode: Default
 - Roblox Font: Default (Need!!)
 - Roblox language: English (Need!!)
-- Roblox must be opened in windowed mode before the macro starts.
-Roblox must be in windowed mode—fullscreen will cause 100% errors.
-If you're in fullscreen and don't know how to switch to windowed mode, just press F11.
+- Roblox must be in windowed mode—fullscreen will cause 100% errors.
+  >If you're in fullscreen and don't know how to switch to windowed mode, just press F11.
 - Microsoft Store Roblox is not supported.
-  
+
+## ⚙️ Bloxstrap & Fishstrap & Client Settings
+- **Bloxstrap & Fishstrap**
+  >You can enable this option "Reset Everything to defaults".
+- **Fast Flag Settings**
+  >You can keep your own settings, but try not to change too much — especially font quality.
+- **Roblox Default**
+  >If you're using Roblox's default, you don't need changed anything.
+  >But keep an eye on `ClientSettings/ClientAppSettings.json` — avoid tweaking too much, especially font quality and image quality.
+
 > [!NOTE]
 >  Stable FPS plays a very important role during macro operation. If your FPS drops while the macro is running, errors are 100% likely to occur, depending on the task the macro is performing.
 Ideally, should maintain a stable 50–60 FPS for smooth operation.
   
 > [!WARNING]  
-> Works ideally only when using the following configuration: (Display: 1920x1080 & 100% Scale) (Roblox Font: Default).
+> Works ideally only when using the following configuration: (Display: 1920x1080 & 100% Scale) (Roblox Font: Default) (Client Settings: Default).
 
 ## 🛠️ Display settings
 - 1920 X 1080 (Recommended)
@@ -162,7 +166,6 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | --- | ------ |
 | **Auto-Rejoin** | When you lose connection, the Macro will automatically kill Roblox, then run the server link you've provided to reconnect to your specified server. |
 | **Auto-Reconnect** | When you lose connection, the Macro will try to click the **Reconnect** button to return to the game. |
-
 
 | Multi-Instance | Action |
 | --- | ------ |

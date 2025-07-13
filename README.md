@@ -49,7 +49,7 @@
 - **Bloxstrap & Fishstrap**
   >You can enable this option "Reset Everything to defaults".
 - **Fast Flag Settings**
-  >You can keep your own settings, but try not to change too much — especially font quality.
+  >You can keep your own settings, but try not to change too much, especially font quality and image quality.
 - **Roblox Default**
   >If you're using Roblox's default, you don't need changed anything.
   >But keep an eye on `ClientSettings/ClientAppSettings.json` — avoid tweaking too much, especially font quality and image quality.

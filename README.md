@@ -34,7 +34,7 @@
 - **Sometimes the server is down or under maintenance, which may prevent you from launching the macro. You can check the status here: [Furbox-Studio-Status](https://furboxstudio.instatus.com).**
 - **📜 Guide and Usage Instructions: [Tutorial](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/tree/main?tab=readme-ov-file#-tutorial).**
 - **🔗 Download Macro: [Here](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/tree/main?tab=readme-ov-file#-download-macro).**
-
+- **[📬 Contact & Support](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/tree/main?tab=readme-ov-file#-contact--support)**
 ## ⚙️ Roblox Settings
 - Shift Lock: OFF
 - Camera Mode: Default

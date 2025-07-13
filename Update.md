@@ -1,3 +1,12 @@
+# 🛠️ Update Log (4.6.2) – 🛠️ Fixpack ⚙️
+## 🧰 New Features
+* **Changed event area movement mechanism**: Reintroduced the default walking system as before.
+## 🐛 Fixes
+* **Anti-Menu**: Anti-Menu can now detect the "Dino-Quests" menu.
+## 🗑️ Removed Features 
+* **ClickToMove**: So SUCKS!
+* **Radar Pollen**: Removed Radar Pollen from Slot 2 when auto Set-Items is used.
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.6.1) – 🛠️ Fixpack ⚙️
 ## 🐛 Fixes
 * **Fixed issue where reconnection failed during operation**

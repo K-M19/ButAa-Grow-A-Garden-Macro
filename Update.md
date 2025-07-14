@@ -1,3 +1,12 @@
+# 🛠️ Update Log (4.6.3) – 🛠️ Fixpack And Good Bye 👋
+## 🧰 New Features
+* **Crafting Event**: Added Dinosaur-Egg and Primal-Egg.
+## 🐛 Fixes
+* **Crafting Tools**: Fixed an issue where the entire item list caused incorrect selections when crafting.
+## 🗑️ Removed Features 
+* **Auto-Reconnect**
+> 🙏 **Special thanks** to *( pok_noob1123_96236 )* for the update!  
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.6.2) – 🛠️ Fixpack ⚙️
 ## 🧰 New Features
 * **Changed event area movement mechanism**: Reintroduced the default walking system as before.

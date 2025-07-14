@@ -1,3 +1,7 @@
+> [!CAUTION]
+> Thank you for your interest in and use of this macro. I'm truly grateful for that. However, this marks the end of the macro project. Once again, thank you all!!
+> The macro will still receive minor updates, but not as frequently as before.!
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow-A-Garden-Macro/refs/heads/main/IMG/B-Theme.png#gh-dark-mode-only" width="420">
   <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow-A-Garden-Macro/refs/heads/main/IMG/W-Theme.png#gh-light-mode-only" width="420">
@@ -165,7 +169,6 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | Rejoin | Action |
 | --- | ------ |
 | **Auto-Rejoin** | When you lose connection, the Macro will automatically kill Roblox, then run the server link you've provided to reconnect to your specified server. |
-| **Auto-Reconnect** | When you lose connection, the Macro will try to click the **Reconnect** button to return to the game. |
 
 | Multi-Instance | Action |
 | --- | ------ |

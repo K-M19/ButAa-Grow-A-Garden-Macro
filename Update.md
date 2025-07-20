@@ -1,3 +1,12 @@
+# 🛠️ Update Log (4.7) – 🧘ZEN🍃
+## 🧰 New Features
+* **Custom Ping**: Custom ping will notify you when the macro has successfully purchased an item.
+* **Merchant Shop**: The macro can now go to the **Merchant Shop**, but currently it only recognizes the **Sky Merchant**. I will add support for others when I have time and as the merchants appear.
+* **Zen Shop**: The macro will return to the **Zen Shop** to make purchases every 30 minutes. You can disable Save-Times if you prefer.
+* **Trade All Tranquil Plants**: The macro will exchange all available **Tranquil Plants**, and then proceed to make purchases.
+* **Donate Options**: A new option has been added for those who want to **Donate**.
+* **Patterns**: Movement patterns for handling **Tranquil Plants** have been added.
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.6.3) – 🛠️ Fixpack And Good Bye 👋
 ## 🧰 New Features
 * **Crafting Event**: Added Dinosaur-Egg and Primal-Egg.

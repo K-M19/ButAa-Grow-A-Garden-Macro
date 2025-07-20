@@ -100,6 +100,8 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 - 🫂 [Hug-Donate](https://www.roblox.com/game-pass/921625903)
 - 🤯 [Big-Donate](https://www.roblox.com/game-pass/934989735)
 - 💎 [TOP GUY-Donate](https://www.roblox.com/game-pass/8571028)
+- 🎁 [Huge Supporter](https://www.roblox.com/game-pass/8571028)
+- 📌 [More Options](https://www.roblox.com/games/4730813039/Donate-to-ME#!/store)
 - ♛ [List Of Supporter](https://discord.com/invite/n8M25v2fGq)
 
 ## 📦 Download Macro
@@ -137,12 +139,21 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | **Seeds** |
 | **Gears** | 
 | **Eggs** | 
+| **Merchant** |
 | **Cosmetic** |
 | **Crafting** |
 
-| Dino | Action |
+| Merchant | Action |
 | --- | ------ |
-| **Dinosaur Egg**  | It will collect all Pets from **Common** eggs and exchange them automatically. However, you can still get other desired pets by entering their names manually! |
+| **Sky Merchant**  | Done. |
+| **Summer Merchant**  | Soon. |
+| **Onet Merchant**  | Soon. |
+| **Gnome Merchant**  | Soon. |
+
+| Zen | Action |
+| --- | ------ |
+| **Zen Shop**  | The macro will return to the **Zen Shop** to make purchases every 30 minutes. You can disable Save-Times if you prefer. |
+| **Trade All Tranquil Plants**  | The macro will exchange all available **Tranquil Plants**, and then proceed to make purchases. |
 
 | Patterns | Action |
 | --- | ------ |

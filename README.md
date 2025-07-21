@@ -83,9 +83,9 @@ Ideally, should maintain a stable 50–60 FPS for smooth operation.
 
 * You can download the engine here: [MacroMaker Engine](https://github.com/FurBox-Studio/ToolKit-MacroMaker-Engine)
 
-## 🛡️ Microsoft Windows Defender Team  & Cloudflare ☁️
-> 🛡️ I sincerely thank the **Microsoft Windows Defender Team** for ensuring that this macro can run safely on **Windows 10 and 11** systems.  
-> *(Please make sure your Windows Defender is updated to the latest version to ensure full compatibility, if necessary.)*
+## 🛡️ Defender Team & Cloudflare ☁️
+> 🛡️ I sincerely thank the **Microsoft Windows Defender Team** & **Avast and AVG** for ensuring that this macro can run safely on **Windows 10 and 11** systems.  
+> *(Please make sure your Windows Defender or antivirus software is updated to the latest version to ensure full compatibility, if necessary.)*
 
 > ☁️ Special thanks to **Cloudflare** for supporting DDoS mitigation strategies and helping optimize key delivery routes closest to each user.
 
@@ -126,8 +126,9 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | Key | Action |
 | --- | ------ |
 | F5  | Start  |
-| F6  | Reload |
+| F6  | Reload/Stop |
 | F8  | Exit   |
+| F3  | Stop Patterns |
 
 > [!WARNING]  
 > HotKey can't save config!.

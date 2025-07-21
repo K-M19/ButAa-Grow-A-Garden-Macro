@@ -1,3 +1,17 @@
+# 🛠️ Update Log (4.7.1) – 🛠️ Fixpack ⚙️
+## 🧰 New Features
+* **BOSS**: 😼
+* **Crafting Cooldown Split**: The macro can now segment cooldowns per item, significantly reducing total crafting runtime.
+* **MacroMaker-Engine (ToolKit)**: Upgraded and modified **MacroMaker-Engine.Mini.exe** to better support the use of **Patterns**.
+* **Faster Macro Startup**: Reduced startup time to `2.7s` on HDD hardware.
+* **RAM Usage Optimization**: Removed integrity verification of _Cache. This improves macro performance and deletes _Cache upon exit, freeing up to 124MB RAM.
+## 🐛 Fixes
+* **Fixed**: Error Codes **0AX-DNS-0002** & **1AX-HOSTS-0100**.
+## ⚙️ MacroMaker Engine (646.S7)
+>Simulates verification time and removes unnecessary module files. The macro will automatically fetch any missing modules using preconfigured Visual C++ 2006–2015 packages. This greatly reduces the archive size. However, make sure you have the necessary Visual C++ Redistributables installed on your system.
+
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast and AVG Team** and **Cloudflare** for their support on this project!
+
 # 🛠️ Update Log (4.7) – 🧘ZEN🍃
 ## 🧰 New Features
 * **Custom Ping**: Custom ping will notify you when the macro has successfully purchased an item.

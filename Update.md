@@ -8,7 +8,7 @@
 ## 🐛 Fixes
 * **Fixed**: Error Codes **0AX-DNS-0002** & **1AX-HOSTS-0100**.
 ## ⚙️ MacroMaker Engine (646.S7)
->Simulates verification time and removes unnecessary module files. The macro will automatically fetch any missing modules using preconfigured Visual C++ 2006–2015 packages. This greatly reduces the archive size. However, make sure you have the necessary Visual C++ Redistributables installed on your system.
+>Simulates verification time and removes unnecessary module files. The macro will automatically fetch any missing modules using preconfigured Visual C++ 2005–2015 packages. This greatly reduces the archive size. However, make sure you have the necessary Visual C++ Redistributables installed on your system.
 
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast and AVG Team** and **Cloudflare** for their support on this project!
 

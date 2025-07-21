@@ -1,3 +1,8 @@
+# 🛠️ Update Log (4.7.2) – 🛠️ Fixpack ⚙️
+## 🐛 Fixes
+* **Fixed Crafting time counter bug when using Multi-Instance**:  
+  Multi-Instance will now disable the Crafting time counter. This means you will always return to Crafting on every run when using Multi-Instance.
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.7.1) – 🛠️ Fixpack ⚙️
 ## 🧰 New Features
 * **BOSS**: 😼

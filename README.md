@@ -1,5 +1,4 @@
 > [!CAUTION]
-> Thank you for your interest in and use of this macro. I'm truly grateful for that. However, this marks the end of the macro project. Once again, thank you all!!
 > The macro will still receive minor updates, but not as frequently as before.!
 
 <p align="center">
@@ -15,14 +14,10 @@
   <a href="https://discord.com/invite/n8M25v2fGq"><img alt="Discord" src="https://img.shields.io/discord/1240236439401267220?label=Discord"></a>
 </div>
 
-
-
 ## 📢 Project Notice: This Project Will End
 **🗓️ Estimated Shutdown Date: July 15, 2025 (UTC)**
 - **[Why?](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Why.md)**
   
-
-
 ## 🖥️ Operating System
 ✅ - Windows 10/11 64-bit  
 ❌ - Windows 7/8/8.1 or (Win 10 - 32-bit)  
@@ -39,6 +34,7 @@
 - **📜 Guide and Usage Instructions: [Tutorial](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/tree/main?tab=readme-ov-file#-tutorial).**
 - **🔗 Download Macro: [Here](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/tree/main?tab=readme-ov-file#-download-macro).**
 - **[📬 Contact & Support](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/tree/main?tab=readme-ov-file#-contact--support)**
+  
 ## ⚙️ Roblox Settings
 - Shift Lock: OFF
 - Camera Mode: Default

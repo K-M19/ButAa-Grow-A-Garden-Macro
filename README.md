@@ -1,5 +1,6 @@
-> [!CAUTION]
-> The macro will still receive minor updates, but not as frequently as before.!
+
+> [!CAUTION]  
+> The only official places to download Macro are this GitHub repository. Any other websites offering downloads or claiming to be us are not controlled by us.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow-A-Garden-Macro/refs/heads/main/IMG/B-Theme.png#gh-dark-mode-only" width="420">
@@ -17,6 +18,10 @@
 ## 📢 Project Notice: This Project Will End
 **🗓️ Estimated Shutdown Date: July 15, 2025 (UTC)**
 - **[Why?](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Why.md)**
+
+> [!WARNING]
+> The macro will still receive minor updates, but not as frequently as before.!
+
   
 ## 🖥️ Operating System
 ✅ - Windows 10/11 64-bit  
@@ -96,7 +101,7 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 - 🫂 [Hug-Donate](https://www.roblox.com/game-pass/921625903)
 - 🤯 [Big-Donate](https://www.roblox.com/game-pass/934989735)
 - 💎 [TOP GUY-Donate](https://www.roblox.com/game-pass/8571028)
-- 🎁 [Huge Supporter](https://www.roblox.com/game-pass/8571028)
+- 🎁 [Huge Supporter](https://www.roblox.com/game-pass/8571032)
 - 📌 [More Options](https://www.roblox.com/games/4730813039/Donate-to-ME#!/store)
 - ♛ [List Of Supporter](https://discord.com/invite/n8M25v2fGq)
 

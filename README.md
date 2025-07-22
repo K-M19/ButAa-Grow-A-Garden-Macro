@@ -149,8 +149,9 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | --- | ------ |
 | **Sky Merchant**  | Done. |
 | **Summer Merchant**  | Soon. |
-| **Onet Merchant**  | Soon. |
+| **Onet Merchant**  | Done. |
 | **Gnome Merchant**  | Soon. |
+| **Do Sky & Summer & Onet & Gnome**  | The 'Do' option provides Merchant choices to help you skip or proceed to different Merchants.. |
 
 | Zen | Action |
 | --- | ------ |
@@ -177,6 +178,7 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | **Macro DebugLog** | Creates a file called ``MacroDebugLog.txt``. |
 | **Checker-Run** | Sets items in the correct slots: ``Recall Wrench`` in slot 1, ``Radar Pollen`` in slot 2, ``CommonEgg`` in slot 3. |
 | **Save-Times** | It helps you return to the EggShop, Crafting, or Event every 30 minutes. |
+| **Go Merchant-Shop** | Will proceed with purchasing or meeting the Merchants. |
 | **DevZone** | Access the developer tab for testing and debugging. *(Some values should not be changed unless you understand them. If you've accidentally changed something and don't remember the original value, delete the Config folder and re-run the macro.)* |
 
 | Rejoin | Action |

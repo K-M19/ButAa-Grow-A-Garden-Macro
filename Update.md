@@ -1,3 +1,14 @@
+# 🛠️ Update Log (4.7.3) – 🛠️ Fixpack ⚙️
+## 🧰 New Features
+* **Added DPI and Screen Fix Mechanism**: I hope it's effective, as fixing this issue was quite tricky. I couldn't reproduce the problem on my own devices. This issue is caused when your screen resolution is lower than the recommended "1920x1080", which makes the macro inaccurate.
+* **Modules CallDLL**: Completely removed all unnecessary modules to reduce macro file size. DLL calls will now be replaced with ones that directly call Visual C++ Redistributables.
+* **DPI, Screen & Windows Version Check**: These checks have been added to the macro to help me assist you better and to help you understand the macro's compatibility. You can find this information in **MacroDebugLog.txt**.
+* **Added Onet Merchant & Honey Trade**
+* **Added 'Do' Option**: The 'Do' option provides Merchant choices to help you skip or proceed to different Merchants.
+## 🐛 Fixes
+* **Auto-Rejoin**: Fixed an issue where the macro misidentified images and incorrectly reported disconnection errors.
+> 🙏 **Special thanks** to **Mizunoxz** for the bug reports!  
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.7.2) – 🛠️ Fixpack ⚙️
 ## 🐛 Fixes
 * **Fixed Crafting time counter bug when using Multi-Instance**:  

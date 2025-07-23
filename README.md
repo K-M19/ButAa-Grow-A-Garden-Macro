@@ -150,7 +150,7 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | **Sky Merchant**  | Done. |
 | **Summer Merchant**  | Done. |
 | **Onet Merchant**  | Done. |
-| **Gnome Merchant**  | Soon. |
+| **Gnome Merchant**  | Done. |
 | **Do Sky & Summer & Onet & Gnome**  | The 'Do' option provides Merchant choices to help you skip or proceed to different Merchants.. |
 
 | Zen | Action |

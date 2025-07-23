@@ -1,3 +1,9 @@
+# 🛠️ Update Log (4.7.6) – 🧙🏻‍♂️Gnome Merchant & 100% Merchant🧝🏼
+## 🧰 New Features
+* **Added Gnome Merchant**
+## 🐛 Fixes
+* **Anti-Menu**:  Fixed Onett Merchant.
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.7.5) – 🛠️ Fixpack ⚙️
 ## 🐛 Fixes
 * **Anti-Menu**: Code:IMS-ATS-0001.

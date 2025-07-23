@@ -1,3 +1,11 @@
+# 🛠️ Update Log (4.7.4) – 🛠️ Fixpack ⚙️
+## 🧰 New Features
+* **Added Summer Merchant**
+## 🐛 Fixes
+* **Anti-Menu**: Fixed bug and updated final verification image.
+* **Patterns**: Increased wait time when using radar.
+> 🙏 **Special thanks** to **llamanug** & **numberonelinkclickfan** for the bug reports!  
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.7.3) – 🛠️ Fixpack ⚙️
 ## 🧰 New Features
 * **Added DPI and Screen Fix Mechanism**: I hope it's effective, as fixing this issue was quite tricky. I couldn't reproduce the problem on my own devices. This issue is caused when your screen resolution is lower than the recommended "1920x1080", which makes the macro inaccurate.

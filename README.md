@@ -148,7 +148,7 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | Merchant | Action |
 | --- | ------ |
 | **Sky Merchant**  | Done. |
-| **Summer Merchant**  | Soon. |
+| **Summer Merchant**  | Done. |
 | **Onet Merchant**  | Done. |
 | **Gnome Merchant**  | Soon. |
 | **Do Sky & Summer & Onet & Gnome**  | The 'Do' option provides Merchant choices to help you skip or proceed to different Merchants.. |

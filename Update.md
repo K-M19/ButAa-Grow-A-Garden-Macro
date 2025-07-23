@@ -1,3 +1,7 @@
+# 🛠️ Update Log (4.7.5) – 🛠️ Fixpack ⚙️
+## 🐛 Fixes
+* **Anti-Menu**: Code:IMS-ATS-0001.
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.7.4) – 🛠️ Fixpack ⚙️
 ## 🧰 New Features
 * **Added Summer Merchant**

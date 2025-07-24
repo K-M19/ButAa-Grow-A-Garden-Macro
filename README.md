@@ -103,7 +103,6 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 - 💎 [TOP GUY-Donate](https://www.roblox.com/game-pass/8571028)
 - 🎁 [Huge Supporter](https://www.roblox.com/game-pass/8571032)
 - 📌 [More Options](https://www.roblox.com/games/4730813039/Donate-to-ME#!/store)
-- ♛ [List Of Supporter](https://discord.com/invite/n8M25v2fGq)
   
 ## ♛ List Of Supporter
 | ID | User | Donated |

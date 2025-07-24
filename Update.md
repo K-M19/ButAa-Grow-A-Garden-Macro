@@ -1,7 +1,7 @@
-# 🛠️ Update Log (4.7.7) – 🛠️ Fixpack ⚙️
+# 🛠️ Update Log (4.7.8) – 🛠️ Fixpack – Bandwidth Overload ⚙️
 ## 🐛 Fixes
-* **Anti-Menu**: Fixed bug and updated final verification image.
-* **Merchant Bypass**
+* **Server System**: Resolved the issue of bandwidth overload requiring activation keys. Cloudflare has supported and upgraded to a wider and faster bandwidth.
+  - Connection interruptions due to bandwidth overload have been completely resolved.
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.7.6) – 🧙🏻‍♂️Gnome Merchant & 100% Merchant🧝🏼
 ## 🧰 New Features

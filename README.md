@@ -104,6 +104,14 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 - 🎁 [Huge Supporter](https://www.roblox.com/game-pass/8571032)
 - 📌 [More Options](https://www.roblox.com/games/4730813039/Donate-to-ME#!/store)
 - ♛ [List Of Supporter](https://discord.com/invite/n8M25v2fGq)
+  
+## ♛ List Of Supporter
+| ID | User | Donated |
+| --- | ------ | ------ |
+| 2365909501  | MasteryIslandOp  | 800 Robux |
+| 87162006  | ImNotThinknoodles  | 770 Robux |
+| 4073346622  | baodhy2002  | 200 Robux |
+| 4073346622  | baodhy2002  | 200 Robux |
 
 ## 📦 Download Macro
 **📜 Please read the [license and terms](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/LICENSE.md) before downloading. By using this software, you agree to them.**

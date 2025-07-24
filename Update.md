@@ -1,3 +1,7 @@
+# 🛠️ Update Log (4.7.9) – 🛠️ Fixpack – Webhook ⚙️
+## 🐛 Fixes
+* **Webhook**: Fixed the issue where the webhook was not responding, caused by a new API from the server.
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.7.8) – 🛠️ Fixpack – Bandwidth Overload ⚙️
 ## 🐛 Fixes
 * **Server System**: Resolved the issue of bandwidth overload requiring activation keys. Cloudflare has supported and upgraded to a wider and faster bandwidth.

@@ -1,3 +1,8 @@
+# 🛠️ Update Log (4.7.7) – 🛠️ Fixpack ⚙️
+## 🐛 Fixes
+* **Anti-Menu**: Fixed bug and updated final verification image.
+* **Merchant Bypass**
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.7.6) – 🧙🏻‍♂️Gnome Merchant & 100% Merchant🧝🏼
 ## 🧰 New Features
 * **Added Gnome Merchant**

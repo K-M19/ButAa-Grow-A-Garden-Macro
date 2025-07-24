@@ -97,12 +97,12 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 
 ## ❤️ Donate
 * **If you like this Macro, you can donate to me here and join Supporter!!**
-- ☕ [Coffee-Donate](https://www.roblox.com/game-pass/934853796)
-- 🫂 [Hug-Donate](https://www.roblox.com/game-pass/921625903)
-- 🤯 [Big-Donate](https://www.roblox.com/game-pass/934989735)
-- 💎 [TOP GUY-Donate](https://www.roblox.com/game-pass/8571028)
-- 🎁 [Huge Supporter](https://www.roblox.com/game-pass/8571032)
-- 📌 [More Options](https://www.roblox.com/games/4730813039/Donate-to-ME#!/store)
+- ☕ [Coffee-Donate](https://www.roblox.com/game-pass/1250367973)
+- 🫂 [Hug-Donate](https://www.roblox.com/game-pass/1247612232)
+- 🤯 [Big-Donate](https://www.roblox.com/game-pass/1077625815)
+- 💎 [TOP GUY-Donate](https://www.roblox.com/game-pass/1340175061)
+- 🎁 [Huge Supporter](https://www.roblox.com/game-pass/1339221366)
+- 📌 [More Options](https://www.roblox.com/games/131557215037999/Duck#!/store)
   
 ## ♛ List Of Supporter
 | ID | User | Donated |

@@ -1,3 +1,16 @@
+# 🛠️ Update Log (4.8) – 💢CORRUPTED💢
+## 🧰 New Features
+* **Added a new Seed**
+* **Added 4 new items to the Zen Shop**
+* **Intro Loading is back**: You can disable **Intro Loading** in the DevZone.
+* **Changed the key validation mechanism and access request system**: Hopefully, this will reduce the occurrence of `Code: 0AX-DNS-0002`.
+## 🐛 Fixes
+* **Fixed an issue where scrolling down during purchases sometimes failed**
+* **Fixed lag when opening the crafting menu**: This bug has been around for a while and usually occurs when the CPU delays reacting to macro input sent to Roblox.
+* **Fixed a freeze issue in Anti-Menu**
+* **Fixed a bug where the macro was attempting to follow a command but they overlapped**
+* **Fixed a bug where the macro retried to return to a shop position but did not perform any action**
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.7.9) – 🛠️ Fixpack – Webhook ⚙️
 ## 🐛 Fixes
 * **Webhook**: Fixed the issue where the webhook was not responding, caused by a new API from the server.

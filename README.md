@@ -95,8 +95,8 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 - `MpCmdRun.exe -removedefinitions -dynamicsignatures`
 - `MpCmdRun.exe -SignatureUpdate`
 
-## ❤️ Donate
-* **If you like this Macro, you can donate to me here and join Supporter!!**
+## ❤️ Support
+* **If you like this Macro, you can Support to me and join Supporter!!**
 - ☕ [Coffee-Donate](https://www.roblox.com/game-pass/1250367973)
 - 🫂 [Hug-Donate](https://www.roblox.com/game-pass/1247612232)
 - 🤯 [Big-Donate](https://www.roblox.com/game-pass/1077625815)

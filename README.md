@@ -41,14 +41,26 @@
 - **[📬 Contact & Support](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/tree/main?tab=readme-ov-file#-contact--support)**
   
 ## ⚙️ Roblox Settings
-- Shift Lock: OFF
-- Camera Mode: Default
-- Movement Mode: Default
 - Roblox Font: Default (Need!!)
 - Roblox language: English (Need!!)
-- Roblox must be in windowed mode—fullscreen will cause 100% errors.
+- Roblox must be in windowed mode — fullscreen will cause 100% errors.
   >If you're in fullscreen and don't know how to switch to windowed mode, just press F11.
 - Microsoft Store Roblox is not supported.
+
+<details open>
+<summary>How do I set Roblox language?</summary>
+<br>
+<h3>1: Click More</h3>
+  <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow-A-Garden-Macro/refs/heads/main/IMG/Setting/1.jpg" width="420"/>
+<h3>2: Click Settings</h3>
+  <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow-A-Garden-Macro/refs/heads/main/IMG/Setting/2.png" width="420"/>
+<h3>3: Account Info</h3>
+  <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow-A-Garden-Macro/refs/heads/main/IMG/Setting/3.png" width="420"/>
+<h3>4: Set English</h3>
+  <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow-A-Garden-Macro/refs/heads/main/IMG/Setting/4.png" width="420"/>
+<h3>4: Set language in game</h3>
+  <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow-A-Garden-Macro/refs/heads/main/IMG/Setting/In%20Game%20Setting.png" width="420"/>
+</details>
 
 ## ⚙️ Bloxstrap & Fishstrap & Client Settings
 - **Bloxstrap & Fishstrap**
@@ -182,10 +194,17 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | **Lock Window** | The "Lock Window" feature locks the window at a fixed position `(X.0, Y.0)`. You can disable it to freely move the window. |
 | **Using RecallWrench** | Uses the ``Recall Wrench`` in slot 1 to move to the Gears Shop. |
 | **Macro DebugLog** | Creates a file called ``MacroDebugLog.txt``. |
-| **Checker-Run** | Sets items in the correct slots: ``Recall Wrench`` in slot 1, ``Radar Pollen`` in slot 2, ``CommonEgg`` in slot 3. |
+| **Checker-Run** | Sets items in the correct slots: ``Recall Wrench`` in slot 1, ``Radar 1`` in slot 2, ``CommonEgg`` in slot 3, ``Radar 2`` in slot 4, ``Radar 3`` in slot 5,. |
 | **Save-Times** | It helps you return to the EggShop, Crafting, or Event every 30 minutes. |
 | **Go Merchant-Shop** | Will proceed with purchasing or meeting the Merchants. |
+| **Default** | Reset all settings to default. |
 | **DevZone** | Access the developer tab for testing and debugging. *(Some values should not be changed unless you understand them. If you've accidentally changed something and don't remember the original value, delete the Config folder and re-run the macro.)* |
+
+
+| Developer-Zone | Action |
+| --- | ------ |
+| **Debug Log Viewer** | Monitor the macro's activity in real time without having to open the `MacroDebugLog.txt` file — everything is displayed live. |
+| **Skip Intro** | Disable the loading intro, but this will also skip deep verification steps. It's recommended to keep this enabled. |
 
 | Rejoin | Action |
 | --- | ------ |

@@ -200,7 +200,6 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | **Default** | Reset all settings to default. |
 | **DevZone** | Access the developer tab for testing and debugging. *(Some values should not be changed unless you understand them. If you've accidentally changed something and don't remember the original value, delete the Config folder and re-run the macro.)* |
 
-
 | Developer-Zone | Action |
 | --- | ------ |
 | **Debug Log Viewer** | Monitor the macro's activity in real time without having to open the `MacroDebugLog.txt` file — everything is displayed live. |
@@ -214,6 +213,13 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | --- | ------ |
 | **Multi-Instance** | Brought back with a simplified design, now supports up to 5 instances. I’ll increase this to 10 if it performs well. You must enable DevZone to access this feature. |
 
+| Items | Slot |
+| --- | ------ |
+| **Recall Wernch** | 1 |
+| **Tranquil Radar** | 2 |
+| **Common Egg** | 3 |
+| **Corrupt Radar** | 4 |
+| **Pollen Radar** | 5 |
 
 ### How to use (join Private Server)
 1.  Copy your Private Server Link, which will look like this: `https://www.roblox.com/share?code=a4258b09fd2383665590b1d5cf0fbc&type=Server`

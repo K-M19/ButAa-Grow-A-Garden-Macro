@@ -58,7 +58,7 @@
   <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow-A-Garden-Macro/refs/heads/main/IMG/Setting/3.png" width="420"/>
 <h3>4: Set English</h3>
   <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow-A-Garden-Macro/refs/heads/main/IMG/Setting/4.png" width="420"/>
-<h3>4: Set language in game</h3>
+<h3>5: Set language in game</h3>
   <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow-A-Garden-Macro/refs/heads/main/IMG/Setting/In%20Game%20Setting.png" width="420"/>
 </details>
 

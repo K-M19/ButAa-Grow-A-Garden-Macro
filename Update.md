@@ -1,3 +1,9 @@
+# 🛠️ Update Log (4.8.1) – 🛠️ FixPack ⚙️
+## 🧰 New Features
+* **Added countdown timer when using Patterns**: You can choose between 30 minutes, 1–5 hours, or Loop. Once the set time expires, the macro will automatically continue using the Pattern.
+## 🐛 Fixes
+* **Fixed an issue where the macro sometimes clicked the Seed button to go to the seed shop, but Roblox did not recognize the signal from the macro.**
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.8) – 💢CORRUPTED💢
 ## 🧰 New Features
 * **Added a new Seed**
@@ -11,11 +17,11 @@
 * **Fixed a bug where the macro was attempting to follow a command but they overlapped**
 * **Fixed a bug where the macro retried to return to a shop position but did not perform any action**
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
-# 🛠️ Update Log (4.7.9) – 🛠️ Fixpack – Webhook ⚙️
+# 🛠️ Update Log (4.7.9) – 🛠️ FixPack – Webhook ⚙️
 ## 🐛 Fixes
 * **Webhook**: Fixed the issue where the webhook was not responding, caused by a new API from the server.
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
-# 🛠️ Update Log (4.7.8) – 🛠️ Fixpack – Bandwidth Overload ⚙️
+# 🛠️ Update Log (4.7.8) – 🛠️ FixPack – Bandwidth Overload ⚙️
 ## 🐛 Fixes
 * **Server System**: Resolved the issue of bandwidth overload requiring activation keys. Cloudflare has supported and upgraded to a wider and faster bandwidth.
   - Connection interruptions due to bandwidth overload have been completely resolved.
@@ -26,11 +32,11 @@
 ## 🐛 Fixes
 * **Anti-Menu**:  Fixed Onett Merchant.
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
-# 🛠️ Update Log (4.7.5) – 🛠️ Fixpack ⚙️
+# 🛠️ Update Log (4.7.5) – 🛠️ FixPack ⚙️
 ## 🐛 Fixes
 * **Anti-Menu**: Code:IMS-ATS-0001.
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
-# 🛠️ Update Log (4.7.4) – 🛠️ Fixpack ⚙️
+# 🛠️ Update Log (4.7.4) – 🛠️ FixPack ⚙️
 ## 🧰 New Features
 * **Added Summer Merchant**
 ## 🐛 Fixes
@@ -38,7 +44,7 @@
 * **Patterns**: Increased wait time when using radar.
 > 🙏 **Special thanks** to **llamanug** & **numberonelinkclickfan** for the bug reports!  
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
-# 🛠️ Update Log (4.7.3) – 🛠️ Fixpack ⚙️
+# 🛠️ Update Log (4.7.3) – 🛠️ FixPack ⚙️
 ## 🧰 New Features
 * **Added DPI and Screen Fix Mechanism**: I hope it's effective, as fixing this issue was quite tricky. I couldn't reproduce the problem on my own devices. This issue is caused when your screen resolution is lower than the recommended "1920x1080", which makes the macro inaccurate.
 * **Modules CallDLL**: Completely removed all unnecessary modules to reduce macro file size. DLL calls will now be replaced with ones that directly call Visual C++ Redistributables.
@@ -49,12 +55,12 @@
 * **Auto-Rejoin**: Fixed an issue where the macro misidentified images and incorrectly reported disconnection errors.
 > 🙏 **Special thanks** to **Mizunoxz** for the bug reports!  
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
-# 🛠️ Update Log (4.7.2) – 🛠️ Fixpack ⚙️
+# 🛠️ Update Log (4.7.2) – 🛠️ FixPack ⚙️
 ## 🐛 Fixes
 * **Fixed Crafting time counter bug when using Multi-Instance**:  
   Multi-Instance will now disable the Crafting time counter. This means you will always return to Crafting on every run when using Multi-Instance.
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
-# 🛠️ Update Log (4.7.1) – 🛠️ Fixpack ⚙️
+# 🛠️ Update Log (4.7.1) – 🛠️ FixPack ⚙️
 ## 🧰 New Features
 * **BOSS**: 😼
 * **Crafting Cooldown Split**: The macro can now segment cooldowns per item, significantly reducing total crafting runtime.
@@ -77,7 +83,7 @@
 * **Donate Options**: A new option has been added for those who want to **Donate**.
 * **Patterns**: Movement patterns for handling **Tranquil Plants** have been added.
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
-# 🛠️ Update Log (4.6.3) – 🛠️ Fixpack And Good Bye 👋
+# 🛠️ Update Log (4.6.3) – 🛠️ FixPack And Good Bye 👋
 ## 🧰 New Features
 * **Crafting Event**: Added Dinosaur-Egg and Primal-Egg.
 ## 🐛 Fixes
@@ -86,7 +92,7 @@
 * **Auto-Reconnect**
 > 🙏 **Special thanks** to *( pok_noob1123_96236 )* for the update!  
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
-# 🛠️ Update Log (4.6.2) – 🛠️ Fixpack ⚙️
+# 🛠️ Update Log (4.6.2) – 🛠️ FixPack ⚙️
 ## 🧰 New Features
 * **Changed event area movement mechanism**: Reintroduced the default walking system as before.
 ## 🐛 Fixes
@@ -95,7 +101,7 @@
 * **ClickToMove**: So SUCKS!
 * **Radar Pollen**: Removed Radar Pollen from Slot 2 when auto Set-Items is used.
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
-# 🛠️ Update Log (4.6.1) – 🛠️ Fixpack ⚙️
+# 🛠️ Update Log (4.6.1) – 🛠️ FixPack ⚙️
 ## 🐛 Fixes
 * **Fixed issue where reconnection failed during operation**
 * **Fixed missing `Mrd.dll` resource on ARM64 systems**
@@ -113,7 +119,7 @@
 * **Modified the travel logic to the new Event Zone**: Honestly... it's still the same, but *kinda* different... 
 > See the sunset!!!!!
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
-# 🛠️ Update Log (4.5.4) – 🛠️ Fixpack ⚙️
+# 🛠️ Update Log (4.5.4) – 🛠️ FixPack ⚙️
 ## 🧰 New Features
 * **Status Notification**: A dedicated status popup to help you keep track of how many times you've successfully **bought** or **Crafting**.  
   (Only successful purchases and crafting actions are counted.)
@@ -123,7 +129,7 @@
   > ⚠️ **Multi-Instance**: May behave slightly incorrectly, as it merges all instances into one unified status instead of separating them individually.
 * **Added required modules for ARM64 support**
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
-# 🛠️ Update Log (4.5.3) – 🛠️ Massive Fixpack ⚙️
+# 🛠️ Update Log (4.5.3) – 🛠️ Massive FixPack ⚙️
 ## 🧰 New Features
 * **Implemented Pixel Verification Mechanism to enhance accuracy when purchasing Eggs.**
 ## Big 🐛 
@@ -150,7 +156,7 @@
 * **Upgraded to .NET 9.0 and Python 3.13.5 — All required libraries and DLLs have been embedded for seamless operation without additional installations.**
 * **Docker is now integrated into the core library file. This increases the total size by ~3MB, but remains within acceptable limits.**
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
-# 🛠️ Update Log (4.5.2) – 🛠️ Fixpack ⚙️
+# 🛠️ Update Log (4.5.2) – 🛠️ FixPack ⚙️
 ## 🐛 Fixes  
 * **Fixed the Click to Move mechanism when claiming Dinosaur Egg**: The movement mechanism was updated because players were standing *on* the lab table instead of *next to* it. I’ve modified it so that when the player stands near the lab table, the macro will zoom the camera to the optimal movement range and continue the interaction as originally intended.
 ## 🗑️ Removed Features  
@@ -175,7 +181,7 @@
 * **Removed 3 eggs that no longer appear in the shop**
 ---
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
-# 🛠️ Update Log (4.4.1) – 🛠️ Fixpack ⚙️
+# 🛠️ Update Log (4.4.1) – 🛠️ FixPack ⚙️
 ## 🧰 New Features
 * **Harvest (All Times)**: This has been integrated. If you enable both **Summer Harvest** and **Harvest (All Times)**, the macro will skip the time condition and will always go to the zone and place the fruits in the cart on every run.
 ## 🐛 Fixes
@@ -201,7 +207,7 @@
 *  **Uses fewer system resources — no more temporary _Cache files or excessive RAM usage. RAM usage is significantly reduced, and the _Cache will auto-delete after each run.**
 ---
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
-# 🛠️ Update Log (4.3.1) – 🛠️ Fixpack ⚙️
+# 🛠️ Update Log (4.3.1) – 🛠️ FixPack ⚙️
 ## 🧰 New Features
 * **Lock Window**: The "Lock Window" feature locks the window at a fixed position `(X.0, Y.0)`. You can disable it to freely move the window.
 * **32-character Server Link**: When this notification appears, it will redirect you to a detailed tutorial.
@@ -218,17 +224,17 @@
   `ColorVEgg` is an advanced image recognition feature.  
   It analyzes the image and closely matches the color of the creature inside the Egg more accurately.  
   You can increase or decrease its value — the maximum is `100`.
-## 🤞 Hopefully the last Fixpack or Update of the week xD - X2..
+## 🤞 Hopefully the last FixPack or Update of the week xD - X2..
 ---
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
-# 🛠️ Update Log (4.2.2) – 🛠️ Fixpack 2 ⚙️
+# 🛠️ Update Log (4.2.2) – 🛠️ FixPack 2 ⚙️
 ## 🐛 Fixes
 * **Fixed Anti-Menu not detecting Sumer-Rewards**
 * **Debug Log Viewer is no longer AlwaysOnTop**: The Debug Log Viewer is no longer in AlwaysOnTop mode. Some users found it annoying, so I’ve disabled it.
-## 🤞 Hopefully the last Fixpack of the week xD
+## 🤞 Hopefully the last FixPack of the week xD
 ---
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
-# 🛠️ Update Log (4.2.1) – 🛠️ Fixpack ⚙️
+# 🛠️ Update Log (4.2.1) – 🛠️ FixPack ⚙️
 ## 🐛 Fixes
 * **Fixed the issue where `Save-Times` would automatically switch to inactive mode**: `Save-Times` is now off by default. It helps you return to the EggShop, Crafting, or Event every 30 minutes.
 * **Fixed the issue where `Common Egg` could not be retrieved due to conflict with `Common Summer Egg`**: Now on first launch, the macro will take both the `Common Summer Egg` and `Uncommon Egg` and place them into slots 3–4.
@@ -250,7 +256,7 @@
 * **Fixed an issue where Debug Log Viewer did not record logs**
 ---
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
-# 🛠️ Update Log (4.1.1) – 🛠️ Fixpack ⚙️
+# 🛠️ Update Log (4.1.1) – 🛠️ FixPack ⚙️
 ## 🧰 New Features
 * **Added Test Reconnect buttons and Time-wait**
   *TimeWaitBackGame is a waiting feature triggered when the macro successfully reconnects to the game. This ensures the game is fully loaded before the next execution cycle begins. The default value is `35000`, which equals a 35-second delay.*
@@ -282,7 +288,7 @@
 *Enhanced recognition and image scanning across multiple threads.*
 ---
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
-# 🛠️ Update Log (4.0) – 🧑‍🌾 Auto Summer Harvest & Huge Fixpack ⚙️
+# 🛠️ Update Log (4.0) – 🧑‍🌾 Auto Summer Harvest & Huge FixPack ⚙️
 ### 🐱 New Cat!
 ## 🧰 New Features
 * **Added automatic Summer Harvest when the event begins**  
@@ -297,7 +303,7 @@
   Added several improvements to ensure a more stable and secure connection with the server.
 ---
 > 🤝 Big thanks to the **Microsoft Windows Defender Team** and **Cloudflare** for their support on this project!
-# 🛠️ Update Log (v3.9.2) – ⚙️Huge Fixpack & Full List Crafting 🚜
+# 🛠️ Update Log (v3.9.2) – ⚙️Huge FixPack & Full List Crafting 🚜
 ### 🐱New Cat!
 ## 🧰 New Features
 * **Add Full List: Crafting Seeds**

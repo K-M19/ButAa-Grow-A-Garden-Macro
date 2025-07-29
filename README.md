@@ -179,6 +179,7 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | Patterns | Action |
 | --- | ------ |
 | **Patterns** | A customizable movement type you can adjust in the ``Patterns`` folder of the macro. |
+| **Countdown timer** | You can choose between 30 minutes, 1–5 hours, or Loop. Once the set time expires, the macro will automatically continue using the Pattern. |
 
 | Webhook | Action |
 | --- | ------ |

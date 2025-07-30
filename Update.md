@@ -1,3 +1,12 @@
+# 🛠️ Update Log (4.8.2) – 🛠️ FixPack ⚙️
+## 🧰 New Features
+* **Config file format**: Upgraded config file format from `.ini` to `.cfg` (Faster load/save speed, and allows more customization in the future)
+## 🐛 Fixes
+* **Fixed an issue** where config could not be loaded in functional option boxes
+## 🗑️ Removed Features
+* **Auto Kitsune Chest**: Removed. I apologize for this, but the game is pushing a sudden update in 2 days. However, if the event continues to be available, I will release a compatible version as soon as possible.
+> 🙏 **Special thanks** to **xyrilum** for the bug reports!  
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.8.1) – 🛠️ FixPack ⚙️
 ## 🧰 New Features
 * **Added countdown timer when using Patterns**: You can choose between 30 minutes, 1–5 hours, or Loop. Once the set time expires, the macro will automatically continue using the Pattern.

@@ -1,3 +1,8 @@
+# 🛠️ Update Log (4.8.3) – 🛠️ DNS ⚙️
+## 🐛 Fixes
+* **DNS**: Fixed DNS issues and completely resolved the problem where the macro always required a proper IPv6 setup to function. If you are not using IPv6, the macro will now automatically adjust itself for better connectivity.
+> 🙏 **Special thanks** to **Folio1** for the bug reports!  
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.8.2) – 🛠️ FixPack ⚙️
 ## 🧰 New Features
 * **Config file format**: Upgraded config file format from `.ini` to `.cfg` (Faster load/save speed, and allows more customization in the future)

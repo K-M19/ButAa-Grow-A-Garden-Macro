@@ -1,3 +1,7 @@
+# 🛠️ Update Log (4.8.5) – 🛠️ Final Connection Measures ⚙️
+## 🐛 Fixes
+* **Final Connection Measures**: Added 3 fallback connection measures when connecting to the server, and included 2 additional support server IPs to reduce the occurrence of `Code: 0AX-NET-0003`.
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.8.4) – 🛠️ DNS Fix.3 ⚙️
 ## 🐛 Fixes
 * **DNS Fix.3**

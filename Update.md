@@ -1,3 +1,7 @@
+# 🛠️ Update Log (4.8.4) – 🛠️ DNS Fix.3 ⚙️
+## 🐛 Fixes
+* **DNS Fix.3**
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.8.3) – 🛠️ DNS ⚙️
 ## 🐛 Fixes
 * **DNS**: Fixed DNS issues and completely resolved the problem where the macro always required a proper IPv6 setup to function. If you are not using IPv6, the macro will now automatically adjust itself for better connectivity.

@@ -1,3 +1,13 @@
+# 🛠️ Update Log (4.9) - 🍳 Cook 👨‍🍳
+## 🧰 New Features
+* **New Backpack Opening Mechanism**: No longer depends on clicking the backpack.
+* **Added 2 New Gears**
+* **Added 2 New Seed Crafting Recipes**
+## 🐛 Fixes
+* **DNS Bug Fix #5**: This is the fifth DNS bug fix – a bug related to not receiving data from the server and vice versa. I recommend switching to Google DNS or Cloudflare to improve your network connectivity path.
+## 🍳Auto Cook🍳
+* **I will add this once a solution is found**
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.8.5) – 🛠️ Final Connection Measures ⚙️
 ## 🐛 Fixes
 * **Final Connection Measures**: Added 3 fallback connection measures when connecting to the server, and included 2 additional support server IPs to reduce the occurrence of `Code: 0AX-NET-0003`.

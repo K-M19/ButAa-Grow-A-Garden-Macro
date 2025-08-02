@@ -171,11 +171,6 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | **Gnome Merchant**  | Done. |
 | **Do Sky & Summer & Onet & Gnome**  | The 'Do' option provides Merchant choices to help you skip or proceed to different Merchants.. |
 
-| Zen | Action |
-| --- | ------ |
-| **Zen Shop**  | The macro will return to the **Zen Shop** to make purchases every 30 minutes. You can disable Save-Times if you prefer. |
-| **Trade All Tranquil Plants**  | The macro will exchange all available **Tranquil Plants**, and then proceed to make purchases. |
-
 | Patterns | Action |
 | --- | ------ |
 | **Patterns** | A customizable movement type you can adjust in the ``Patterns`` folder of the macro. |

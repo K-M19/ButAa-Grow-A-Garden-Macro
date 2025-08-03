@@ -1,4 +1,9 @@
-# 🛠️ Update Log (4.9.1) - 🍳 Auto Cook 👨‍🍳
+# 🛠️ Update Log (4.9.2) - 🛠️ FixPack > Auto-Cook 👨‍🍳
+## 🐛 Fixes
+* **Fixed bug preventing multiple ingredients from being added when cooking**: You can now input bulk quantities if possible XD – up to **999,999,999,999,969** ingredients.
+* **Fixed bug when crafting Veinpetal**: I don’t know why it was looping, but it’s working now!
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
+# 🛠️ Update Log (4.9.1) - 🍳 Auto-Cook 👨‍🍳
 ## 🧰 New Features
 * **Auto-Cook**: You can cook any dish depending on how you configure the list in terms of order and quantity.
 * **Time Wait Cook**: You can customize the return delay time to continue cooking. Use the time in milliseconds, e.g., convert **45 minutes = 2700 × 1000 = 2700000 milliseconds**, so **2700000** is the standard time format that the macro can understand.

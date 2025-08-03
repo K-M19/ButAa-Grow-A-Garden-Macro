@@ -26,7 +26,7 @@
 ## 🖥️ Operating System
 ✅ - Windows 10/11 64-bit  
 ❌ - Windows 7/8/8.1 or (Win 10 - 32-bit)  
-✅ - ARM64 (Windows 10/11 64-bit)
+✅ - ARM64 (Windows 11 24h2+ 64-bit)
 
 ## 📊 System status
 - This is the project server system status, you can check it here: [Furbox-Studio-Status](https://furboxstudio.instatus.com)

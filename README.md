@@ -182,7 +182,6 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | **User ID** | Uses your **User ID** or **Role ID** to notify you whenever **rare items** are purchased. |
 | **Status Notification** | A dedicated status popup to help you keep track of how many times you've successfully **Bought** or **Crafting** |
 
-
 | Settings | Action |
 | --- | ------ |
 | **Play Notify Sound** | Plays a notification sound when the macro is running (mainly for debugging purposes). |
@@ -216,6 +215,18 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | **Common Egg** | 3 |
 | **Corrupt Radar** | 4 |
 | **Pollen Radar** | 5 |
+
+### How to use (Auto Cook)
+* **Fruit Name**: Enter the names of the ingredients you want to cook.  
+  For example, if you want to cook a Cake, just configure it like this:  
+  `Banana, Bone Blossom, Bone Blossom, Bone Blossom, Bone Blossom` —  
+  which means 1x Banana and 4x Bone Blossom.
+
+* **Time Wait**: Enter the delay time before cooking resumes.  
+  For example, if the dish takes 45 minutes to cook:  
+  Convert 45 minutes to seconds → `2700`  
+  Then multiply by 1000 → `2700 × 1000 = 2700000`  
+  So, `2700000` is the correct value that the macro will understand.
 
 ### How to use (join Private Server)
 1.  Copy your Private Server Link, which will look like this: `https://www.roblox.com/share?code=a4258b09fd2383665590b1d5cf0fbc&type=Server`

@@ -1,3 +1,12 @@
+# 🛠️ Update Log (4.9.1) - 🍳 Auto Cook 👨‍🍳
+## 🧰 New Features
+* **Auto-Cook**: You can cook any dish depending on how you configure the list in terms of order and quantity.
+* **Time Wait Cook**: You can customize the return delay time to continue cooking. Use the time in milliseconds, e.g., convert **45 minutes = 2700 × 1000 = 2700000 milliseconds**, so **2700000** is the standard time format that the macro can understand.
+* **Added 2 Servers**: Added 2 additional servers for activation key retrieval (America #28 and Singapore #8).
+## 🐛 Fixes
+* **Fixed an issue where the macro skipped seeds and gear during purchase**.
+* **Server Connection Fixed**: I’ve added fallback connection measures to reduce `Code: 0AX-NET-0003` errors, especially when you're in certain countries or using different ISPs.
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.9) - 🍳 Cook 👨‍🍳
 ## 🧰 New Features
 * **New Backpack Opening Mechanism**: No longer depends on clicking the backpack.

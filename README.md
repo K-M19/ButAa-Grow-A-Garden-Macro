@@ -186,14 +186,13 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | --- | ------ |
 | **Play Notify Sound** | Plays a notification sound when the macro is running (mainly for debugging purposes). |
 | **Loop-Runners** | Continuous running mode — the macro won't wait for the shop to restock, it will just keep going! |
-| **Lock Window** | The "Lock Window" feature locks the window at a fixed position `(X.0, Y.0)`. You can disable it to freely move the window. |
-| **Using RecallWrench** | Uses the ``Recall Wrench`` in slot 1 to move to the Gears Shop. |
+| **Lock Window** | The "Lock Window" feature locks the window at a fixed position `(X.20, Y.20)`. You can disable it to freely move the window. 
 | **Macro DebugLog** | Creates a file called ``MacroDebugLog.txt``. |
 | **Checker-Run** | Sets items in the correct slots: ``Recall Wrench`` in slot 1, ``Radar 1`` in slot 2, ``CommonEgg`` in slot 3, ``Radar 2`` in slot 4, ``Radar 3`` in slot 5,. |
 | **Save-Times** | It helps you return to the EggShop, Crafting, or Event every 30 minutes. |
 | **Go Merchant-Shop** | Will proceed with purchasing or meeting the Merchants. |
 | **Default** | Reset all settings to default. |
-| **DevZone** | Access the developer tab for testing and debugging. *(Some values should not be changed unless you understand them. If you've accidentally changed something and don't remember the original value, delete the Config folder and re-run the macro.)* |
+| **DevZone** | Access the developer tab for testing and debugging. *(Some values should not be changed unless you understand them. If you've accidentally changed something and don't remember the original value, Click button Default)* |
 
 | Developer-Zone | Action |
 | --- | ------ |
@@ -202,7 +201,7 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 
 | Rejoin | Action |
 | --- | ------ |
-| **Auto-Rejoin** | When you lose connection, the Macro will automatically kill Roblox, then run the server link you've provided to reconnect to your specified server. |
+| **Auto-Rejoin** | When you lose connection, the Macro will automatically kill Roblox, then run the server link you've provided to reconnect to your specified server *(When you enable "multi-instancing", the auto-rejoin feature will be disabled )*. |
 
 | Multi-Instance | Action |
 | --- | ------ |

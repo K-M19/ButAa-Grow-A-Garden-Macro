@@ -1,3 +1,12 @@
+# 🛠️ Update Log (4.9.3) - 🛠️ FixPack ⚙️
+## 🧰 New Features
+* **Cook-Only**: The *Cook-Only* feature has been added. If you only want to cook without using other features, simply go to the cooking area, align yourself with the pot, look down at the ground, and use the slot as a precise reference point. You can view an illustration: [Here](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro?tab=readme-ov-file#how-to-use-join-private-server)
+## 🐛 Fixes
+* **Fixed Pattern usage issue**: Resolved a problem related to using Patterns.
+* **Fixed random input issue during cooking**: Addressed a bug where random input lists could interfere during the cooking process.
+## 🗑️ Removed Features
+* **Removed dual server connection**: The connection to and use of the Singapore #8 server has been removed.
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.9.2) - 🛠️ FixPack > Auto-Cook 👨‍🍳
 ## 🐛 Fixes
 * **Fixed bug preventing multiple ingredients from being added when cooking**: You can now input bulk quantities if possible XD – up to **999,999,999,999,969** ingredients.

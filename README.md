@@ -227,6 +227,13 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
   Then multiply by 1000 → `2700 × 1000 = 2700000`  
   So, `2700000` is the correct value that the macro will understand.
 
+* **Cook-Only**: The *Cook-Only* feature has been added. If you only want 
+  to cook without using other features, simply go to the cooking area,  
+  align yourself with the pot, look down at the ground, and use the slot as a precise reference point.  
+  You can view an illustration:
+
+<img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow-A-Garden-Macro/refs/heads/main/IMG/Setting/Cook.png" width="420"/>
+
 ### How to use (join Private Server)
 1.  Copy your Private Server Link, which will look like this: `https://www.roblox.com/share?code=a4258b09fd2383665590b1d5cf0fbc&type=Server`
 

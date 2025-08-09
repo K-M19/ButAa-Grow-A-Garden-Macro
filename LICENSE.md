@@ -45,6 +45,8 @@ This License applies equally to all users worldwide, regardless of nationality, 
 The Software is designed to comply, where applicable, with major international privacy and data protection regulations, including:  
 - **EU General Data Protection Regulation (GDPR)**  
 - **California Consumer Privacy Act (CCPA)**  
+- **Canada Personal Information Protection and Electronic Documents Act (PIPEDA)**  
+- **France Data Protection Act (Loi Informatique et Libertés)**  
 - Equivalent laws in other jurisdictions  
 
 ## 13. Transparent Data Handling

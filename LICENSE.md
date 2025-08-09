@@ -2,7 +2,7 @@
 
 **Author:** K-M19 (ButAa)  
 **Date Updated:** 2025-08-09  
-**Original License Version:** May 12, 2025  
+**Original License Version:** May 12, 2025 (UTC)
 
 ---
 
@@ -76,32 +76,39 @@ Privacy and security clauses remain valid even if the license is modified.
 ## 17. Software Safety & International Standards Compliance
 The Software is intentionally free from malware and designed with safe programming practices. It follows international safety standards where applicable. False positives may still occur due to DRM.
 
-## 18. Disclaimer for Software Conflicts
+## 18 Collaboration with Security Vendors
+The Author commits to making ongoing efforts to ensure the Software is recognized as safe by major security vendors.
+Where possible, the Author will work directly with **Microsoft Windows Defender Team**, **Avast Software**, and other reputable antivirus providers to:
+- Improve detection accuracy and reduce false positives
+- Ensure the Software is whitelisted or certified as safe for use on Windows devices
+- Maintain compliance with recognized security certification processes
+
+## 19. Disclaimer for Software Conflicts
 The author is not responsible for:  
 - Incompatibility with other software  
 - OS or driver errors  
 - Hardware failures  
 
-## 19. Service Availability
+## 20. Service Availability
 No guarantee is made for uptime if remote servers are used.
 
-## 20. Legal Use Disclaimer
+## 21. Legal Use Disclaimer
 The Software must not be used for unlawful purposes. Users must comply with local laws.
 
-## 21. Antivirus Detection Notice
+## 22. Antivirus Detection Notice
 False positives may occur due to DRM features like anti-debugging, obfuscation, and anti-disassembly.
 
-## 22. License Expiration and Update Responsibility
+## 23. License Expiration and Update Responsibility
 The latest license is available at:  
 🔗 https://butaa91z.netlify.app/LICENSE  
 🔗 https://github.com/K-M19/CUSTOM-LICENSE
 
-## 23. Contact & Communication
+## 24. Contact & Communication
 For inquiries: **Butaaa.inbox@gmail.com**  
 Abuse, spam, or harassment is prohibited.
 
-## 24. Language & Legal Precedence
+## 25. Language & Legal Precedence
 This License was originally written in **English**. In case of any conflict between translated versions and the English version, the English version shall prevail.
 
-## 25. Final Notes
+## 26. Final Notes
 Using the Software means you accept all terms.

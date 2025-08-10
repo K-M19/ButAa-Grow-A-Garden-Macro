@@ -1,5 +1,6 @@
 # 🛠️ Update Log (5.1) - 🛠️ FixPack & Spray Merchant 🧑‍🔬
 ## 🧰 New Features
+* **Custom Hotkey**
 * **Spray Merchant**
 * **Added Using Patterns**: Reduces time if you don’t want to use Patterns.
 ## 🐛 Fixes

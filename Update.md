@@ -1,3 +1,40 @@
+# 🛠️ Update Log (5.0) - 🖥️ Multi-Resolution Support 🖥️
+### Game Version - ID: 1714
+> I hope this will make more people satisfied, though I still can’t guarantee it will work completely stably.
+  This is because the testing environment has always been on newer devices, with an average resolution of 1920×1080.
+## 🧰 New Features
+* **Support for multiple resolutions**: Supported resolutions include:
+  - 1024 × 768
+  - 1128 × 634
+  - 1152 × 864
+  - 1280 × 720
+  - 1280 × 800
+  - 1280 × 768
+  - 1440 × 900
+  - 1600 × 900
+  - 1920 × 1080
+  - 1920 × 1200
+  - 2560 × 1440
+  - 2560 × 1600
+  - 3840 × 2160
+  - 2048 × 1080
+  - 4096 × 2160
+* **Terms of Use window interface**: This is intended to protect my work and is part of the user's responsibility. Recently, I have received some harassment from users who did not understand the scope of the license despite being asked to read it before using anything. Therefore, I will integrate it directly into the software.
+* **Reworked mouse operation mechanism**: Redesigned to better support different screen sizes.
+* **Reworked event area walking mechanism**: The new movement system for the Cook event area now requires less walking distance and fewer inputs, but note that you must align parallel to the cooking pot and tilt the camera 40 degrees.
+## ⌛ Soon
+* **Auto-Feed: Pets**
+## ⚙️ MacroMaker Engine II (778.1)
+  * **Upgraded the Engine to version 2, reducing input lag, expanding operational scope, and deeply optimizing performance. I had wanted to apply this version for a long time, but it required L Cache, so I postponed it until now.**
+
+  **System Requirements**
+  - Display: 1280×720 (Recommended: 1920×1080 or higher), 100% scale
+  - OS: Windows 10/11 (64-bit)
+  - Processor: 2 hardware CPU threads & 1.5 GHz (2 MB L3 & 16KB L2 Cache) or ARM64 (Windows 11 24H2+ 64-bit)
+  - Memory: 40 MB
+  - Storage: 27 MB available space
+
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (4.9.3) - 🛠️ FixPack ⚙️
 ## 🧰 New Features
 * **Cook-Only**: The *Cook-Only* feature has been added. If you only want to cook without using other features, simply go to the cooking area, align yourself with the pot, look down at the ground, and use the slot as a precise reference point. You can view an illustration: [Here](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro?tab=readme-ov-file#how-to-use-join-private-server)

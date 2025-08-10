@@ -47,7 +47,7 @@
   >If you're in fullscreen and don't know how to switch to windowed mode, just press F11.
 - Microsoft Store Roblox is not supported.
 
-<details open>
+<details>
 <summary>How do I set Roblox language?</summary>
 <br>
 <h3>1: Click More</h3>
@@ -62,8 +62,8 @@
   <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow-A-Garden-Macro/refs/heads/main/IMG/Setting/In%20Game%20Setting.png" width="420"/>
 </details>
 
-## ⚙️ Bloxstrap & Fishstrap & Client Settings
-- **Bloxstrap & Fishstrap**
+## ⚙️ Bloxstrap & Fishstrap & Voidstrap & Plexity & Client Settings
+- **Bloxstrap & Fishstrap & Voidstrap & Plexity**
   >You can enable this option "Reset Everything to defaults".
 - **Fast Flag Settings**
   >You can keep your own settings, but try not to change too much, especially font quality and image quality.
@@ -84,6 +84,13 @@ Ideally, should maintain a stable 50–60 FPS for smooth operation.
 
 > [!NOTE] 
 > The macro is designed to run at a resolution of 1920x1080 (16:9) with Scale (DPI) set to 100%. I cannot guarantee that it will function correctly at other resolutions.
+
+## ⚙️ System Requirements
+- Display: 1280-720 (Recommended: 1920-1080 or higher), 100% scale
+- OS: Windows 10/11 (64-bit)
+- Processor: 2 hardware CPU threads & 1.5 GHz (2 MB L3 & 16KB L2 Cache) or ARM64 (Windows 11 24H2+ 64-bit)
+- Memory: 40 MB
+- Storage: 27 MB available space
 
 ## 🛡️ DRM / Antivirus Notice
 > Some antivirus software may detect this macro as a **false positive**.  

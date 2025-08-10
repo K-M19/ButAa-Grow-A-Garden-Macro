@@ -177,7 +177,8 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | **Summer Merchant**  | Done. |
 | **Onet Merchant**  | Done. |
 | **Gnome Merchant**  | Done. |
-| **Do Sky & Summer & Onet & Gnome**  | The 'Do' option provides Merchant choices to help you skip or proceed to different Merchants.. |
+| **Spary Merchant**  | Done. |
+| **Do Sky & Summer & Onet & Gnome & Spary**  | The 'Do' option provides Merchant choices to help you skip or proceed to different Merchants.. |
 
 | Patterns | Action |
 | --- | ------ |

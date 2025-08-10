@@ -1,3 +1,15 @@
+# 🛠️ Update Log (5.1) - 🛠️ FixPack & Spray Merchant 🧑‍🔬
+## 🧰 New Features
+* **Spray Merchant**
+* **Added Using Patterns**: Reduces time if you don’t want to use Patterns.
+## 🐛 Fixes
+* **Fixed incorrect actions when using Cook-Only**
+* **Fixed incorrect actions at the Onett shop**
+## ⌛ Soon
+* **Auto-Feed: Pets**: Currently testing feasibility.
+## 🗑️ Removed Features
+* **Removed Cosmetic Shop and replaced it with Spray Merchant**: Cosmetic Shop has been removed as it is no longer practical due to high restock capability, making it unnecessary.
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (5.0) - 🖥️ Multi-Resolution Support 🖥️
 ### Game Version - ID: 1714
 > I hope this will make more people satisfied, though I still can’t guarantee it will work completely stably.

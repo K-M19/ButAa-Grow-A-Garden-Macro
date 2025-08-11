@@ -14,14 +14,6 @@
   <a href="https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/releases/latest"><img alt="GitHub Downloads (all assets, latest release)" src="https://img.shields.io/github/downloads-pre/k-m19/ButAa-Grow-A-Garden-Macro/latest/total?label=Latest%20version%20downloads%20Status"></a>
   <a href="https://discord.com/invite/n8M25v2fGq"><img alt="Discord" src="https://img.shields.io/discord/1240236439401267220?label=Discord"></a>
 </div>
-
-## 📢 Project Notice: This Project Will End
-**🗓️ Estimated Shutdown Date: July 15, 2025 (UTC)**
-- **[Why?](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/Why.md)**
-
-> [!WARNING]
-> The macro will still receive minor updates, but not as frequently as before.!
-
   
 ## 🖥️ Operating System
 ✅ - Windows 10/11 64-bit  

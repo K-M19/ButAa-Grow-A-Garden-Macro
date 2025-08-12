@@ -160,8 +160,8 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | **Gears** | 
 | **Eggs** | 
 | **Merchant** |
-| **Cosmetic** |
 | **Crafting** |
+
 
 | Merchant | Action |
 | --- | ------ |
@@ -177,11 +177,9 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | **Patterns** | A customizable movement type you can adjust in the ``Patterns`` folder of the macro. |
 | **Countdown timer** | You can choose between 30 minutes, 1–5 hours, or Loop. Once the set time expires, the macro will automatically continue using the Pattern. |
 
-| Webhook | Action |
-| --- | ------ |
-| **Main Notification** | Displays the activity log of **purchases** and **crafting** processes. |
-| **User ID** | Uses your **User ID** or **Role ID** to notify you whenever **rare items** are purchased. |
-| **Status Notification** | A dedicated status popup to help you keep track of how many times you've successfully **Bought** or **Crafting** |
+| Auto-Feed |
+| --- |
+| **Choose Team slot and the number of pets you have, and use fruit as food** |
 
 | Settings | Action |
 | --- | ------ |
@@ -195,6 +193,12 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | **Default** | Reset all settings to default. |
 | **DevZone** | Access the developer tab for testing and debugging. *(Some values should not be changed unless you understand them. If you've accidentally changed something and don't remember the original value, Click button Default)* |
 
+| Webhook | Action |
+| --- | ------ |
+| **Main Notification** | Displays the activity log of **purchases** and **crafting** processes. |
+| **User ID** | Uses your **User ID** or **Role ID** to notify you whenever **rare items** are purchased. |
+| **Status Notification** | A dedicated status popup to help you keep track of how many times you've successfully **Bought** or **Crafting** |
+
 | Developer-Zone | Action |
 | --- | ------ |
 | **Debug Log Viewer** | Monitor the macro's activity in real time without having to open the `MacroDebugLog.txt` file — everything is displayed live. |
@@ -203,6 +207,7 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | Rejoin | Action |
 | --- | ------ |
 | **Auto-Rejoin** | When you lose connection, the Macro will automatically kill Roblox, then run the server link you've provided to reconnect to your specified server *(When you enable "multi-instancing", the auto-rejoin feature will be disabled )*. |
+| **Rejoin-Every** | Will rejoin the game at the set interval. You must provide your own server link and enable **Auto Rejoin**. |
 
 | Multi-Instance | Action |
 | --- | ------ |

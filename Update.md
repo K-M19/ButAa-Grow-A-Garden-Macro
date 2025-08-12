@@ -1,3 +1,12 @@
+# 🛠️ Update Log (5.2) - 👨‍🍳 Reworked Walking Mechanism to Cooking Area & Auto-Feed 🐶
+### Game Version - ID: 1720
+## 🧰 New Features
+* **Reworked walking mechanism to the cooking area**
+* **Auto-Feed**
+* **Rejoin-Every**: Will rejoin the game at the set interval. You must provide your own server link and enable **Auto Rejoin**.
+## 🐛 Fixes
+* **Fixed some minor performance and optimization issues**
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (5.1.1) - 🛠️ FixPack ⚙️
 ### Game Version - ID: 1716
 ## 🐛 Fixes

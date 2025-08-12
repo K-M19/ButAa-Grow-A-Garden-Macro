@@ -1,3 +1,13 @@
+# 🛠️ Update Log (5.1.1) - 🛠️ FixPack ⚙️
+### Game Version - ID: 1716
+## 🐛 Fixes
+* **Fixed the issue where fruits were only recorded once during the second run when using Cook**.
+## ⌛ Soon
+* **Auto-Feed: Pets**: Currently testing feasibility.
+* **Rejoin-Every: 30Mins | 1Hour | 2Hours | 3Hours**
+## ⚙️ MacroMaker Engine II (783.6)
+  **Fast Input**
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (5.1) - 🛠️ FixPack & Spray Merchant 🧑‍🔬
 ## 🧰 New Features
 * **Custom Hotkey**

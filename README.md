@@ -77,6 +77,12 @@ Ideally, should maintain a stable 50–60 FPS for smooth operation.
 > [!NOTE] 
 > The macro is designed to run at a resolution of 1920x1080 (16:9) with Scale (DPI) set to 100%. I cannot guarantee that it will function correctly at other resolutions.
 
+## 🛡️ DRM / Antivirus Notice
+> Some antivirus software may detect this macro as a **false positive**.  
+> That’s because it’s protected with **Bitraven DRM**, which prevents reverse engineering.  
+> Bitraven is designed to safeguard `.exe` and `.btrv` files.  
+> It’s not malware — it’s just extremely private about what it does. 😉
+
 ## ⚙️ System Requirements
 - Display: 1280-720 (Recommended: 1920-1080 or higher), 100% scale
 - OS: Windows 10/11 (64-bit)
@@ -84,16 +90,10 @@ Ideally, should maintain a stable 50–60 FPS for smooth operation.
 - Memory: 40 MB
 - Storage: 27 MB available space
 
-## 🛡️ DRM / Antivirus Notice
-> Some antivirus software may detect this macro as a **false positive**.  
-> That’s because it’s protected with **Bitraven DRM**, which prevents reverse engineering.  
-> Bitraven is designed to safeguard `.exe` and `.btrv` files.  
-> It’s not malware — it’s just extremely private about what it does. 😉
-
 ## ⚙️ MacroMaker Engine
-> This macro is built using the **MacroMaker Engine** — a modified and enhanced version of AutoHotkey. The engine has been optimized for better performance, includes new features, and is integrated with Python for advanced automation and flexibility.
+> The version i using is MacroMaker Engine 2 (783.6). This version is built using C++, Python, and Ruby. It is a privately developed engine and is not publicly , but you can use the basic version below.
 
-* You can download the engine here: [MacroMaker Engine](https://github.com/FurBox-Studio/ToolKit-MacroMaker-Engine)
+* You can download the basic engine here: [MacroMaker Engine](https://github.com/FurBox-Studio/ToolKit-MacroMaker-Engine)
 
 ## 🛡️ Defender Team & Cloudflare ☁️
 > 🛡️ I sincerely thank the **Microsoft Windows Defender Team** & **Avast Software** for ensuring that this macro can run safely on **Windows 10 and 11** systems.  
@@ -132,7 +132,7 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 
 ## 🎥 Tutorial
 
-- 📺 [Watch Video](https://youtu.be/RpFyU5UpYE8)
+- 📺 [Watch Video](https://youtu.be/-HkvycUdr8Y)
 
 ### 🔄 How to Use
 1. Run `ButAa-Macro.exe`.
@@ -153,6 +153,8 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 > HotKey can't save config!.
 
 ### 📦Macro Features
+
+- ⏰ [Time Converter](https://furbox-studio.netlify.app/api/time)
 
 | Shops |
 | --- |

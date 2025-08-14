@@ -100,7 +100,7 @@ False positives may occur due to DRM features like anti-debugging, obfuscation, 
 
 ## 23. License Expiration and Update Responsibility
 The latest license is available at:  
-🔗 https://butaa91z.netlify.app/LICENSE  
+🔗 https://butaa.top/LICENSE  
 🔗 https://github.com/K-M19/CUSTOM-LICENSE
 
 ## 24. Contact & Communication

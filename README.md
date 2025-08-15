@@ -39,8 +39,9 @@
   >If you're in fullscreen and don't know how to switch to windowed mode, just press F11.
 - Microsoft Store Roblox is not supported.
 
+## 💬 Roblox language
 <details>
-<summary>How do I set Roblox language?</summary>
+<summary>How do I set Roblox language? (Click to Show/Hide)</summary>
 <br>
 <h3>1: Click More</h3>
   <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow-A-Garden-Macro/refs/heads/main/IMG/Setting/1.jpg" width="420"/>
@@ -122,6 +123,7 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | 87162006  | ImNotThinknoodles  | 770 Robux |
 | 4073346622  | baodhy2002  | 200 Robux |
 | 4517788040  | ThanhTrau07  | 25 Robux |
+| 3186880857  | hectrd2011  | 25 Robux |
 
 ## 📦 Download Macro
 **📜 Please read the [license and terms](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/LICENSE.md) before downloading. By using this software, you agree to them.**

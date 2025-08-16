@@ -1,3 +1,17 @@
+# 🛠️ Update Log (5.2.1) - 🌱 Event - BEANSTALK 🌱
+### Game Version - ID: 1743
+## 🧰 New Features
+* **Auto-Cook has been disabled**
+* **Added new items in the Seeds Shop and Crafting Tools**
+* **Added a button to access the Time Converter tool**
+* **Removed troll link when decline Terms**
+* **Reworked Rejoin Mechanism**: Simplified the rejoin process to prevent issues with network disconnection or continuous Roblox disconnects.  
+* **Increased server connection handling speed**
+## ⚙️ MacroMaker Engine II (785.4)
+  * **Lowered Recommended Specs**:
+  - 1.2 GHz (521KB L3 & 8KB L2 Cache)  
+  * **Improved processing performance**
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (5.2) - 👨‍🍳 Reworked Walking Mechanism to Cooking Area & Auto-Feed 🐶
 ### Game Version - ID: 1720
 ## 🧰 New Features

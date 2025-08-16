@@ -256,5 +256,5 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 
 
 ## 📬 Contact & Support
-- 🔗 Discord: [Join Server](https://discord.com/invite/n8M25v2fGq)
-- 🔗 Feedback Form: [Submit Here](https://docs.google.com/forms/d/e/1FAIpQLSd4A0XEf-W8rRbbZuTVjVfBf2_3wApZ0gvLvx7KNTfixUOhSw/viewform)
+- 🔗 Discord: [Join Server](https://butaa.top/Discord/)
+- 🔗 Feedback Form: [Submit Here](https://butaa.top/feedback/)

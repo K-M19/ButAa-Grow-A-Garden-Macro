@@ -87,9 +87,10 @@ Ideally, should maintain a stable 50–60 FPS for smooth operation.
 ## ⚙️ System Requirements
 - Display: 1280-720 (Recommended: 1920-1080 or higher), 100% scale
 - OS: Windows 10/11 (64-bit)
-- Processor: 2 hardware CPU threads & 1.5 GHz (2 MB L3 & 16KB L2 Cache) or ARM64 (Windows 11 24H2+ 64-bit)
+- Processor: 2 hardware CPU threads & 1.2 GHz (521KB L3 & 8KB L2 Cache) or ARM64 (Windows 11 24H2+ 64-bit)
 - Memory: 40 MB
-- Storage: 27 MB available space
+- Storage: 50 MB available space
+> TIP: If you can open Roblox, it will work.
 
 ## ⚙️ MacroMaker Engine
 > The version i using is MacroMaker Engine 2 (783.6). This version is built using C++, Python, and Ruby. It is a privately developed engine and is not publicly , but you can use the basic version below.

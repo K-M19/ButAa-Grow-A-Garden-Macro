@@ -1,3 +1,10 @@
+# 🛠️ Update Log (5.2.2) - 👨‍🍳 Reworked Auto-Cook 👨‍🍳
+### Game Version - ID: 1747
+## 🧰 New Features
+* **Reworked Cook & Camera Mechanism**: The game now allows players to cook in the Garden. Before cooking, make sure to equip the Cooking Kit in front of your character in the garden.
+* **Removed outdated version notification**: Instead of interrupting your macro process, it now only shows a subtle warning next to the name to help you recognize the latest version.
+* **Reworked Update Button**: When you are using an outdated version, an Update button will appear in the Credits tab. (If you have ButAa-Checker installed, it will launch it; otherwise, it will redirect you to the GitHub page.)
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (5.2.1) - 🌱 Event - BEANSTALK 🌱
 ### Game Version - ID: 1743
 ## 🧰 New Features

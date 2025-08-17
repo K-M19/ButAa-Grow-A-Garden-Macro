@@ -243,11 +243,11 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
   align yourself with the pot, look down at the ground, and use the slot as a precise reference point.  
   You can view an illustration:
 
+<img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow-A-Garden-Macro/refs/heads/main/IMG/Setting/FOV-Cook2.png" width="420"/>
 <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow-A-Garden-Macro/refs/heads/main/IMG/Setting/Cook.png" width="420"/>
 
 ### How to use (join Private Server)
 1.  Copy your Private Server Link, which will look like this: `https://www.roblox.com/share?code=a4258b09fd2383665590b1d5cf0fbc&type=Server`
-
 2.  Open that link in your browser and wait 10-15s, it will redirect to a proper link like: `https://www.roblox.com/games/126884695634066/Grow-a-Garden?privateServerLinkCode=95114022801656566223897662112`
 3.  Copy and paste that final link into the Private Server field in the Settings tab.
 4.  Click the Join button to test.

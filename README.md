@@ -188,7 +188,7 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 
 | Auto-Feed |
 | --- |
-| **Choose Team slot and the number of pets you have, and use fruit as food** |
+| **Choose Team slot and the number of pets you have, and use fruit as food, you need to equip 8/8 pets to use this feature.** |
 
 | Settings | Action |
 | --- | ------ |

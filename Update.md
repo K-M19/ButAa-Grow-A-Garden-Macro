@@ -1,3 +1,7 @@
+# 🛠️ Update Log (5.2.3) - 🛠️ Connection FixPack ⚙️
+## 🐛 Fixes
+* **Fixed issues and added alternative connection methods to support users running certain custom operating systems or facing restricted connections from specific countries to Cloudflare.**
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (5.2.2) - 👨‍🍳 Reworked Auto-Cook 👨‍🍳
 ### Game Version - ID: 1747
 ## 🧰 New Features

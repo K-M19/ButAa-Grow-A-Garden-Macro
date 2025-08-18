@@ -2,6 +2,10 @@
 > [!CAUTION]  
 > The only official places to download Macro are this GitHub repository. Any other websites offering downloads or claiming to be us are not controlled by us.
 
+> [!NOTE]
+> The macro will be suspended from development once again, and this time for real. The reason is that I’m facing difficulties with the events, as four events have already passed and I neither played nor participated in them. I only provide features within the scope I can access, but also, boredom from this game has played a part.
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow-A-Garden-Macro/refs/heads/main/IMG/B-Theme.png#gh-dark-mode-only" width="420">
   <img src="https://raw.githubusercontent.com/K-M19/ButAa-Grow-A-Garden-Macro/refs/heads/main/IMG/W-Theme.png#gh-light-mode-only" width="420">

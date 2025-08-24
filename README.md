@@ -114,6 +114,7 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 
 ## ❤️ Support
 * **If you like this Macro, you can Support to me and join Supporter!!**
+- [Steam-Trade](https://furbox-studio.netlify.app/FastTravel/SteamTrade)
 - ☕ [Coffee-Donate](https://www.roblox.com/game-pass/1250367973)
 - 🫂 [Hug-Donate](https://www.roblox.com/game-pass/1247612232)
 - 🤯 [Big-Donate](https://www.roblox.com/game-pass/1077625815)

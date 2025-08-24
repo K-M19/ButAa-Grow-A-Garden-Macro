@@ -1,3 +1,14 @@
+# 🛠️ Update Log (5.2.4) - ⚔️ ADMIN WAR ⚔️
+> The taking over, [Tyep](https://github.com/Tyep42)
+### Game Version - ID: 1791
+## 🧰 New Features
+* **Added Anti-Menu support for VNG users and countries using the new UI version**
+* **Added 1 new item from the Gears Shop**
+* **Removed watering cans from Crafting Tools**
+* **Brought back 3 basic egg types**
+## 🐛 Fixes
+* **Fixed several minor bugs from the user UI version.**
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (5.2.3) - 🛠️ Connection FixPack ⚙️
 ## 🐛 Fixes
 * **Fixed issues and added alternative connection methods to support users running certain custom operating systems or facing restricted connections from specific countries to Cloudflare.**

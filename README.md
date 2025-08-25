@@ -123,6 +123,9 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 - 📌 [More Options](https://www.roblox.com/games/131557215037999/Duck#!/store)
   
 ## ♛ List Of Supporter
+<details>
+<summary>Click to Show/Hide(Supporter)</summary>
+  
 | ID | User | Donated |
 | --- | ------ | ------ |
 | 2365909501  | MasteryIslandOp  | 800 Robux |
@@ -131,6 +134,11 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | 4517788040  | ThanhTrau07  | 25 Robux |
 | 3186880857  | hectrd2011  | 25 Robux |
 | 267439492  | askingborito13  | 120 Robux |
+| 8675220996  | hungpao23  | 95 Robux |
+| 8842696578  | xxcylops  | 25 Robux |
+| 2954153954  | Xavier657939  | 25 Robux |
+
+</details>
 
 
 ## 📦 Download Macro

@@ -228,6 +228,7 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | --- | ------ |
 | **Auto-Rejoin** | When you lose connection, the Macro will automatically kill Roblox, then run the server link you've provided to reconnect to your specified server *(When you enable "multi-instancing", the auto-rejoin feature will be disabled )*. |
 | **Rejoin-Every** | Will rejoin the game at the set interval. You must provide your own server link and enable **Auto Rejoin**. |
+| **How it works** | After rejoining, the macro will call the script from `Core\lib\Reload.ahk`.  This script will read the file and execute the configured hotkeys. Once called, it will reload the macro, wait 45 seconds, and then run the start macro. |
 
 | Multi-Instance | Action |
 | --- | ------ |

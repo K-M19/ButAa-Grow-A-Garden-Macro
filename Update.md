@@ -1,3 +1,9 @@
+# 🛠️ Update Log (5.2.5)
+> The taking over, [Tyep](https://github.com/Tyep42)
+### Game Version - ID: 1802
+## 🧰 New Features
+* **Add Summer Egg (Merchant)**
+> 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (5.2.4) - ⚔️ ADMIN WAR ⚔️
 > The taking over, [Tyep](https://github.com/Tyep42)
 ### Game Version - ID: 1791

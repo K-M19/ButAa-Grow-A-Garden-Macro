@@ -25,7 +25,7 @@
 ✅ - ARM64 (Windows 11 24h2+ 64-bit)
 
 ## 📊 System status
-- This is the project server system status, you can check it here: [Furbox-Studio-Status](https://furboxstudio.instatus.com)
+- This is the project server system status, you can check it here: [Furbox-Studio-Status](https://furbox-studio.pages.dev/)
 
 ## 🧠 Before You Start
 - **📜 Please read the [license and terms](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/LICENSE.md) before downloading. By using this software, you agree to them.**

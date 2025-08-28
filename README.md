@@ -31,7 +31,7 @@
 - **📜 Please read the [license and terms](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/blob/main/LICENSE.md) before downloading. By using this software, you agree to them.**
 - **🖥️ Install Full [Visual C++](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one) & [.Net 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-9.0.7-windows-x64-installer).**
 - **⚙️ Read the [Roblox Settings](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/tree/main?tab=readme-ov-file#%EF%B8%8F-roblox-settings) & [Display settings](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/tree/main?tab=readme-ov-file#%EF%B8%8F-display-settings).**
-- **Sometimes the server is down or under maintenance, which may prevent you from launching the macro. You can check the status here: [Furbox-Studio-Status](https://furboxstudio.instatus.com).**
+- **Sometimes the server is down or under maintenance, which may prevent you from launching the macro. You can check the status here: [Furbox-Studio-Status](https://furbox-studio.pages.dev/).**
 - **📜 Guide and Usage Instructions: [Tutorial](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/tree/main?tab=readme-ov-file#-tutorial).**
 - **🔗 Download Macro: [Here](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/tree/main?tab=readme-ov-file#-download-macro).**
 - **[📬 Contact & Support](https://github.com/K-M19/ButAa-Grow-A-Garden-Macro/tree/main?tab=readme-ov-file#-contact--support)**
@@ -190,6 +190,7 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 | **Onet Merchant**  | Done. |
 | **Gnome Merchant**  | Done. |
 | **Spary Merchant**  | Done. |
+| **Sprinkler Merchant**  | Done. |
 | **Do Sky & Summer & Onet & Gnome & Spary**  | The 'Do' option provides Merchant choices to help you skip or proceed to different Merchants.. |
 
 | Patterns | Action |

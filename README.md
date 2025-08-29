@@ -1,6 +1,6 @@
 
 > [!WARNING]  
-> I’m taking over his macro, [Tyep](https://github.com/Tyep42)
+> Project is closed.
 
 > [!CAUTION]  
 > The only official places to download Macro are this GitHub repository. Any other websites offering downloads or claiming to be us are not controlled by us.

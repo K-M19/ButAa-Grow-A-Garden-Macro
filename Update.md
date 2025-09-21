@@ -1,3 +1,11 @@
+# 🛠️ Update Log (5.3.0)
+### Game Version - ID: 1898
+## 🧰 New Features
+* **Tier 2 - Seeds**
+* **Added new Seeds and Tools for Crafting and Basic Shops**
+## 🐛 Fixes
+* **Fixed an issue with the new UI where the chat panel would not auto-close on the first launch. You will now need to close the chat panel manually.**
+* > 🤝 Big thanks to the **Microsoft Windows Defender Team** & **Avast Software** and **Cloudflare** for their support on this project!
 # 🛠️ Update Log (5.2.6)
 > The taking over, [Tyep](https://github.com/Tyep42)
 ### Game Version - ID: 1809
